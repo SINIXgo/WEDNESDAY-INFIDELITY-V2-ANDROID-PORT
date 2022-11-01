@@ -1,78 +1,78 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				20,
 				30
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "Mouse idle"
+			"fps": 24,
+			"name": "Mouse idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				15,
 				-143
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "Mouse Down"
+			"fps": 24,
+			"name": "Mouse Down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				34,
 				57
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "Mouse Left"
+			"fps": 24,
+			"name": "Mouse Left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				30,
 				34
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "Mouse Rigth"
+			"fps": 24,
+			"name": "Mouse Rigth",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				46,
 				3
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "Mouse Up"
+			"fps": 24,
+			"name": "Mouse Up",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
 				86,
 				67
 			],
-			"anim": "hey",
+			"loop": false,
 			"fps": 36,
-			"name": "sad",
-			"indices": []
+			"anim": "hey",
+			"indices": [],
+			"name": "sad"
 		}
 	],
-    "dataType": "JSON",
+	"dataType": "JSON",
 	"no_antialiasing": false,
 	"image": "characters/Mouse",
 	"position": [
-		41,
-		267
+		-70,
+		110
 	],
 	"healthicon": "face",
 	"flip_x": false,
@@ -82,9 +82,9 @@
 		81
 	],
 	"camera_position": [
-		-230,
-		-120
+		-120,
+		30
 	],
 	"sing_duration": 4,
-	"scale": 2.4
+	"scale": 1.2
 }

@@ -1,78 +1,67 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				-27,
 				-142
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "BOOK MIKI RIGHT",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BOOK MIKI RIGHT"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				66,
 				-136
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "BOOK MIKI LEFT",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BOOK MIKI LEFT"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-9,
 				-97
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "BOOK MIKI UP",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "BOOK MIKI UP"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-2,
 				-175
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "BOOK MIKI DOWN",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BOOK MIKI DOWN"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				2,
 				-120
 			],
+			"indices": [],
+			"fps": 24,
 			"anim": "idle",
-			"fps": 24,
-			"name": "BOOK MIKI IDLE",
-			"indices": []
-		},
-		{
 			"loop": false,
-			"offsets": [
-				-7,
-				-71
-			],
-			"anim": "book",
-			"fps": 24,
-			"name": "LEAKERS NOOBS",
-			"indices": []
+			"name": "BOOK MIKI IDLE"
 		}
 	],
 	"dataType": "JSON",
 	"no_antialiasing": false,
-	"image": "characters/leakers/MICKEY LEAKER-BOOK",
+	"image": "characters/leakers/MICKEY LEAKER",
 	"position": [
-		86,
-		120
+		0,
+		0
 	],
 	"healthicon": "mickeyandsatan",
 	"flip_x": false,
@@ -82,9 +71,9 @@
 		71
 	],
 	"camera_position": [
-		-90,
-		-600
+		-10,
+		-480
 	],
 	"sing_duration": 4,
-	"scale": 2.4
+	"scale": 1.2
 }

@@ -1,48 +1,59 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				-10,
 				-77
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "Mouse Down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Mouse Down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				41,
 				-19
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "Mouse Left",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Mouse Left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-1,
 				-19
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "Mouse Rigth",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Mouse Rigth"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				3,
 				-52
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "Mouse Up",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "Mouse Up"
+		},
+		{
+			"offsets": [
+				71,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "risa",
+			"indices": [],
+			"name": "laugh"
 		},
 		{
 			"loop": false,
@@ -50,19 +61,9 @@
 				71,
 				-6
 			],
-			"anim": "risa",
+			"anim": "risaSingle",
 			"fps": 24,
 			"name": "laugh",
-			"indices": []
-		},
-		{
-			"offsets": [
-				71,
-				-6
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "risaSingle",
 			"indices": [
 				28,
 				29,
@@ -74,27 +75,26 @@
 				34,
 				34,
 				34
-			],
-			"name": "laugh"
+			]
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "Mouse idle"
+			"fps": 24,
+			"name": "Mouse idle",
+			"indices": []
 		}
 	],
 	"dataType": "JSON",
 	"no_antialiasing": false,
 	"image": "characters/smiler",
 	"position": [
-		16,
-		221
+		-95,
+		75
 	],
 	"healthicon": "dad",
 	"flip_x": false,
@@ -104,9 +104,9 @@
 		81
 	],
 	"camera_position": [
-		-230,
-		-116
+		-120,
+		30
 	],
 	"sing_duration": 4,
-	"scale": 2.4
+	"scale": 1.2
 }

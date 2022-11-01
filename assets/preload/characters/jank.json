@@ -159,8 +159,8 @@
 	"no_antialiasing": false,
 	"image": "characters/Jank",
 	"position": [
-  135,
-		385
+		5,
+		275
 	],
 	"healthicon": "battered",
 	"flip_x": false,
@@ -170,9 +170,9 @@
 		39
 	],
 	"camera_position": [
-		-110,
-		-10
+		-170,
+		-40
 	],
 	"sing_duration": 4,
-	"scale": 2.4
+	"scale": 1.2
 }

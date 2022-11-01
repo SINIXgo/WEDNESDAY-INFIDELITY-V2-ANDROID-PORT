@@ -60,8 +60,8 @@
 	"no_antialiasing": false,
 	"image": "characters/Prisoner_Mickey",
 	"position": [
-		170,
-		510
+		80,
+		370
 	],
 	"healthicon": "mickeyprison",
 	"flip_x": true,
@@ -71,9 +71,9 @@
 		126
 	],
 	"camera_position": [
-		100,
-		-10
+		0,
+		0
 	],
 	"sing_duration": 3.90000000000001,
-	"scale": 2.4
+	"scale": 1.2
 }

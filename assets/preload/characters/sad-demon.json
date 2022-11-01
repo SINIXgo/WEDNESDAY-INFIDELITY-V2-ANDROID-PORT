@@ -102,10 +102,10 @@
 				364,
 				275
 			],
-			"loop": false,
+			"indices": [],
 			"fps": 24,
 			"anim": "laugh",
-			"indices": [],
+			"loop": false,
 			"name": "SAD DEMON JUJUJUJA"
 		}
 	],
@@ -113,8 +113,8 @@
 	"no_antialiasing": false,
 	"image": "characters/SAD_DEMON",
 	"position": [
-		188,
-		410
+		70,
+		300
 	],
 	"healthicon": "skinnysatan",
 	"flip_x": false,
@@ -124,9 +124,9 @@
 		113
 	],
 	"camera_position": [
-		-115,
-		-110
+		0,
+		0
 	],
 	"sing_duration": 4.00000000000001,
-	"scale": 2.594537815
+	"scale": 1.3
 }
