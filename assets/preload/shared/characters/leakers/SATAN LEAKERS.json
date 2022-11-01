@@ -1,0 +1,4311 @@
+{
+  "frames": {
+    "SATAN RIGHT0001": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 388,
+        "h": 269
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20,
+        "y": 0,
+        "w": 388,
+        "h": 269
+      },
+      "sourceSize": {
+        "w": 408,
+        "h": 274
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN RIGHT0003": {
+      "frame": {
+        "x": 269,
+        "y": 0,
+        "w": 388,
+        "h": 264
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 4,
+        "w": 388,
+        "h": 264
+      },
+      "sourceSize": {
+        "w": 408,
+        "h": 274
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN RIGHT0005": {
+      "frame": {
+        "x": 0,
+        "y": 388,
+        "w": 380,
+        "h": 262
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 25,
+        "y": 3,
+        "w": 380,
+        "h": 262
+      },
+      "sourceSize": {
+        "w": 408,
+        "h": 274
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN LEFT0003": {
+      "frame": {
+        "x": 533,
+        "y": 0,
+        "w": 350,
+        "h": 286
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 1,
+        "w": 350,
+        "h": 286
+      },
+      "sourceSize": {
+        "w": 352,
+        "h": 293
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN LEFT0005": {
+      "frame": {
+        "x": 0,
+        "y": 650,
+        "w": 350,
+        "h": 282
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 5,
+        "w": 350,
+        "h": 282
+      },
+      "sourceSize": {
+        "w": 352,
+        "h": 293
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN LEFT0001": {
+      "frame": {
+        "x": 350,
+        "y": 650,
+        "w": 349,
+        "h": 279
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 5,
+        "w": 349,
+        "h": 279
+      },
+      "sourceSize": {
+        "w": 352,
+        "h": 293
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN RIGHT0007": {
+      "frame": {
+        "x": 380,
+        "y": 388,
+        "w": 346,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 13,
+        "y": 22,
+        "w": 346,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 408,
+        "h": 274
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN UP0001": {
+      "frame": {
+        "x": 819,
+        "y": 0,
+        "w": 334,
+        "h": 294
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 1,
+        "w": 334,
+        "h": 294
+      },
+      "sourceSize": {
+        "w": 334,
+        "h": 314
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN RIGHT0009": {
+      "frame": {
+        "x": 726,
+        "y": 350,
+        "w": 331,
+        "h": 235
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 26,
+        "w": 331,
+        "h": 235
+      },
+      "sourceSize": {
+        "w": 408,
+        "h": 274
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN UP0005": {
+      "frame": {
+        "x": 699,
+        "y": 608,
+        "w": 317,
+        "h": 297
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 2,
+        "w": 317,
+        "h": 297
+      },
+      "sourceSize": {
+        "w": 334,
+        "h": 314
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN UP0003": {
+      "frame": {
+        "x": 0,
+        "y": 932,
+        "w": 317,
+        "h": 298
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 0,
+        "w": 317,
+        "h": 298
+      },
+      "sourceSize": {
+        "w": 334,
+        "h": 314
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN LEFT0007": {
+      "frame": {
+        "x": 699,
+        "y": 925,
+        "w": 303,
+        "h": 287
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 0,
+        "w": 303,
+        "h": 287
+      },
+      "sourceSize": {
+        "w": 352,
+        "h": 293
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN UP0007": {
+      "frame": {
+        "x": 317,
+        "y": 932,
+        "w": 281,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 9,
+        "w": 281,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 334,
+        "h": 314
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DOWN0001": {
+      "frame": {
+        "x": 1113,
+        "y": 0,
+        "w": 279,
+        "h": 237
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 279,
+        "h": 237
+      },
+      "sourceSize": {
+        "w": 281,
+        "h": 257
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN UP0009": {
+      "frame": {
+        "x": 1057,
+        "y": 334,
+        "w": 273,
+        "h": 217
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 85,
+        "w": 273,
+        "h": 217
+      },
+      "sourceSize": {
+        "w": 334,
+        "h": 314
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DOWN0003": {
+      "frame": {
+        "x": 1057,
+        "y": 551,
+        "w": 270,
+        "h": 237
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 10,
+        "y": 0,
+        "w": 270,
+        "h": 237
+      },
+      "sourceSize": {
+        "w": 281,
+        "h": 257
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DOWN0005": {
+      "frame": {
+        "x": 986,
+        "y": 925,
+        "w": 269,
+        "h": 234
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 12,
+        "y": 4,
+        "w": 269,
+        "h": 234
+      },
+      "sourceSize": {
+        "w": 281,
+        "h": 257
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10099": {
+      "frame": {
+        "x": 0,
+        "y": 1230,
+        "w": 241,
+        "h": 262
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 7,
+        "w": 241,
+        "h": 262
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10035": {
+      "frame": {
+        "x": 317,
+        "y": 1225,
+        "w": 245,
+        "h": 262
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 7,
+        "w": 245,
+        "h": 262
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10083": {
+      "frame": {
+        "x": 579,
+        "y": 1228,
+        "w": 241,
+        "h": 262
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 7,
+        "w": 241,
+        "h": 262
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10019": {
+      "frame": {
+        "x": 986,
+        "y": 1194,
+        "w": 254,
+        "h": 262
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 5,
+        "w": 254,
+        "h": 262
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10011": {
+      "frame": {
+        "x": 1350,
+        "y": 0,
+        "w": 254,
+        "h": 262
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 5,
+        "w": 254,
+        "h": 262
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10059": {
+      "frame": {
+        "x": 1350,
+        "y": 262,
+        "w": 251,
+        "h": 262
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 0,
+        "w": 251,
+        "h": 262
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10027": {
+      "frame": {
+        "x": 1330,
+        "y": 524,
+        "w": 248,
+        "h": 262
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 6,
+        "w": 248,
+        "h": 262
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10043": {
+      "frame": {
+        "x": 1327,
+        "y": 772,
+        "w": 245,
+        "h": 262
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 7,
+        "w": 245,
+        "h": 262
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10133": {
+      "frame": {
+        "x": 1240,
+        "y": 1017,
+        "w": 245,
+        "h": 262
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 1,
+        "w": 245,
+        "h": 262
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10067": {
+      "frame": {
+        "x": 0,
+        "y": 1471,
+        "w": 251,
+        "h": 262
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 1,
+        "w": 251,
+        "h": 262
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10125": {
+      "frame": {
+        "x": 841,
+        "y": 1456,
+        "w": 245,
+        "h": 262
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 1,
+        "w": 245,
+        "h": 262
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10076": {
+      "frame": {
+        "x": 579,
+        "y": 1469,
+        "w": 248,
+        "h": 262
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 2,
+        "w": 248,
+        "h": 262
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10117": {
+      "frame": {
+        "x": 1086,
+        "y": 1456,
+        "w": 245,
+        "h": 262
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 1,
+        "w": 245,
+        "h": 262
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10091": {
+      "frame": {
+        "x": 262,
+        "y": 1470,
+        "w": 241,
+        "h": 262
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 7,
+        "w": 241,
+        "h": 262
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10109": {
+      "frame": {
+        "x": 1331,
+        "y": 1262,
+        "w": 243,
+        "h": 261
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 12,
+        "w": 243,
+        "h": 261
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10051": {
+      "frame": {
+        "x": 1589,
+        "y": 772,
+        "w": 246,
+        "h": 261
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 9,
+        "w": 246,
+        "h": 261
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10005": {
+      "frame": {
+        "x": 0,
+        "y": 1722,
+        "w": 260,
+        "h": 259
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 1,
+        "w": 260,
+        "h": 259
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10077": {
+      "frame": {
+        "x": 260,
+        "y": 1722,
+        "w": 247,
+        "h": 259
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 4,
+        "w": 247,
+        "h": 259
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10078": {
+      "frame": {
+        "x": 507,
+        "y": 1718,
+        "w": 239,
+        "h": 259
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 10,
+        "w": 239,
+        "h": 259
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10053": {
+      "frame": {
+        "x": 1604,
+        "y": 0,
+        "w": 246,
+        "h": 259
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 11,
+        "w": 246,
+        "h": 259
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10111": {
+      "frame": {
+        "x": 746,
+        "y": 1718,
+        "w": 238,
+        "h": 259
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 4,
+        "w": 238,
+        "h": 259
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10045": {
+      "frame": {
+        "x": 1502,
+        "y": 1018,
+        "w": 244,
+        "h": 259
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 9,
+        "w": 244,
+        "h": 259
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10103": {
+      "frame": {
+        "x": 984,
+        "y": 1718,
+        "w": 237,
+        "h": 259
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 21,
+        "y": 12,
+        "w": 237,
+        "h": 259
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10029": {
+      "frame": {
+        "x": 1604,
+        "y": 259,
+        "w": 242,
+        "h": 259
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 10,
+        "w": 242,
+        "h": 259
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10085": {
+      "frame": {
+        "x": 1221,
+        "y": 1718,
+        "w": 240,
+        "h": 259
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 9,
+        "w": 240,
+        "h": 259
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10101": {
+      "frame": {
+        "x": 1592,
+        "y": 1262,
+        "w": 240,
+        "h": 259
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 9,
+        "w": 240,
+        "h": 259
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10093": {
+      "frame": {
+        "x": 1461,
+        "y": 1521,
+        "w": 240,
+        "h": 259
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 9,
+        "w": 240,
+        "h": 259
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10037": {
+      "frame": {
+        "x": 1761,
+        "y": 1018,
+        "w": 244,
+        "h": 259
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 9,
+        "w": 244,
+        "h": 259
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10127": {
+      "frame": {
+        "x": 1832,
+        "y": 1262,
+        "w": 237,
+        "h": 258
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 25,
+        "y": 3,
+        "w": 237,
+        "h": 258
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10135": {
+      "frame": {
+        "x": 1832,
+        "y": 1499,
+        "w": 237,
+        "h": 258
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 25,
+        "y": 3,
+        "w": 237,
+        "h": 258
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10013": {
+      "frame": {
+        "x": 1601,
+        "y": 518,
+        "w": 253,
+        "h": 258
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 7,
+        "w": 253,
+        "h": 258
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10061": {
+      "frame": {
+        "x": 0,
+        "y": 1981,
+        "w": 250,
+        "h": 258
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 3,
+        "w": 250,
+        "h": 258
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10069": {
+      "frame": {
+        "x": 258,
+        "y": 1981,
+        "w": 250,
+        "h": 258
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 3,
+        "w": 250,
+        "h": 258
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10119": {
+      "frame": {
+        "x": 1846,
+        "y": 259,
+        "w": 237,
+        "h": 258
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 25,
+        "y": 3,
+        "w": 237,
+        "h": 258
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10021": {
+      "frame": {
+        "x": 516,
+        "y": 1977,
+        "w": 253,
+        "h": 258
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 7,
+        "w": 253,
+        "h": 258
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10080": {
+      "frame": {
+        "x": 1850,
+        "y": 0,
+        "w": 237,
+        "h": 257
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20,
+        "y": 12,
+        "w": 237,
+        "h": 257
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10079": {
+      "frame": {
+        "x": 774,
+        "y": 1977,
+        "w": 238,
+        "h": 257
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 13,
+        "w": 238,
+        "h": 257
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10031": {
+      "frame": {
+        "x": 1031,
+        "y": 1977,
+        "w": 237,
+        "h": 257
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 24,
+        "y": 12,
+        "w": 237,
+        "h": 257
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10121": {
+      "frame": {
+        "x": 1288,
+        "y": 1977,
+        "w": 243,
+        "h": 257
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 5,
+        "w": 243,
+        "h": 257
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10039": {
+      "frame": {
+        "x": 1720,
+        "y": 1736,
+        "w": 237,
+        "h": 257
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 25,
+        "y": 11,
+        "w": 237,
+        "h": 257
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10047": {
+      "frame": {
+        "x": 1545,
+        "y": 1973,
+        "w": 237,
+        "h": 257
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 25,
+        "y": 11,
+        "w": 237,
+        "h": 257
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10129": {
+      "frame": {
+        "x": 1782,
+        "y": 1973,
+        "w": 243,
+        "h": 257
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 5,
+        "w": 243,
+        "h": 257
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10095": {
+      "frame": {
+        "x": 1977,
+        "y": 1736,
+        "w": 237,
+        "h": 257
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 21,
+        "y": 11,
+        "w": 237,
+        "h": 257
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10113": {
+      "frame": {
+        "x": 2025,
+        "y": 1973,
+        "w": 242,
+        "h": 257
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 6,
+        "w": 242,
+        "h": 257
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10105": {
+      "frame": {
+        "x": 2090,
+        "y": 0,
+        "w": 240,
+        "h": 257
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 15,
+        "w": 240,
+        "h": 257
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10055": {
+      "frame": {
+        "x": 2090,
+        "y": 257,
+        "w": 239,
+        "h": 257
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 28,
+        "y": 6,
+        "w": 239,
+        "h": 257
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10087": {
+      "frame": {
+        "x": 2090,
+        "y": 514,
+        "w": 237,
+        "h": 257
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 21,
+        "y": 11,
+        "w": 237,
+        "h": 257
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10015": {
+      "frame": {
+        "x": 1850,
+        "y": 771,
+        "w": 242,
+        "h": 257
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 29,
+        "y": 9,
+        "w": 242,
+        "h": 257
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10063": {
+      "frame": {
+        "x": 2090,
+        "y": 1013,
+        "w": 240,
+        "h": 257
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 28,
+        "y": 5,
+        "w": 240,
+        "h": 257
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10007": {
+      "frame": {
+        "x": 0,
+        "y": 2231,
+        "w": 243,
+        "h": 256
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 29,
+        "y": 9,
+        "w": 243,
+        "h": 256
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10057": {
+      "frame": {
+        "x": 774,
+        "y": 2220,
+        "w": 248,
+        "h": 254
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 3,
+        "w": 248,
+        "h": 254
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10107": {
+      "frame": {
+        "x": 1022,
+        "y": 2220,
+        "w": 243,
+        "h": 254
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 17,
+        "w": 243,
+        "h": 254
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10081": {
+      "frame": {
+        "x": 1265,
+        "y": 2220,
+        "w": 238,
+        "h": 254
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 13,
+        "w": 238,
+        "h": 254
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10115": {
+      "frame": {
+        "x": 2330,
+        "y": 0,
+        "w": 245,
+        "h": 253
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 6,
+        "w": 245,
+        "h": 253
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10009": {
+      "frame": {
+        "x": 2267,
+        "y": 1270,
+        "w": 251,
+        "h": 253
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20,
+        "y": 10,
+        "w": 251,
+        "h": 253
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10116": {
+      "frame": {
+        "x": 2330,
+        "y": 253,
+        "w": 245,
+        "h": 253
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 6,
+        "w": 245,
+        "h": 253
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10082": {
+      "frame": {
+        "x": 2107,
+        "y": 771,
+        "w": 239,
+        "h": 253
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 13,
+        "w": 239,
+        "h": 253
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10131": {
+      "frame": {
+        "x": 2330,
+        "y": 1010,
+        "w": 245,
+        "h": 253
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 6,
+        "w": 245,
+        "h": 253
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10049": {
+      "frame": {
+        "x": 256,
+        "y": 2231,
+        "w": 243,
+        "h": 253
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 13,
+        "w": 243,
+        "h": 253
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10065": {
+      "frame": {
+        "x": 2327,
+        "y": 514,
+        "w": 249,
+        "h": 253
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 6,
+        "w": 249,
+        "h": 253
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10041": {
+      "frame": {
+        "x": 509,
+        "y": 2231,
+        "w": 243,
+        "h": 253
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 13,
+        "w": 243,
+        "h": 253
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10089": {
+      "frame": {
+        "x": 1503,
+        "y": 2230,
+        "w": 239,
+        "h": 253
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 13,
+        "w": 239,
+        "h": 253
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10017": {
+      "frame": {
+        "x": 2267,
+        "y": 1521,
+        "w": 251,
+        "h": 253
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20,
+        "y": 10,
+        "w": 251,
+        "h": 253
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10033": {
+      "frame": {
+        "x": 1756,
+        "y": 2230,
+        "w": 243,
+        "h": 253
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 13,
+        "w": 243,
+        "h": 253
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10097": {
+      "frame": {
+        "x": 2009,
+        "y": 2230,
+        "w": 239,
+        "h": 253
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 13,
+        "w": 239,
+        "h": 253
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10123": {
+      "frame": {
+        "x": 2267,
+        "y": 1772,
+        "w": 245,
+        "h": 253
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 6,
+        "w": 245,
+        "h": 253
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DOWN0007": {
+      "frame": {
+        "x": 2262,
+        "y": 2230,
+        "w": 250,
+        "h": 232
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 13,
+        "w": 250,
+        "h": 232
+      },
+      "sourceSize": {
+        "w": 281,
+        "h": 257
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10003": {
+      "frame": {
+        "x": 2360,
+        "y": 767,
+        "w": 242,
+        "h": 200
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 45,
+        "w": 242,
+        "h": 200
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DOWN0008": {
+      "frame": {
+        "x": 1859,
+        "y": 517,
+        "w": 227,
+        "h": 173
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 69,
+        "w": 227,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 281,
+        "h": 257
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN LEFT0009": {
+      "frame": {
+        "x": 1461,
+        "y": 1761,
+        "w": 192,
+        "h": 224
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 33,
+        "y": 69,
+        "w": 192,
+        "h": 224
+      },
+      "sourceSize": {
+        "w": 352,
+        "h": 293
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10002": {
+      "frame": {
+        "x": 2267,
+        "y": 2017,
+        "w": 223,
+        "h": 212
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 49,
+        "w": 223,
+        "h": 212
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN RIGHT0010": {
+      "frame": {
+        "x": 1331,
+        "y": 1505,
+        "w": 204,
+        "h": 130
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16,
+        "y": 144,
+        "w": 204,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 408,
+        "h": 274
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN UP0010": {
+      "frame": {
+        "x": 996,
+        "y": 788,
+        "w": 188,
+        "h": 131
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 183,
+        "w": 188,
+        "h": 131
+      },
+      "sourceSize": {
+        "w": 334,
+        "h": 314
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10001": {
+      "frame": {
+        "x": 1720,
+        "y": 1521,
+        "w": 151,
+        "h": 110
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 21,
+        "y": 147,
+        "w": 151,
+        "h": 110
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DOWN0009": {
+      "frame": {
+        "x": 1240,
+        "y": 1262,
+        "w": 141,
+        "h": 91
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 166,
+        "w": 141,
+        "h": 91
+      },
+      "sourceSize": {
+        "w": 281,
+        "h": 257
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN LEFT0010": {
+      "frame": {
+        "x": 1184,
+        "y": 788,
+        "w": 128,
+        "h": 120
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 24,
+        "y": 171,
+        "w": 128,
+        "h": 120
+      },
+      "sourceSize": {
+        "w": 352,
+        "h": 293
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN RIGHT0011": {
+      "frame": {
+        "x": 1859,
+        "y": 690,
+        "w": 111,
+        "h": 72
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 202,
+        "w": 111,
+        "h": 72
+      },
+      "sourceSize": {
+        "w": 408,
+        "h": 274
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN UP0011": {
+      "frame": {
+        "x": 1220,
+        "y": 916,
+        "w": 106,
+        "h": 53
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 10,
+        "y": 261,
+        "w": 106,
+        "h": 53
+      },
+      "sourceSize": {
+        "w": 334,
+        "h": 314
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN LEFT0011": {
+      "frame": {
+        "x": 598,
+        "y": 929,
+        "w": 98,
+        "h": 78
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 14,
+        "y": 206,
+        "w": 98,
+        "h": 78
+      },
+      "sourceSize": {
+        "w": 352,
+        "h": 293
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DOWN0010": {
+      "frame": {
+        "x": 533,
+        "y": 350,
+        "w": 62,
+        "h": 37
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 199,
+        "w": 62,
+        "h": 37
+      },
+      "sourceSize": {
+        "w": 281,
+        "h": 257
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10004": {
+      "frame": {
+        "x": 2360,
+        "y": 767,
+        "w": 242,
+        "h": 200
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 45,
+        "w": 242,
+        "h": 200
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10006": {
+      "frame": {
+        "x": 0,
+        "y": 1722,
+        "w": 260,
+        "h": 259
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 1,
+        "w": 260,
+        "h": 259
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10008": {
+      "frame": {
+        "x": 0,
+        "y": 2231,
+        "w": 243,
+        "h": 256
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 29,
+        "y": 9,
+        "w": 243,
+        "h": 256
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10010": {
+      "frame": {
+        "x": 2267,
+        "y": 1270,
+        "w": 251,
+        "h": 253
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20,
+        "y": 10,
+        "w": 251,
+        "h": 253
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10012": {
+      "frame": {
+        "x": 1350,
+        "y": 0,
+        "w": 254,
+        "h": 262
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 5,
+        "w": 254,
+        "h": 262
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10014": {
+      "frame": {
+        "x": 1601,
+        "y": 518,
+        "w": 253,
+        "h": 258
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 7,
+        "w": 253,
+        "h": 258
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10016": {
+      "frame": {
+        "x": 1850,
+        "y": 771,
+        "w": 242,
+        "h": 257
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 29,
+        "y": 9,
+        "w": 242,
+        "h": 257
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10023": {
+      "frame": {
+        "x": 1850,
+        "y": 771,
+        "w": 242,
+        "h": 257
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 29,
+        "y": 9,
+        "w": 242,
+        "h": 257
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10024": {
+      "frame": {
+        "x": 1850,
+        "y": 771,
+        "w": 242,
+        "h": 257
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 29,
+        "y": 9,
+        "w": 242,
+        "h": 257
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10018": {
+      "frame": {
+        "x": 2267,
+        "y": 1521,
+        "w": 251,
+        "h": 253
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20,
+        "y": 10,
+        "w": 251,
+        "h": 253
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10025": {
+      "frame": {
+        "x": 2267,
+        "y": 1521,
+        "w": 251,
+        "h": 253
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20,
+        "y": 10,
+        "w": 251,
+        "h": 253
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10026": {
+      "frame": {
+        "x": 2267,
+        "y": 1521,
+        "w": 251,
+        "h": 253
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20,
+        "y": 10,
+        "w": 251,
+        "h": 253
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10020": {
+      "frame": {
+        "x": 986,
+        "y": 1194,
+        "w": 254,
+        "h": 262
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 5,
+        "w": 254,
+        "h": 262
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10022": {
+      "frame": {
+        "x": 516,
+        "y": 1977,
+        "w": 253,
+        "h": 258
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 7,
+        "w": 253,
+        "h": 258
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10028": {
+      "frame": {
+        "x": 1330,
+        "y": 524,
+        "w": 248,
+        "h": 262
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 6,
+        "w": 248,
+        "h": 262
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10030": {
+      "frame": {
+        "x": 1604,
+        "y": 259,
+        "w": 242,
+        "h": 259
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 10,
+        "w": 242,
+        "h": 259
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10032": {
+      "frame": {
+        "x": 1031,
+        "y": 1977,
+        "w": 237,
+        "h": 257
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 24,
+        "y": 12,
+        "w": 237,
+        "h": 257
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10034": {
+      "frame": {
+        "x": 1756,
+        "y": 2230,
+        "w": 243,
+        "h": 253
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 13,
+        "w": 243,
+        "h": 253
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10036": {
+      "frame": {
+        "x": 317,
+        "y": 1225,
+        "w": 245,
+        "h": 262
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 7,
+        "w": 245,
+        "h": 262
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10038": {
+      "frame": {
+        "x": 1761,
+        "y": 1018,
+        "w": 244,
+        "h": 259
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 9,
+        "w": 244,
+        "h": 259
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10040": {
+      "frame": {
+        "x": 1720,
+        "y": 1736,
+        "w": 237,
+        "h": 257
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 25,
+        "y": 11,
+        "w": 237,
+        "h": 257
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10042": {
+      "frame": {
+        "x": 509,
+        "y": 2231,
+        "w": 243,
+        "h": 253
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 13,
+        "w": 243,
+        "h": 253
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10044": {
+      "frame": {
+        "x": 1327,
+        "y": 772,
+        "w": 245,
+        "h": 262
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 7,
+        "w": 245,
+        "h": 262
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10046": {
+      "frame": {
+        "x": 1502,
+        "y": 1018,
+        "w": 244,
+        "h": 259
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 9,
+        "w": 244,
+        "h": 259
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10048": {
+      "frame": {
+        "x": 1545,
+        "y": 1973,
+        "w": 237,
+        "h": 257
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 25,
+        "y": 11,
+        "w": 237,
+        "h": 257
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10050": {
+      "frame": {
+        "x": 256,
+        "y": 2231,
+        "w": 243,
+        "h": 253
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 13,
+        "w": 243,
+        "h": 253
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10052": {
+      "frame": {
+        "x": 1589,
+        "y": 772,
+        "w": 246,
+        "h": 261
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 9,
+        "w": 246,
+        "h": 261
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10054": {
+      "frame": {
+        "x": 1604,
+        "y": 0,
+        "w": 246,
+        "h": 259
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 11,
+        "w": 246,
+        "h": 259
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10056": {
+      "frame": {
+        "x": 2090,
+        "y": 257,
+        "w": 239,
+        "h": 257
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 28,
+        "y": 6,
+        "w": 239,
+        "h": 257
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10058": {
+      "frame": {
+        "x": 774,
+        "y": 2220,
+        "w": 248,
+        "h": 254
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 3,
+        "w": 248,
+        "h": 254
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10060": {
+      "frame": {
+        "x": 1350,
+        "y": 262,
+        "w": 251,
+        "h": 262
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 0,
+        "w": 251,
+        "h": 262
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10062": {
+      "frame": {
+        "x": 0,
+        "y": 1981,
+        "w": 250,
+        "h": 258
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 3,
+        "w": 250,
+        "h": 258
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10064": {
+      "frame": {
+        "x": 2090,
+        "y": 1013,
+        "w": 240,
+        "h": 257
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 28,
+        "y": 5,
+        "w": 240,
+        "h": 257
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10071": {
+      "frame": {
+        "x": 2090,
+        "y": 1013,
+        "w": 240,
+        "h": 257
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 28,
+        "y": 5,
+        "w": 240,
+        "h": 257
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10072": {
+      "frame": {
+        "x": 2090,
+        "y": 1013,
+        "w": 240,
+        "h": 257
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 28,
+        "y": 5,
+        "w": 240,
+        "h": 257
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10066": {
+      "frame": {
+        "x": 2327,
+        "y": 514,
+        "w": 249,
+        "h": 253
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 6,
+        "w": 249,
+        "h": 253
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10073": {
+      "frame": {
+        "x": 2327,
+        "y": 514,
+        "w": 249,
+        "h": 253
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 6,
+        "w": 249,
+        "h": 253
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10074": {
+      "frame": {
+        "x": 2327,
+        "y": 514,
+        "w": 249,
+        "h": 253
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 6,
+        "w": 249,
+        "h": 253
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10068": {
+      "frame": {
+        "x": 0,
+        "y": 1471,
+        "w": 251,
+        "h": 262
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 1,
+        "w": 251,
+        "h": 262
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10075": {
+      "frame": {
+        "x": 0,
+        "y": 1471,
+        "w": 251,
+        "h": 262
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 1,
+        "w": 251,
+        "h": 262
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10070": {
+      "frame": {
+        "x": 258,
+        "y": 1981,
+        "w": 250,
+        "h": 258
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 3,
+        "w": 250,
+        "h": 258
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10084": {
+      "frame": {
+        "x": 579,
+        "y": 1228,
+        "w": 241,
+        "h": 262
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 7,
+        "w": 241,
+        "h": 262
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10086": {
+      "frame": {
+        "x": 1221,
+        "y": 1718,
+        "w": 240,
+        "h": 259
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 9,
+        "w": 240,
+        "h": 259
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10088": {
+      "frame": {
+        "x": 2090,
+        "y": 514,
+        "w": 237,
+        "h": 257
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 21,
+        "y": 11,
+        "w": 237,
+        "h": 257
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10090": {
+      "frame": {
+        "x": 1503,
+        "y": 2230,
+        "w": 239,
+        "h": 253
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 13,
+        "w": 239,
+        "h": 253
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10092": {
+      "frame": {
+        "x": 262,
+        "y": 1470,
+        "w": 241,
+        "h": 262
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 7,
+        "w": 241,
+        "h": 262
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10094": {
+      "frame": {
+        "x": 1461,
+        "y": 1521,
+        "w": 240,
+        "h": 259
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 9,
+        "w": 240,
+        "h": 259
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10096": {
+      "frame": {
+        "x": 1977,
+        "y": 1736,
+        "w": 237,
+        "h": 257
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 21,
+        "y": 11,
+        "w": 237,
+        "h": 257
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10098": {
+      "frame": {
+        "x": 2009,
+        "y": 2230,
+        "w": 239,
+        "h": 253
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 13,
+        "w": 239,
+        "h": 253
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10100": {
+      "frame": {
+        "x": 0,
+        "y": 1230,
+        "w": 241,
+        "h": 262
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 7,
+        "w": 241,
+        "h": 262
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10102": {
+      "frame": {
+        "x": 1592,
+        "y": 1262,
+        "w": 240,
+        "h": 259
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 9,
+        "w": 240,
+        "h": 259
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10104": {
+      "frame": {
+        "x": 984,
+        "y": 1718,
+        "w": 237,
+        "h": 259
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 21,
+        "y": 12,
+        "w": 237,
+        "h": 259
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10106": {
+      "frame": {
+        "x": 2090,
+        "y": 0,
+        "w": 240,
+        "h": 257
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 15,
+        "w": 240,
+        "h": 257
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10108": {
+      "frame": {
+        "x": 1022,
+        "y": 2220,
+        "w": 243,
+        "h": 254
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 17,
+        "w": 243,
+        "h": 254
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10110": {
+      "frame": {
+        "x": 1331,
+        "y": 1262,
+        "w": 243,
+        "h": 261
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 12,
+        "w": 243,
+        "h": 261
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10112": {
+      "frame": {
+        "x": 746,
+        "y": 1718,
+        "w": 238,
+        "h": 259
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 4,
+        "w": 238,
+        "h": 259
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10114": {
+      "frame": {
+        "x": 2025,
+        "y": 1973,
+        "w": 242,
+        "h": 257
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 6,
+        "w": 242,
+        "h": 257
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10118": {
+      "frame": {
+        "x": 1086,
+        "y": 1456,
+        "w": 245,
+        "h": 262
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 1,
+        "w": 245,
+        "h": 262
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10120": {
+      "frame": {
+        "x": 1846,
+        "y": 259,
+        "w": 237,
+        "h": 258
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 25,
+        "y": 3,
+        "w": 237,
+        "h": 258
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10122": {
+      "frame": {
+        "x": 1288,
+        "y": 1977,
+        "w": 243,
+        "h": 257
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 5,
+        "w": 243,
+        "h": 257
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10124": {
+      "frame": {
+        "x": 2267,
+        "y": 1772,
+        "w": 245,
+        "h": 253
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 6,
+        "w": 245,
+        "h": 253
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10126": {
+      "frame": {
+        "x": 841,
+        "y": 1456,
+        "w": 245,
+        "h": 262
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 1,
+        "w": 245,
+        "h": 262
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10128": {
+      "frame": {
+        "x": 1832,
+        "y": 1262,
+        "w": 237,
+        "h": 258
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 25,
+        "y": 3,
+        "w": 237,
+        "h": 258
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10130": {
+      "frame": {
+        "x": 1782,
+        "y": 1973,
+        "w": 243,
+        "h": 257
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 5,
+        "w": 243,
+        "h": 257
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10132": {
+      "frame": {
+        "x": 2330,
+        "y": 1010,
+        "w": 245,
+        "h": 253
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 6,
+        "w": 245,
+        "h": 253
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10134": {
+      "frame": {
+        "x": 1240,
+        "y": 1017,
+        "w": 245,
+        "h": 262
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 1,
+        "w": 245,
+        "h": 262
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DIALOGUE 10136": {
+      "frame": {
+        "x": 1832,
+        "y": 1499,
+        "w": 237,
+        "h": 258
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 25,
+        "y": 3,
+        "w": 237,
+        "h": 258
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DOWN0002": {
+      "frame": {
+        "x": 1113,
+        "y": 0,
+        "w": 279,
+        "h": 237
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 279,
+        "h": 237
+      },
+      "sourceSize": {
+        "w": 281,
+        "h": 257
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DOWN0004": {
+      "frame": {
+        "x": 1057,
+        "y": 551,
+        "w": 270,
+        "h": 237
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 10,
+        "y": 0,
+        "w": 270,
+        "h": 237
+      },
+      "sourceSize": {
+        "w": 281,
+        "h": 257
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN DOWN0006": {
+      "frame": {
+        "x": 986,
+        "y": 925,
+        "w": 269,
+        "h": 234
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 12,
+        "y": 4,
+        "w": 269,
+        "h": 234
+      },
+      "sourceSize": {
+        "w": 281,
+        "h": 257
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN LEFT0002": {
+      "frame": {
+        "x": 350,
+        "y": 650,
+        "w": 349,
+        "h": 279
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 5,
+        "w": 349,
+        "h": 279
+      },
+      "sourceSize": {
+        "w": 352,
+        "h": 293
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN LEFT0004": {
+      "frame": {
+        "x": 533,
+        "y": 0,
+        "w": 350,
+        "h": 286
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 1,
+        "w": 350,
+        "h": 286
+      },
+      "sourceSize": {
+        "w": 352,
+        "h": 293
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN LEFT0006": {
+      "frame": {
+        "x": 0,
+        "y": 650,
+        "w": 350,
+        "h": 282
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 5,
+        "w": 350,
+        "h": 282
+      },
+      "sourceSize": {
+        "w": 352,
+        "h": 293
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN LEFT0008": {
+      "frame": {
+        "x": 699,
+        "y": 925,
+        "w": 303,
+        "h": 287
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 0,
+        "w": 303,
+        "h": 287
+      },
+      "sourceSize": {
+        "w": 352,
+        "h": 293
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN RIGHT0002": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 388,
+        "h": 269
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20,
+        "y": 0,
+        "w": 388,
+        "h": 269
+      },
+      "sourceSize": {
+        "w": 408,
+        "h": 274
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN RIGHT0004": {
+      "frame": {
+        "x": 269,
+        "y": 0,
+        "w": 388,
+        "h": 264
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 4,
+        "w": 388,
+        "h": 264
+      },
+      "sourceSize": {
+        "w": 408,
+        "h": 274
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN RIGHT0006": {
+      "frame": {
+        "x": 0,
+        "y": 388,
+        "w": 380,
+        "h": 262
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 25,
+        "y": 3,
+        "w": 380,
+        "h": 262
+      },
+      "sourceSize": {
+        "w": 408,
+        "h": 274
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN RIGHT0008": {
+      "frame": {
+        "x": 380,
+        "y": 388,
+        "w": 346,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 13,
+        "y": 22,
+        "w": 346,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 408,
+        "h": 274
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN UP0002": {
+      "frame": {
+        "x": 819,
+        "y": 0,
+        "w": 334,
+        "h": 294
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 1,
+        "w": 334,
+        "h": 294
+      },
+      "sourceSize": {
+        "w": 334,
+        "h": 314
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN UP0004": {
+      "frame": {
+        "x": 0,
+        "y": 932,
+        "w": 317,
+        "h": 298
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 0,
+        "w": 317,
+        "h": 298
+      },
+      "sourceSize": {
+        "w": 334,
+        "h": 314
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN UP0006": {
+      "frame": {
+        "x": 699,
+        "y": 608,
+        "w": 317,
+        "h": 297
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 2,
+        "w": 317,
+        "h": 297
+      },
+      "sourceSize": {
+        "w": 334,
+        "h": 314
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN UP0008": {
+      "frame": {
+        "x": 317,
+        "y": 932,
+        "w": 281,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 9,
+        "w": 281,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 334,
+        "h": 314
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "SATAN LEAKERS.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 2576,
+      "h": 2474
+    },
+    "scale": 1
+  }
+}
