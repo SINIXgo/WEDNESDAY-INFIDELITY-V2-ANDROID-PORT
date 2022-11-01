@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="satan.png">
+	<!-- el diablo que miedo -->
+	<!-- http://www.adobe.com/products/animate.html -->
+    <SubTexture name="CAGADA INFERNAL instance 10000" x="0" y="935" width="503" height="431" rotated="true"  frameX="-1" frameY="-0" frameWidth="437" frameHeight="506"/>
+    <SubTexture name="CAGADA INFERNAL instance 10001" x="0" y="935" width="503" height="431" rotated="true"  frameX="-1" frameY="-0" frameWidth="437" frameHeight="506"/>
+    <SubTexture name="CAGADA INFERNAL instance 10002" x="0" y="0"  width="432" height="503" frameX="-0" frameY="-0" frameWidth="437" frameHeight="506"/>
+    <SubTexture name="CAGADA INFERNAL instance 10003" x="0" y="0"  width="432" height="503" frameX="-0" frameY="-0" frameWidth="437" frameHeight="506"/>
+    <SubTexture name="CAGADA INFERNAL instance 10004" x="0" y="503" width="503" height="432" rotated="true"  frameX="-0" frameY="-0" frameWidth="437" frameHeight="506"/>
+    <SubTexture name="CAGADA INFERNAL instance 10005" x="432" y="0" width="503" height="432" rotated="true"  frameX="-0" frameY="-0" frameWidth="437" frameHeight="506"/>
+    <SubTexture name="CAGADA INFERNAL instance 10006" x="503" y="935" width="503" height="431" rotated="true"  frameX="-1" frameY="-0" frameWidth="437" frameHeight="506"/>
+    <SubTexture name="CAGADA INFERNAL instance 10007" x="503" y="935" width="503" height="431" rotated="true"  frameX="-1" frameY="-0" frameWidth="437" frameHeight="506"/>
+    <SubTexture name="CAGADA INFERNAL instance 10008" x="503" y="432"  width="432" height="503" frameX="-0" frameY="-0" frameWidth="437" frameHeight="506"/>
+    <SubTexture name="CAGADA INFERNAL instance 10009" x="935" y="432"  width="432" height="503" frameX="-0" frameY="-0" frameWidth="437" frameHeight="506"/>
+    <SubTexture name="CAGADA INFERNAL instance 10010" x="935" y="432"  width="432" height="503" frameX="-0" frameY="-0" frameWidth="437" frameHeight="506"/>
+    <SubTexture name="CAGADA INFERNAL instance 10011" x="935" y="0" width="503" height="432" rotated="true"  frameX="-0" frameY="-0" frameWidth="437" frameHeight="506"/>
+    <SubTexture name="CAGADA INFERNAL instance 10012" x="935" y="0" width="503" height="432" rotated="true"  frameX="-0" frameY="-0" frameWidth="437" frameHeight="506"/>
+    <SubTexture name="CAGADA INFERNAL instance 10013" x="1006" y="935"  width="431" height="503" frameX="-1" frameY="-0" frameWidth="437" frameHeight="506"/>
+    <SubTexture name="CAGADA INFERNAL instance 10014" x="1006" y="935"  width="431" height="503" frameX="-1" frameY="-0" frameWidth="437" frameHeight="506"/>
+    <SubTexture name="CAGADA INFERNAL instance 10015" x="1006" y="935"  width="431" height="503" frameX="-1" frameY="-0" frameWidth="437" frameHeight="506"/>
+    <SubTexture name="CAGADA INFERNAL instance 10016" x="1006" y="935"  width="431" height="503" frameX="-1" frameY="-0" frameWidth="437" frameHeight="506"/>
+    <SubTexture name="CAGADA INFERNAL instance 10017" x="1006" y="935"  width="431" height="503" frameX="-1" frameY="-0" frameWidth="437" frameHeight="506"/>
+    <SubTexture name="CAGADA INFERNAL instance 10018" x="1006" y="935"  width="431" height="503" frameX="-1" frameY="-0" frameWidth="437" frameHeight="506"/>
+    <SubTexture name="CAGADA INFERNAL instance 10019" x="1006" y="935"  width="431" height="503" frameX="-1" frameY="-0" frameWidth="437" frameHeight="506"/>
+    <SubTexture name="CAGADA INFERNAL instance 10020" x="1006" y="935"  width="431" height="503" frameX="-1" frameY="-0" frameWidth="437" frameHeight="506"/>
+    <SubTexture name="CAGADA INFERNAL instance 10021" x="1006" y="935"  width="431" height="503" frameX="-1" frameY="-0" frameWidth="437" frameHeight="506"/>
+    <SubTexture name="CAGADA INFERNAL instance 10022" x="1006" y="935"  width="431" height="503" frameX="-1" frameY="-0" frameWidth="437" frameHeight="506"/>
+    <SubTexture name="CAGADA INFERNAL instance 10023" x="1006" y="935"  width="431" height="503" frameX="-1" frameY="-0" frameWidth="437" frameHeight="506"/>
+</TextureAtlas>

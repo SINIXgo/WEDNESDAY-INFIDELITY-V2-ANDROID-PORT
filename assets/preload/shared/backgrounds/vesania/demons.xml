@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="demons.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+    <SubTexture name="diablillos instance 10000" x="0" y="0"  width="1657" height="192" frameX="-2" frameY="-8" frameWidth="1665" frameHeight="204"/>
+    <SubTexture name="diablillos instance 10001" x="0" y="0"  width="1657" height="192" frameX="-2" frameY="-8" frameWidth="1665" frameHeight="204"/>
+    <SubTexture name="diablillos instance 10002" x="0" y="192"  width="1657" height="192" frameX="-2" frameY="-6" frameWidth="1665" frameHeight="204"/>
+    <SubTexture name="diablillos instance 10003" x="0" y="192"  width="1657" height="192" frameX="-2" frameY="-6" frameWidth="1665" frameHeight="204"/>
+    <SubTexture name="diablillos instance 10004" x="0" y="576"  width="1657" height="191" frameX="-2" frameY="-4" frameWidth="1665" frameHeight="204"/>
+    <SubTexture name="diablillos instance 10005" x="0" y="576"  width="1657" height="191" frameX="-2" frameY="-4" frameWidth="1665" frameHeight="204"/>
+    <SubTexture name="diablillos instance 10006" x="0" y="384"  width="1657" height="192" frameX="-2" frameY="-2" frameWidth="1665" frameHeight="204"/>
+    <SubTexture name="diablillos instance 10007" x="0" y="384"  width="1657" height="192" frameX="-2" frameY="-2" frameWidth="1665" frameHeight="204"/>
+    <SubTexture name="diablillos instance 10008" x="0" y="384"  width="1657" height="192" frameX="-2" frameY="-2" frameWidth="1665" frameHeight="204"/>
+    <SubTexture name="diablillos instance 10009" x="0" y="384"  width="1657" height="192" frameX="-2" frameY="-2" frameWidth="1665" frameHeight="204"/>
+    <SubTexture name="diablillos instance 10010" x="0" y="384"  width="1657" height="192" frameX="-2" frameY="-2" frameWidth="1665" frameHeight="204"/>
+    <SubTexture name="diablillos instance 10011" x="0" y="384"  width="1657" height="192" frameX="-2" frameY="-2" frameWidth="1665" frameHeight="204"/>
+    <SubTexture name="diablillos instance 10012" x="0" y="384"  width="1657" height="192" frameX="-2" frameY="-2" frameWidth="1665" frameHeight="204"/>
+    <SubTexture name="diablillos instance 10013" x="0" y="384"  width="1657" height="192" frameX="-2" frameY="-2" frameWidth="1665" frameHeight="204"/>
+</TextureAtlas>
