@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SATAN_LAUGH_SCREEN.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+    <SubTexture name="SATAN LAUGH SCREEN0000" x="0" y="2567"  width="1" height="1" frameX="-0" frameY="-0" frameWidth="1" frameHeight="1"/>
+    <SubTexture name="SATAN LAUGH SCREEN0001" x="0" y="2464" width="99" height="103" rotated="true"  frameX="-0" frameY="-253" frameWidth="641" frameHeight="352"/>
+    <SubTexture name="SATAN LAUGH SCREEN0002" x="1982" y="2010" width="207" height="149" rotated="true"  frameX="-0" frameY="-145" frameWidth="641" frameHeight="352"/>
+    <SubTexture name="SATAN LAUGH SCREEN0003" x="1982" y="1658"  width="283" height="352" frameX="-0" frameY="-0" frameWidth="641" frameHeight="352"/>
+    <SubTexture name="SATAN LAUGH SCREEN0004" x="1982" y="1658"  width="283" height="352" frameX="-0" frameY="-0" frameWidth="641" frameHeight="352"/>
+    <SubTexture name="SATAN LAUGH SCREEN0005" x="2134" y="602"  width="446" height="352" frameX="-0" frameY="-0" frameWidth="641" frameHeight="352"/>
+    <SubTexture name="SATAN LAUGH SCREEN0006" x="2134" y="954"  width="446" height="352" frameX="-0" frameY="-0" frameWidth="641" frameHeight="352"/>
+    <SubTexture name="SATAN LAUGH SCREEN0007" x="1056" y="1408"  width="574" height="352" frameX="-11" frameY="-0" frameWidth="641" frameHeight="352"/>
+    <SubTexture name="SATAN LAUGH SCREEN0008" x="1987" y="1306"  width="574" height="352" frameX="-11" frameY="-0" frameWidth="641" frameHeight="352"/>
+    <SubTexture name="SATAN LAUGH SCREEN0009" x="965" y="0"  width="612" height="352" frameX="-0" frameY="-0" frameWidth="641" frameHeight="352"/>
+    <SubTexture name="SATAN LAUGH SCREEN0010" x="2180" y="0" width="352" height="602" rotated="true"  frameX="-19" frameY="-0" frameWidth="641" frameHeight="352"/>
+    <SubTexture name="SATAN LAUGH SCREEN0011" x="352" y="352"  width="597" height="352" frameX="-28" frameY="-0" frameWidth="641" frameHeight="352"/>
+    <SubTexture name="SATAN LAUGH SCREEN0012" x="0" y="0" width="352" height="617" rotated="true"  frameX="-12" frameY="-0" frameWidth="641" frameHeight="352"/>
+    <SubTexture name="SATAN LAUGH SCREEN0013" x="1635" y="1056" width="352" height="578" rotated="true"  frameX="-33" frameY="-0" frameWidth="641" frameHeight="352"/>
+    <SubTexture name="SATAN LAUGH SCREEN0014" x="1625" y="2207"  width="568" height="352" frameX="-44" frameY="-0" frameWidth="641" frameHeight="352"/>
+    <SubTexture name="SATAN LAUGH SCREEN0015" x="352" y="1898" width="352" height="580" rotated="true"  frameX="-45" frameY="-0" frameWidth="641" frameHeight="352"/>
+    <SubTexture name="SATAN LAUGH SCREEN0016" x="0" y="1234" width="352" height="616" rotated="true"  frameX="-4" frameY="-0" frameWidth="641" frameHeight="352"/>
+    <SubTexture name="SATAN LAUGH SCREEN0017" x="1542" y="352"  width="592" height="352" frameX="-42" frameY="-0" frameWidth="641" frameHeight="352"/>
+    <SubTexture name="SATAN LAUGH SCREEN0018" x="352" y="1306" width="352" height="592" rotated="true"  frameX="-42" frameY="-0" frameWidth="641" frameHeight="352"/>
+    <SubTexture name="SATAN LAUGH SCREEN0019" x="352" y="0"  width="613" height="352" frameX="-28" frameY="-0" frameWidth="641" frameHeight="352"/>
+    <SubTexture name="SATAN LAUGH SCREEN0020" x="704" y="704" width="352" height="579" rotated="true"  frameX="-46" frameY="-0" frameWidth="641" frameHeight="352"/>
+    <SubTexture name="SATAN LAUGH SCREEN0021" x="1056" y="1760"  width="569" height="352" frameX="-57" frameY="-0" frameWidth="641" frameHeight="352"/>
+    <SubTexture name="SATAN LAUGH SCREEN0022" x="704" y="1306" width="352" height="580" rotated="true"  frameX="-57" frameY="-0" frameWidth="641" frameHeight="352"/>
+    <SubTexture name="SATAN LAUGH SCREEN0023" x="0" y="617" width="352" height="617" rotated="true"  frameX="-15" frameY="-0" frameWidth="641" frameHeight="352"/>
+    <SubTexture name="SATAN LAUGH SCREEN0024" x="949" y="352"  width="593" height="352" frameX="-48" frameY="-0" frameWidth="641" frameHeight="352"/>
+    <SubTexture name="SATAN LAUGH SCREEN0025" x="352" y="704" width="352" height="586" rotated="true"  frameX="-55" frameY="-0" frameWidth="641" frameHeight="352"/>
+    <SubTexture name="SATAN LAUGH SCREEN0026" x="1577" y="0"  width="603" height="352" frameX="-38" frameY="-0" frameWidth="641" frameHeight="352"/>
+    <SubTexture name="SATAN LAUGH SCREEN0027" x="704" y="1886" width="352" height="579" rotated="true"  frameX="-56" frameY="-0" frameWidth="641" frameHeight="352"/>
+    <SubTexture name="SATAN LAUGH SCREEN0028" x="1056" y="2112"  width="569" height="352" frameX="-72" frameY="-0" frameWidth="641" frameHeight="352"/>
+    <SubTexture name="SATAN LAUGH SCREEN0029" x="1630" y="1634" width="352" height="573" rotated="true"  frameX="-68" frameY="-0" frameWidth="641" frameHeight="352"/>
+    <SubTexture name="SATAN LAUGH SCREEN0030" x="0" y="1850" width="352" height="614" rotated="true"  frameX="-27" frameY="-0" frameWidth="641" frameHeight="352"/>
+    <SubTexture name="SATAN LAUGH SCREEN0031" x="1056" y="704"  width="579" height="352" frameX="-62" frameY="-0" frameWidth="641" frameHeight="352"/>
+    <SubTexture name="SATAN LAUGH SCREEN0032" x="1056" y="1056"  width="579" height="352" frameX="-62" frameY="-0" frameWidth="641" frameHeight="352"/>
+    <SubTexture name="SATAN LAUGH SCREEN0033" x="1635" y="704"  width="425" height="352" frameX="-216" frameY="-0" frameWidth="641" frameHeight="352"/>
+    <SubTexture name="SATAN LAUGH SCREEN0034" x="2193" y="2207"  width="326" height="352" frameX="-315" frameY="-0" frameWidth="641" frameHeight="352"/>
+    <SubTexture name="SATAN LAUGH SCREEN0035" x="2265" y="1658"  width="230" height="352" frameX="-411" frameY="-0" frameWidth="641" frameHeight="352"/>
+    <SubTexture name="SATAN LAUGH SCREEN0036" x="1987" y="1056"  width="111" height="168" frameX="-530" frameY="-184" frameWidth="641" frameHeight="352"/>
+    <SubTexture name="SATAN LAUGH SCREEN0037" x="99" y="2464"  width="110" height="99" frameX="-531" frameY="-253" frameWidth="641" frameHeight="352"/>
+    <SubTexture name="SATAN LAUGH SCREEN0038" x="0" y="2567"  width="1" height="1" frameX="-0" frameY="-0" frameWidth="1" frameHeight="1"/>
+</TextureAtlas>
