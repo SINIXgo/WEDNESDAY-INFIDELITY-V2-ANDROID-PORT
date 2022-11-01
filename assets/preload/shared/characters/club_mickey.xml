@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="club_mickey.png">
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+  <SubTexture name="right0000" x="0" y="0"  width="1392" height="936"/>
+  <SubTexture name="down0000" x="0" y="936"  width="1062" height="1071"/>
+  <SubTexture name="right0001" x="1392" y="0"  width="1392" height="936"/>
+  <SubTexture name="right0002" x="1392" y="0"  width="1392" height="936"/>
+  <SubTexture name="down0001" x="0" y="2007"  width="1062" height="1071"/>
+  <SubTexture name="down0002" x="0" y="2007"  width="1062" height="1071"/>
+  <SubTexture name="right0003" x="1062" y="936"  width="1392" height="936"/>
+  <SubTexture name="right0004" x="1062" y="936"  width="1392" height="936"/>
+  <SubTexture name="left0000" x="2784" y="0"  width="944" height="1027"/>
+  <SubTexture name="idle0000" x="0" y="3078"  width="891" height="863"/>
+  <SubTexture name="idle0001" x="0" y="3078"  width="891" height="863"/>
+  <SubTexture name="left0001" x="1062" y="1872"  width="944" height="1027"/>
+  <SubTexture name="left0002" x="1062" y="1872"  width="944" height="1027"/>
+  <SubTexture name="left0003" x="2454" y="1027"  width="944" height="1027"/>
+  <SubTexture name="left0004" x="2454" y="1027"  width="944" height="1027"/>
+  <SubTexture name="idle0002" x="891" y="3078"  width="891" height="863"/>
+  <SubTexture name="idle0003" x="891" y="3078"  width="891" height="863"/>
+  <SubTexture name="up0000" x="2006" y="2054"  width="760" height="943"/>
+  <SubTexture name="idle0004" x="2766" y="2054"  width="891" height="863"/>
+  <SubTexture name="idle0005" x="2766" y="2054"  width="891" height="863"/>
+  <SubTexture name="up0001" x="1782" y="2997"  width="760" height="943"/>
+  <SubTexture name="up0002" x="1782" y="2997"  width="760" height="943"/>
+  <SubTexture name="up0003" x="2766" y="2917"  width="760" height="943"/>
+  <SubTexture name="up0004" x="2766" y="2917"  width="760" height="943"/>
+</TextureAtlas>

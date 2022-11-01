@@ -1,0 +1,1743 @@
+{
+  "frames": {
+    "SUICIDE OSWALD SCREAM0004": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 357,
+        "h": 202.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 13,
+        "y": 77,
+        "w": 357,
+        "h": 202.5
+      },
+      "sourceSize": {
+        "w": 373.5,
+        "h": 281
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SUICIDE OSWALD SCREAM0006": {
+      "frame": {
+        "x": 357,
+        "y": 0,
+        "w": 356,
+        "h": 203.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 13,
+        "y": 76,
+        "w": 356,
+        "h": 203.5
+      },
+      "sourceSize": {
+        "w": 373.5,
+        "h": 281
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SUICIDE OSWALD SCREAM0009": {
+      "frame": {
+        "x": 713,
+        "y": 0,
+        "w": 356,
+        "h": 203.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 13,
+        "y": 76,
+        "w": 356,
+        "h": 203.5
+      },
+      "sourceSize": {
+        "w": 373.5,
+        "h": 281
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SUICIDE OSWALD SCREAM0005": {
+      "frame": {
+        "x": 1069,
+        "y": 0,
+        "w": 358.5,
+        "h": 204.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 13,
+        "y": 75,
+        "w": 358.5,
+        "h": 204.5
+      },
+      "sourceSize": {
+        "w": 373.5,
+        "h": 281
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SUICIDE OSWALD SCREAM0007": {
+      "frame": {
+        "x": 1427.5,
+        "y": 0,
+        "w": 357,
+        "h": 204.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 13,
+        "y": 75,
+        "w": 357,
+        "h": 204.5
+      },
+      "sourceSize": {
+        "w": 373.5,
+        "h": 281
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SUICIDE OSWALD SCREAM0008": {
+      "frame": {
+        "x": 0,
+        "y": 203.5,
+        "w": 358.5,
+        "h": 204.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 13,
+        "y": 75,
+        "w": 358.5,
+        "h": 204.5
+      },
+      "sourceSize": {
+        "w": 373.5,
+        "h": 281
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SUICIDE OSWALD RIGHT0007": {
+      "frame": {
+        "x": 358.5,
+        "y": 203.5,
+        "w": 307,
+        "h": 223
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 26,
+        "w": 307,
+        "h": 223
+      },
+      "sourceSize": {
+        "w": 352.5,
+        "h": 250
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SUICIDE OSWALD RIGHT0009": {
+      "frame": {
+        "x": 665.5,
+        "y": 203.5,
+        "w": 299.5,
+        "h": 224
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0.5,
+        "y": 25,
+        "w": 299.5,
+        "h": 224
+      },
+      "sourceSize": {
+        "w": 352.5,
+        "h": 250
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SUICIDE OSWALD DOWN0007": {
+      "frame": {
+        "x": 965,
+        "y": 204.5,
+        "w": 340,
+        "h": 243
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 3.5,
+        "y": 41,
+        "w": 340,
+        "h": 243
+      },
+      "sourceSize": {
+        "w": 345.5,
+        "h": 285.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SUICIDE OSWALD DOWN0009": {
+      "frame": {
+        "x": 1305,
+        "y": 204.5,
+        "w": 323.5,
+        "h": 243
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 3.5,
+        "y": 41,
+        "w": 323.5,
+        "h": 243
+      },
+      "sourceSize": {
+        "w": 345.5,
+        "h": 285.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SUICIDE OSWALD RIGHT0005": {
+      "frame": {
+        "x": 0,
+        "y": 408,
+        "w": 344,
+        "h": 246
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 3,
+        "w": 344,
+        "h": 246
+      },
+      "sourceSize": {
+        "w": 352.5,
+        "h": 250
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SUICIDE OSWALD RIGHT0003": {
+      "frame": {
+        "x": 344,
+        "y": 427.5,
+        "w": 346.5,
+        "h": 246.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 2.5,
+        "w": 346.5,
+        "h": 246.5
+      },
+      "sourceSize": {
+        "w": 352.5,
+        "h": 250
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SUICIDE OSWALD RIGHT0001": {
+      "frame": {
+        "x": 690.5,
+        "y": 447.5,
+        "w": 350.5,
+        "h": 249
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 350.5,
+        "h": 249
+      },
+      "sourceSize": {
+        "w": 352.5,
+        "h": 250
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SUICIDE OSWALD IDLE0007": {
+      "frame": {
+        "x": 1041,
+        "y": 447.5,
+        "w": 356.5,
+        "h": 251.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 3.5,
+        "y": 17.5,
+        "w": 356.5,
+        "h": 251.5
+      },
+      "sourceSize": {
+        "w": 368,
+        "h": 271
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SUICIDE OSWALD LEFT0003": {
+      "frame": {
+        "x": 1397.5,
+        "y": 447.5,
+        "w": 252.5,
+        "h": 300.5
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 40.5,
+        "y": 2,
+        "w": 252.5,
+        "h": 300.5
+      },
+      "sourceSize": {
+        "w": 359,
+        "h": 305.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SUICIDE OSWALD UP0003": {
+      "frame": {
+        "x": 0,
+        "y": 654,
+        "w": 252.5,
+        "h": 281
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6.5,
+        "y": 64.5,
+        "w": 252.5,
+        "h": 281
+      },
+      "sourceSize": {
+        "w": 289,
+        "h": 347
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SUICIDE OSWALD IDLE0009": {
+      "frame": {
+        "x": 281,
+        "y": 674,
+        "w": 358.5,
+        "h": 253
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 14,
+        "w": 358.5,
+        "h": 253
+      },
+      "sourceSize": {
+        "w": 368,
+        "h": 271
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SUICIDE OSWALD UP0005": {
+      "frame": {
+        "x": 639.5,
+        "y": 696.5,
+        "w": 253,
+        "h": 283
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 62.5,
+        "w": 253,
+        "h": 283
+      },
+      "sourceSize": {
+        "w": 289,
+        "h": 347
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SUICIDE OSWALD IDLE0011": {
+      "frame": {
+        "x": 922.5,
+        "y": 699,
+        "w": 359,
+        "h": 254
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 13,
+        "w": 359,
+        "h": 254
+      },
+      "sourceSize": {
+        "w": 368,
+        "h": 271
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SUICIDE OSWALD IDLE0005": {
+      "frame": {
+        "x": 1281.5,
+        "y": 700,
+        "w": 360,
+        "h": 254.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 3.5,
+        "y": 12.5,
+        "w": 360,
+        "h": 254.5
+      },
+      "sourceSize": {
+        "w": 368,
+        "h": 271
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SUICIDE OSWALD UP0001": {
+      "frame": {
+        "x": 0,
+        "y": 906.5,
+        "w": 260.5,
+        "h": 278
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9.5,
+        "y": 67.5,
+        "w": 260.5,
+        "h": 278
+      },
+      "sourceSize": {
+        "w": 289,
+        "h": 347
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SUICIDE OSWALD LEFT0001": {
+      "frame": {
+        "x": 278,
+        "y": 927,
+        "w": 254.5,
+        "h": 296
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 33.5,
+        "y": 6.5,
+        "w": 254.5,
+        "h": 296
+      },
+      "sourceSize": {
+        "w": 359,
+        "h": 305.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SUICIDE OSWALD LEFT0005": {
+      "frame": {
+        "x": 574,
+        "y": 949.5,
+        "w": 255,
+        "h": 302.5
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 39.5,
+        "y": 0,
+        "w": 255,
+        "h": 302.5
+      },
+      "sourceSize": {
+        "w": 359,
+        "h": 305.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SUICIDE OSWALD UP0007": {
+      "frame": {
+        "x": 876.5,
+        "y": 953,
+        "w": 257.5,
+        "h": 331.5
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 14,
+        "w": 257.5,
+        "h": 331.5
+      },
+      "sourceSize": {
+        "w": 289,
+        "h": 347
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SUICIDE OSWALD SCREAM0003": {
+      "frame": {
+        "x": 1208,
+        "y": 954.5,
+        "w": 349.5,
+        "h": 260.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 8.5,
+        "y": 19,
+        "w": 349.5,
+        "h": 260.5
+      },
+      "sourceSize": {
+        "w": 373.5,
+        "h": 281
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SUICIDE OSWALD LEFT0009": {
+      "frame": {
+        "x": 0,
+        "y": 1181.5,
+        "w": 299,
+        "h": 261.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 58,
+        "y": 38,
+        "w": 299,
+        "h": 261.5
+      },
+      "sourceSize": {
+        "w": 359,
+        "h": 305.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SUICIDE OSWALD IDLE0001": {
+      "frame": {
+        "x": 299,
+        "y": 1204.5,
+        "w": 366.5,
+        "h": 264.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 2.5,
+        "w": 366.5,
+        "h": 264.5
+      },
+      "sourceSize": {
+        "w": 368,
+        "h": 271
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SUICIDE OSWALD UP0009": {
+      "frame": {
+        "x": 665.5,
+        "y": 1210.5,
+        "w": 267,
+        "h": 345.5
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20.5,
+        "y": 0,
+        "w": 267,
+        "h": 345.5
+      },
+      "sourceSize": {
+        "w": 289,
+        "h": 347
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SUICIDE OSWALD IDLE0003": {
+      "frame": {
+        "x": 1011,
+        "y": 1215,
+        "w": 360.5,
+        "h": 267.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 5,
+        "y": 0,
+        "w": 360.5,
+        "h": 267.5
+      },
+      "sourceSize": {
+        "w": 368,
+        "h": 271
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SUICIDE OSWALD SCREAM0002": {
+      "frame": {
+        "x": 1371.5,
+        "y": 1215,
+        "w": 362.5,
+        "h": 274
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 5.5,
+        "w": 362.5,
+        "h": 274
+      },
+      "sourceSize": {
+        "w": 373.5,
+        "h": 281
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SUICIDE OSWALD SCREAM0001": {
+      "frame": {
+        "x": 0,
+        "y": 1469,
+        "w": 359,
+        "h": 279.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6.5,
+        "y": 0,
+        "w": 359,
+        "h": 279.5
+      },
+      "sourceSize": {
+        "w": 373.5,
+        "h": 281
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SUICIDE OSWALD DOWN0005": {
+      "frame": {
+        "x": 359,
+        "y": 1477.5,
+        "w": 331.5,
+        "h": 283
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 1,
+        "w": 331.5,
+        "h": 283
+      },
+      "sourceSize": {
+        "w": 345.5,
+        "h": 285.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SUICIDE OSWALD DOWN0003": {
+      "frame": {
+        "x": 690.5,
+        "y": 1482.5,
+        "w": 331.5,
+        "h": 283.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0.5,
+        "w": 331.5,
+        "h": 283.5
+      },
+      "sourceSize": {
+        "w": 345.5,
+        "h": 285.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SUICIDE OSWALD DOWN0001": {
+      "frame": {
+        "x": 1022,
+        "y": 1482.5,
+        "w": 329,
+        "h": 284
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 0,
+        "w": 329,
+        "h": 284
+      },
+      "sourceSize": {
+        "w": 345.5,
+        "h": 285.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SUICIDE OSWALD LEFT0007": {
+      "frame": {
+        "x": 1351,
+        "y": 1489,
+        "w": 324,
+        "h": 303.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 324,
+        "h": 303.5
+      },
+      "sourceSize": {
+        "w": 359,
+        "h": 305.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SUICIDE OSWALD DOWN0002": {
+      "frame": {
+        "x": 1022,
+        "y": 1482.5,
+        "w": 329,
+        "h": 284
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 0,
+        "w": 329,
+        "h": 284
+      },
+      "sourceSize": {
+        "w": 345.5,
+        "h": 285.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SUICIDE OSWALD DOWN0004": {
+      "frame": {
+        "x": 690.5,
+        "y": 1482.5,
+        "w": 331.5,
+        "h": 283.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0.5,
+        "w": 331.5,
+        "h": 283.5
+      },
+      "sourceSize": {
+        "w": 345.5,
+        "h": 285.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SUICIDE OSWALD DOWN0006": {
+      "frame": {
+        "x": 359,
+        "y": 1477.5,
+        "w": 331.5,
+        "h": 283
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 1,
+        "w": 331.5,
+        "h": 283
+      },
+      "sourceSize": {
+        "w": 345.5,
+        "h": 285.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SUICIDE OSWALD DOWN0008": {
+      "frame": {
+        "x": 965,
+        "y": 204.5,
+        "w": 340,
+        "h": 243
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 3.5,
+        "y": 41,
+        "w": 340,
+        "h": 243
+      },
+      "sourceSize": {
+        "w": 345.5,
+        "h": 285.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SUICIDE OSWALD IDLE0002": {
+      "frame": {
+        "x": 299,
+        "y": 1204.5,
+        "w": 366.5,
+        "h": 264.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 2.5,
+        "w": 366.5,
+        "h": 264.5
+      },
+      "sourceSize": {
+        "w": 368,
+        "h": 271
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SUICIDE OSWALD IDLE0004": {
+      "frame": {
+        "x": 1011,
+        "y": 1215,
+        "w": 360.5,
+        "h": 267.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 5,
+        "y": 0,
+        "w": 360.5,
+        "h": 267.5
+      },
+      "sourceSize": {
+        "w": 368,
+        "h": 271
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SUICIDE OSWALD IDLE0006": {
+      "frame": {
+        "x": 1281.5,
+        "y": 700,
+        "w": 360,
+        "h": 254.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 3.5,
+        "y": 12.5,
+        "w": 360,
+        "h": 254.5
+      },
+      "sourceSize": {
+        "w": 368,
+        "h": 271
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SUICIDE OSWALD IDLE0008": {
+      "frame": {
+        "x": 1041,
+        "y": 447.5,
+        "w": 356.5,
+        "h": 251.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 3.5,
+        "y": 17.5,
+        "w": 356.5,
+        "h": 251.5
+      },
+      "sourceSize": {
+        "w": 368,
+        "h": 271
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SUICIDE OSWALD IDLE0010": {
+      "frame": {
+        "x": 281,
+        "y": 674,
+        "w": 358.5,
+        "h": 253
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 14,
+        "w": 358.5,
+        "h": 253
+      },
+      "sourceSize": {
+        "w": 368,
+        "h": 271
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SUICIDE OSWALD IDLE0012": {
+      "frame": {
+        "x": 922.5,
+        "y": 699,
+        "w": 359,
+        "h": 254
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 13,
+        "w": 359,
+        "h": 254
+      },
+      "sourceSize": {
+        "w": 368,
+        "h": 271
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SUICIDE OSWALD IDLE0013": {
+      "frame": {
+        "x": 922.5,
+        "y": 699,
+        "w": 359,
+        "h": 254
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 13,
+        "w": 359,
+        "h": 254
+      },
+      "sourceSize": {
+        "w": 368,
+        "h": 271
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SUICIDE OSWALD IDLE0014": {
+      "frame": {
+        "x": 922.5,
+        "y": 699,
+        "w": 359,
+        "h": 254
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 13,
+        "w": 359,
+        "h": 254
+      },
+      "sourceSize": {
+        "w": 368,
+        "h": 271
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SUICIDE OSWALD IDLE0015": {
+      "frame": {
+        "x": 922.5,
+        "y": 699,
+        "w": 359,
+        "h": 254
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 13,
+        "w": 359,
+        "h": 254
+      },
+      "sourceSize": {
+        "w": 368,
+        "h": 271
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SUICIDE OSWALD IDLE0016": {
+      "frame": {
+        "x": 922.5,
+        "y": 699,
+        "w": 359,
+        "h": 254
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 13,
+        "w": 359,
+        "h": 254
+      },
+      "sourceSize": {
+        "w": 368,
+        "h": 271
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SUICIDE OSWALD IDLE0017": {
+      "frame": {
+        "x": 922.5,
+        "y": 699,
+        "w": 359,
+        "h": 254
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 13,
+        "w": 359,
+        "h": 254
+      },
+      "sourceSize": {
+        "w": 368,
+        "h": 271
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SUICIDE OSWALD IDLE0018": {
+      "frame": {
+        "x": 922.5,
+        "y": 699,
+        "w": 359,
+        "h": 254
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 13,
+        "w": 359,
+        "h": 254
+      },
+      "sourceSize": {
+        "w": 368,
+        "h": 271
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SUICIDE OSWALD IDLE0019": {
+      "frame": {
+        "x": 922.5,
+        "y": 699,
+        "w": 359,
+        "h": 254
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 13,
+        "w": 359,
+        "h": 254
+      },
+      "sourceSize": {
+        "w": 368,
+        "h": 271
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SUICIDE OSWALD IDLE0020": {
+      "frame": {
+        "x": 922.5,
+        "y": 699,
+        "w": 359,
+        "h": 254
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 13,
+        "w": 359,
+        "h": 254
+      },
+      "sourceSize": {
+        "w": 368,
+        "h": 271
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SUICIDE OSWALD LEFT0002": {
+      "frame": {
+        "x": 278,
+        "y": 927,
+        "w": 254.5,
+        "h": 296
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 33.5,
+        "y": 6.5,
+        "w": 254.5,
+        "h": 296
+      },
+      "sourceSize": {
+        "w": 359,
+        "h": 305.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SUICIDE OSWALD LEFT0004": {
+      "frame": {
+        "x": 1397.5,
+        "y": 447.5,
+        "w": 252.5,
+        "h": 300.5
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 40.5,
+        "y": 2,
+        "w": 252.5,
+        "h": 300.5
+      },
+      "sourceSize": {
+        "w": 359,
+        "h": 305.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SUICIDE OSWALD LEFT0006": {
+      "frame": {
+        "x": 574,
+        "y": 949.5,
+        "w": 255,
+        "h": 302.5
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 39.5,
+        "y": 0,
+        "w": 255,
+        "h": 302.5
+      },
+      "sourceSize": {
+        "w": 359,
+        "h": 305.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SUICIDE OSWALD LEFT0008": {
+      "frame": {
+        "x": 1351,
+        "y": 1489,
+        "w": 324,
+        "h": 303.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 324,
+        "h": 303.5
+      },
+      "sourceSize": {
+        "w": 359,
+        "h": 305.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SUICIDE OSWALD RIGHT0002": {
+      "frame": {
+        "x": 690.5,
+        "y": 447.5,
+        "w": 350.5,
+        "h": 249
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 350.5,
+        "h": 249
+      },
+      "sourceSize": {
+        "w": 352.5,
+        "h": 250
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SUICIDE OSWALD RIGHT0004": {
+      "frame": {
+        "x": 344,
+        "y": 427.5,
+        "w": 346.5,
+        "h": 246.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 2.5,
+        "w": 346.5,
+        "h": 246.5
+      },
+      "sourceSize": {
+        "w": 352.5,
+        "h": 250
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SUICIDE OSWALD RIGHT0006": {
+      "frame": {
+        "x": 0,
+        "y": 408,
+        "w": 344,
+        "h": 246
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 3,
+        "w": 344,
+        "h": 246
+      },
+      "sourceSize": {
+        "w": 352.5,
+        "h": 250
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SUICIDE OSWALD RIGHT0008": {
+      "frame": {
+        "x": 358.5,
+        "y": 203.5,
+        "w": 307,
+        "h": 223
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 26,
+        "w": 307,
+        "h": 223
+      },
+      "sourceSize": {
+        "w": 352.5,
+        "h": 250
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SUICIDE OSWALD SCREAM0010": {
+      "frame": {
+        "x": 1427.5,
+        "y": 0,
+        "w": 357,
+        "h": 204.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 13,
+        "y": 75,
+        "w": 357,
+        "h": 204.5
+      },
+      "sourceSize": {
+        "w": 373.5,
+        "h": 281
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SUICIDE OSWALD SCREAM0013": {
+      "frame": {
+        "x": 1427.5,
+        "y": 0,
+        "w": 357,
+        "h": 204.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 13,
+        "y": 75,
+        "w": 357,
+        "h": 204.5
+      },
+      "sourceSize": {
+        "w": 373.5,
+        "h": 281
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SUICIDE OSWALD SCREAM0016": {
+      "frame": {
+        "x": 1427.5,
+        "y": 0,
+        "w": 357,
+        "h": 204.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 13,
+        "y": 75,
+        "w": 357,
+        "h": 204.5
+      },
+      "sourceSize": {
+        "w": 373.5,
+        "h": 281
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SUICIDE OSWALD SCREAM0011": {
+      "frame": {
+        "x": 0,
+        "y": 203.5,
+        "w": 358.5,
+        "h": 204.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 13,
+        "y": 75,
+        "w": 358.5,
+        "h": 204.5
+      },
+      "sourceSize": {
+        "w": 373.5,
+        "h": 281
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SUICIDE OSWALD SCREAM0014": {
+      "frame": {
+        "x": 0,
+        "y": 203.5,
+        "w": 358.5,
+        "h": 204.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 13,
+        "y": 75,
+        "w": 358.5,
+        "h": 204.5
+      },
+      "sourceSize": {
+        "w": 373.5,
+        "h": 281
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SUICIDE OSWALD SCREAM0012": {
+      "frame": {
+        "x": 713,
+        "y": 0,
+        "w": 356,
+        "h": 203.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 13,
+        "y": 76,
+        "w": 356,
+        "h": 203.5
+      },
+      "sourceSize": {
+        "w": 373.5,
+        "h": 281
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SUICIDE OSWALD SCREAM0015": {
+      "frame": {
+        "x": 713,
+        "y": 0,
+        "w": 356,
+        "h": 203.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 13,
+        "y": 76,
+        "w": 356,
+        "h": 203.5
+      },
+      "sourceSize": {
+        "w": 373.5,
+        "h": 281
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SUICIDE OSWALD UP0002": {
+      "frame": {
+        "x": 0,
+        "y": 906.5,
+        "w": 260.5,
+        "h": 278
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9.5,
+        "y": 67.5,
+        "w": 260.5,
+        "h": 278
+      },
+      "sourceSize": {
+        "w": 289,
+        "h": 347
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SUICIDE OSWALD UP0004": {
+      "frame": {
+        "x": 0,
+        "y": 654,
+        "w": 252.5,
+        "h": 281
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6.5,
+        "y": 64.5,
+        "w": 252.5,
+        "h": 281
+      },
+      "sourceSize": {
+        "w": 289,
+        "h": 347
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SUICIDE OSWALD UP0006": {
+      "frame": {
+        "x": 639.5,
+        "y": 696.5,
+        "w": 253,
+        "h": 283
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 62.5,
+        "w": 253,
+        "h": 283
+      },
+      "sourceSize": {
+        "w": 289,
+        "h": 347
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SUICIDE OSWALD UP0008": {
+      "frame": {
+        "x": 876.5,
+        "y": 953,
+        "w": 257.5,
+        "h": 331.5
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 14,
+        "w": 257.5,
+        "h": 331.5
+      },
+      "sourceSize": {
+        "w": 289,
+        "h": 347
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "OSWALD_SUICIDE.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1785,
+      "h": 1793
+    },
+    "scale": 1
+  }
+}

@@ -1,0 +1,1503 @@
+{
+  "frames": {
+    "OSWALD GUN0048": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 311.5,
+        "h": 289.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78.5,
+        "y": 0,
+        "w": 311.5,
+        "h": 289.5
+      },
+      "sourceSize": {
+        "w": 514.5,
+        "h": 292
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD GUN0050": {
+      "frame": {
+        "x": 0,
+        "y": 289.5,
+        "w": 402,
+        "h": 236
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20,
+        "y": 55,
+        "w": 402,
+        "h": 236
+      },
+      "sourceSize": {
+        "w": 514.5,
+        "h": 292
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD GUN0056": {
+      "frame": {
+        "x": 311.5,
+        "y": 0,
+        "w": 354,
+        "h": 247
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 159,
+        "y": 43,
+        "w": 354,
+        "h": 247
+      },
+      "sourceSize": {
+        "w": 514.5,
+        "h": 292
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD GUN0046": {
+      "frame": {
+        "x": 402,
+        "y": 247,
+        "w": 285,
+        "h": 279.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 87,
+        "y": 10,
+        "w": 285,
+        "h": 279.5
+      },
+      "sourceSize": {
+        "w": 514.5,
+        "h": 292
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD GUN0030": {
+      "frame": {
+        "x": 665.5,
+        "y": 0,
+        "w": 353,
+        "h": 240.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 46.5,
+        "w": 353,
+        "h": 240.5
+      },
+      "sourceSize": {
+        "w": 514.5,
+        "h": 292
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD GUN0037": {
+      "frame": {
+        "x": 0,
+        "y": 525.5,
+        "w": 291,
+        "h": 278.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 73.5,
+        "y": 11,
+        "w": 291,
+        "h": 278.5
+      },
+      "sourceSize": {
+        "w": 514.5,
+        "h": 292
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD GUN0058": {
+      "frame": {
+        "x": 291,
+        "y": 526.5,
+        "w": 351.5,
+        "h": 266.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 157,
+        "y": 23.5,
+        "w": 351.5,
+        "h": 266.5
+      },
+      "sourceSize": {
+        "w": 514.5,
+        "h": 292
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD GUN0035": {
+      "frame": {
+        "x": 642.5,
+        "y": 526.5,
+        "w": 291,
+        "h": 276.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 73.5,
+        "y": 13,
+        "w": 291,
+        "h": 276.5
+      },
+      "sourceSize": {
+        "w": 514.5,
+        "h": 292
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD GUN0033": {
+      "frame": {
+        "x": 291,
+        "y": 793,
+        "w": 296.5,
+        "h": 272.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 71,
+        "y": 17,
+        "w": 296.5,
+        "h": 272.5
+      },
+      "sourceSize": {
+        "w": 514.5,
+        "h": 292
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD GUN0001": {
+      "frame": {
+        "x": 0,
+        "y": 804,
+        "w": 275.5,
+        "h": 247
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 87.5,
+        "y": 40.5,
+        "w": 275.5,
+        "h": 247
+      },
+      "sourceSize": {
+        "w": 514.5,
+        "h": 292
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD GUN0003": {
+      "frame": {
+        "x": 0,
+        "y": 1051,
+        "w": 275,
+        "h": 244.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 91.5,
+        "y": 43,
+        "w": 275,
+        "h": 244.5
+      },
+      "sourceSize": {
+        "w": 514.5,
+        "h": 292
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD GUN0060": {
+      "frame": {
+        "x": 687,
+        "y": 240.5,
+        "w": 350,
+        "h": 269
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 157,
+        "y": 21,
+        "w": 350,
+        "h": 269
+      },
+      "sourceSize": {
+        "w": 514.5,
+        "h": 292
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD GUN0031": {
+      "frame": {
+        "x": 587.5,
+        "y": 803,
+        "w": 350,
+        "h": 242
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 13,
+        "y": 47,
+        "w": 350,
+        "h": 242
+      },
+      "sourceSize": {
+        "w": 514.5,
+        "h": 292
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD GUN0054": {
+      "frame": {
+        "x": 933.5,
+        "y": 509.5,
+        "w": 349.5,
+        "h": 246.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 160.5,
+        "y": 43.5,
+        "w": 349.5,
+        "h": 246.5
+      },
+      "sourceSize": {
+        "w": 514.5,
+        "h": 292
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD GUN0034": {
+      "frame": {
+        "x": 1037,
+        "y": 0,
+        "w": 291.5,
+        "h": 270.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 76,
+        "y": 19,
+        "w": 291.5,
+        "h": 270.5
+      },
+      "sourceSize": {
+        "w": 514.5,
+        "h": 292
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD GUN0005": {
+      "frame": {
+        "x": 937.5,
+        "y": 756,
+        "w": 272.5,
+        "h": 243.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 94.5,
+        "y": 44,
+        "w": 272.5,
+        "h": 243.5
+      },
+      "sourceSize": {
+        "w": 514.5,
+        "h": 292
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD GUN0052": {
+      "frame": {
+        "x": 937.5,
+        "y": 999.5,
+        "w": 340,
+        "h": 223.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 143,
+        "y": 66.5,
+        "w": 340,
+        "h": 223.5
+      },
+      "sourceSize": {
+        "w": 514.5,
+        "h": 292
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD GUN0007": {
+      "frame": {
+        "x": 587.5,
+        "y": 1045,
+        "w": 272,
+        "h": 243.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 95,
+        "y": 44,
+        "w": 272,
+        "h": 243.5
+      },
+      "sourceSize": {
+        "w": 514.5,
+        "h": 292
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD GUN0002": {
+      "frame": {
+        "x": 0,
+        "y": 804,
+        "w": 275.5,
+        "h": 247
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 87.5,
+        "y": 40.5,
+        "w": 275.5,
+        "h": 247
+      },
+      "sourceSize": {
+        "w": 514.5,
+        "h": 292
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD GUN0004": {
+      "frame": {
+        "x": 0,
+        "y": 1051,
+        "w": 275,
+        "h": 244.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 91.5,
+        "y": 43,
+        "w": 275,
+        "h": 244.5
+      },
+      "sourceSize": {
+        "w": 514.5,
+        "h": 292
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD GUN0006": {
+      "frame": {
+        "x": 937.5,
+        "y": 756,
+        "w": 272.5,
+        "h": 243.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 94.5,
+        "y": 44,
+        "w": 272.5,
+        "h": 243.5
+      },
+      "sourceSize": {
+        "w": 514.5,
+        "h": 292
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD GUN0008": {
+      "frame": {
+        "x": 587.5,
+        "y": 1045,
+        "w": 272,
+        "h": 243.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 95,
+        "y": 44,
+        "w": 272,
+        "h": 243.5
+      },
+      "sourceSize": {
+        "w": 514.5,
+        "h": 292
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD GUN0009": {
+      "frame": {
+        "x": 587.5,
+        "y": 1045,
+        "w": 272,
+        "h": 243.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 95,
+        "y": 44,
+        "w": 272,
+        "h": 243.5
+      },
+      "sourceSize": {
+        "w": 514.5,
+        "h": 292
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD GUN0010": {
+      "frame": {
+        "x": 587.5,
+        "y": 1045,
+        "w": 272,
+        "h": 243.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 95,
+        "y": 44,
+        "w": 272,
+        "h": 243.5
+      },
+      "sourceSize": {
+        "w": 514.5,
+        "h": 292
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD GUN0011": {
+      "frame": {
+        "x": 587.5,
+        "y": 1045,
+        "w": 272,
+        "h": 243.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 95,
+        "y": 44,
+        "w": 272,
+        "h": 243.5
+      },
+      "sourceSize": {
+        "w": 514.5,
+        "h": 292
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD GUN0012": {
+      "frame": {
+        "x": 587.5,
+        "y": 1045,
+        "w": 272,
+        "h": 243.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 95,
+        "y": 44,
+        "w": 272,
+        "h": 243.5
+      },
+      "sourceSize": {
+        "w": 514.5,
+        "h": 292
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD GUN0013": {
+      "frame": {
+        "x": 587.5,
+        "y": 1045,
+        "w": 272,
+        "h": 243.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 95,
+        "y": 44,
+        "w": 272,
+        "h": 243.5
+      },
+      "sourceSize": {
+        "w": 514.5,
+        "h": 292
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD GUN0014": {
+      "frame": {
+        "x": 587.5,
+        "y": 1045,
+        "w": 272,
+        "h": 243.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 95,
+        "y": 44,
+        "w": 272,
+        "h": 243.5
+      },
+      "sourceSize": {
+        "w": 514.5,
+        "h": 292
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD GUN0015": {
+      "frame": {
+        "x": 587.5,
+        "y": 1045,
+        "w": 272,
+        "h": 243.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 95,
+        "y": 44,
+        "w": 272,
+        "h": 243.5
+      },
+      "sourceSize": {
+        "w": 514.5,
+        "h": 292
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD GUN0016": {
+      "frame": {
+        "x": 587.5,
+        "y": 1045,
+        "w": 272,
+        "h": 243.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 95,
+        "y": 44,
+        "w": 272,
+        "h": 243.5
+      },
+      "sourceSize": {
+        "w": 514.5,
+        "h": 292
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD GUN0017": {
+      "frame": {
+        "x": 587.5,
+        "y": 1045,
+        "w": 272,
+        "h": 243.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 95,
+        "y": 44,
+        "w": 272,
+        "h": 243.5
+      },
+      "sourceSize": {
+        "w": 514.5,
+        "h": 292
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD GUN0018": {
+      "frame": {
+        "x": 587.5,
+        "y": 1045,
+        "w": 272,
+        "h": 243.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 95,
+        "y": 44,
+        "w": 272,
+        "h": 243.5
+      },
+      "sourceSize": {
+        "w": 514.5,
+        "h": 292
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD GUN0019": {
+      "frame": {
+        "x": 587.5,
+        "y": 1045,
+        "w": 272,
+        "h": 243.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 95,
+        "y": 44,
+        "w": 272,
+        "h": 243.5
+      },
+      "sourceSize": {
+        "w": 514.5,
+        "h": 292
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD GUN0020": {
+      "frame": {
+        "x": 587.5,
+        "y": 1045,
+        "w": 272,
+        "h": 243.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 95,
+        "y": 44,
+        "w": 272,
+        "h": 243.5
+      },
+      "sourceSize": {
+        "w": 514.5,
+        "h": 292
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD GUN0021": {
+      "frame": {
+        "x": 587.5,
+        "y": 1045,
+        "w": 272,
+        "h": 243.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 95,
+        "y": 44,
+        "w": 272,
+        "h": 243.5
+      },
+      "sourceSize": {
+        "w": 514.5,
+        "h": 292
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD GUN0022": {
+      "frame": {
+        "x": 587.5,
+        "y": 1045,
+        "w": 272,
+        "h": 243.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 95,
+        "y": 44,
+        "w": 272,
+        "h": 243.5
+      },
+      "sourceSize": {
+        "w": 514.5,
+        "h": 292
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD GUN0023": {
+      "frame": {
+        "x": 587.5,
+        "y": 1045,
+        "w": 272,
+        "h": 243.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 95,
+        "y": 44,
+        "w": 272,
+        "h": 243.5
+      },
+      "sourceSize": {
+        "w": 514.5,
+        "h": 292
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD GUN0024": {
+      "frame": {
+        "x": 587.5,
+        "y": 1045,
+        "w": 272,
+        "h": 243.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 95,
+        "y": 44,
+        "w": 272,
+        "h": 243.5
+      },
+      "sourceSize": {
+        "w": 514.5,
+        "h": 292
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD GUN0025": {
+      "frame": {
+        "x": 587.5,
+        "y": 1045,
+        "w": 272,
+        "h": 243.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 95,
+        "y": 44,
+        "w": 272,
+        "h": 243.5
+      },
+      "sourceSize": {
+        "w": 514.5,
+        "h": 292
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD GUN0026": {
+      "frame": {
+        "x": 587.5,
+        "y": 1045,
+        "w": 272,
+        "h": 243.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 95,
+        "y": 44,
+        "w": 272,
+        "h": 243.5
+      },
+      "sourceSize": {
+        "w": 514.5,
+        "h": 292
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD GUN0027": {
+      "frame": {
+        "x": 587.5,
+        "y": 1045,
+        "w": 272,
+        "h": 243.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 95,
+        "y": 44,
+        "w": 272,
+        "h": 243.5
+      },
+      "sourceSize": {
+        "w": 514.5,
+        "h": 292
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD GUN0028": {
+      "frame": {
+        "x": 587.5,
+        "y": 1045,
+        "w": 272,
+        "h": 243.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 95,
+        "y": 44,
+        "w": 272,
+        "h": 243.5
+      },
+      "sourceSize": {
+        "w": 514.5,
+        "h": 292
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD GUN0029": {
+      "frame": {
+        "x": 587.5,
+        "y": 1045,
+        "w": 272,
+        "h": 243.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 95,
+        "y": 44,
+        "w": 272,
+        "h": 243.5
+      },
+      "sourceSize": {
+        "w": 514.5,
+        "h": 292
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD GUN0032": {
+      "frame": {
+        "x": 587.5,
+        "y": 803,
+        "w": 350,
+        "h": 242
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 13,
+        "y": 47,
+        "w": 350,
+        "h": 242
+      },
+      "sourceSize": {
+        "w": 514.5,
+        "h": 292
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD GUN0036": {
+      "frame": {
+        "x": 642.5,
+        "y": 526.5,
+        "w": 291,
+        "h": 276.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 73.5,
+        "y": 13,
+        "w": 291,
+        "h": 276.5
+      },
+      "sourceSize": {
+        "w": 514.5,
+        "h": 292
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD GUN0038": {
+      "frame": {
+        "x": 0,
+        "y": 525.5,
+        "w": 291,
+        "h": 278.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 73.5,
+        "y": 11,
+        "w": 291,
+        "h": 278.5
+      },
+      "sourceSize": {
+        "w": 514.5,
+        "h": 292
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD GUN0039": {
+      "frame": {
+        "x": 0,
+        "y": 525.5,
+        "w": 291,
+        "h": 278.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 73.5,
+        "y": 11,
+        "w": 291,
+        "h": 278.5
+      },
+      "sourceSize": {
+        "w": 514.5,
+        "h": 292
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD GUN0040": {
+      "frame": {
+        "x": 0,
+        "y": 525.5,
+        "w": 291,
+        "h": 278.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 73.5,
+        "y": 11,
+        "w": 291,
+        "h": 278.5
+      },
+      "sourceSize": {
+        "w": 514.5,
+        "h": 292
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD GUN0041": {
+      "frame": {
+        "x": 0,
+        "y": 525.5,
+        "w": 291,
+        "h": 278.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 73.5,
+        "y": 11,
+        "w": 291,
+        "h": 278.5
+      },
+      "sourceSize": {
+        "w": 514.5,
+        "h": 292
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD GUN0042": {
+      "frame": {
+        "x": 0,
+        "y": 525.5,
+        "w": 291,
+        "h": 278.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 73.5,
+        "y": 11,
+        "w": 291,
+        "h": 278.5
+      },
+      "sourceSize": {
+        "w": 514.5,
+        "h": 292
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD GUN0043": {
+      "frame": {
+        "x": 0,
+        "y": 525.5,
+        "w": 291,
+        "h": 278.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 73.5,
+        "y": 11,
+        "w": 291,
+        "h": 278.5
+      },
+      "sourceSize": {
+        "w": 514.5,
+        "h": 292
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD GUN0044": {
+      "frame": {
+        "x": 0,
+        "y": 525.5,
+        "w": 291,
+        "h": 278.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 73.5,
+        "y": 11,
+        "w": 291,
+        "h": 278.5
+      },
+      "sourceSize": {
+        "w": 514.5,
+        "h": 292
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD GUN0045": {
+      "frame": {
+        "x": 0,
+        "y": 525.5,
+        "w": 291,
+        "h": 278.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 73.5,
+        "y": 11,
+        "w": 291,
+        "h": 278.5
+      },
+      "sourceSize": {
+        "w": 514.5,
+        "h": 292
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD GUN0047": {
+      "frame": {
+        "x": 402,
+        "y": 247,
+        "w": 285,
+        "h": 279.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 87,
+        "y": 10,
+        "w": 285,
+        "h": 279.5
+      },
+      "sourceSize": {
+        "w": 514.5,
+        "h": 292
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD GUN0049": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 311.5,
+        "h": 289.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78.5,
+        "y": 0,
+        "w": 311.5,
+        "h": 289.5
+      },
+      "sourceSize": {
+        "w": 514.5,
+        "h": 292
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD GUN0051": {
+      "frame": {
+        "x": 0,
+        "y": 289.5,
+        "w": 402,
+        "h": 236
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20,
+        "y": 55,
+        "w": 402,
+        "h": 236
+      },
+      "sourceSize": {
+        "w": 514.5,
+        "h": 292
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD GUN0053": {
+      "frame": {
+        "x": 937.5,
+        "y": 999.5,
+        "w": 340,
+        "h": 223.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 143,
+        "y": 66.5,
+        "w": 340,
+        "h": 223.5
+      },
+      "sourceSize": {
+        "w": 514.5,
+        "h": 292
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD GUN0055": {
+      "frame": {
+        "x": 933.5,
+        "y": 509.5,
+        "w": 349.5,
+        "h": 246.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 160.5,
+        "y": 43.5,
+        "w": 349.5,
+        "h": 246.5
+      },
+      "sourceSize": {
+        "w": 514.5,
+        "h": 292
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD GUN0057": {
+      "frame": {
+        "x": 311.5,
+        "y": 0,
+        "w": 354,
+        "h": 247
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 159,
+        "y": 43,
+        "w": 354,
+        "h": 247
+      },
+      "sourceSize": {
+        "w": 514.5,
+        "h": 292
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD GUN0059": {
+      "frame": {
+        "x": 291,
+        "y": 526.5,
+        "w": 351.5,
+        "h": 266.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 157,
+        "y": 23.5,
+        "w": 351.5,
+        "h": 266.5
+      },
+      "sourceSize": {
+        "w": 514.5,
+        "h": 292
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD GUN0061": {
+      "frame": {
+        "x": 687,
+        "y": 240.5,
+        "w": 350,
+        "h": 269
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 157,
+        "y": 21,
+        "w": 350,
+        "h": 269
+      },
+      "sourceSize": {
+        "w": 514.5,
+        "h": 292
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD GUN0062": {
+      "frame": {
+        "x": 687,
+        "y": 240.5,
+        "w": 350,
+        "h": 269
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 157,
+        "y": 21,
+        "w": 350,
+        "h": 269
+      },
+      "sourceSize": {
+        "w": 514.5,
+        "h": 292
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "OSWALD_GUN.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1329,
+      "h": 1296
+    },
+    "scale": 1
+  }
+}

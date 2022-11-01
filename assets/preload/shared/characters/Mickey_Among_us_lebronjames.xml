@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="Mickey_Among_us_lebronjames.png">
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+  <SubTexture name="NeedleLeft0000" x="0" y="0"  width="997" height="780"/>
+  <SubTexture name="NeedleLeft0001" x="997" y="0"  width="997" height="780"/>
+  <SubTexture name="NeedleLeft0002" x="997" y="0"  width="997" height="780"/>
+  <SubTexture name="NeedleLeft0003" x="1994" y="0"  width="997" height="780"/>
+  <SubTexture name="NeedleLeft0004" x="1994" y="0"  width="997" height="780"/>
+  <SubTexture name="NeedleIdle0000" x="2991" y="0"  width="707" height="782"/>
+  <SubTexture name="NeedleIdle0001" x="0" y="780"  width="707" height="782"/>
+  <SubTexture name="NeedleIdle0002" x="0" y="780"  width="707" height="782"/>
+  <SubTexture name="NeedleIdle0003" x="707" y="780"  width="707" height="782"/>
+  <SubTexture name="NeedleIdle0004" x="707" y="780"  width="707" height="782"/>
+  <SubTexture name="NeedleIdle0005" x="1414" y="780"  width="707" height="782"/>
+  <SubTexture name="NeedleIdle0006" x="1414" y="780"  width="707" height="782"/>
+  <SubTexture name="NeedleIdle0007" x="2121" y="780"  width="707" height="782"/>
+  <SubTexture name="NeedleIdle0008" x="2121" y="780"  width="707" height="782"/>
+  <SubTexture name="NeedleRight0000" x="2828" y="782"  width="838" height="794"/>
+  <SubTexture name="NeedleRight0001" x="0" y="1562"  width="838" height="794"/>
+  <SubTexture name="NeedleRight0002" x="0" y="1562"  width="838" height="794"/>
+  <SubTexture name="NeedleRight0003" x="838" y="1562"  width="838" height="794"/>
+  <SubTexture name="NeedleRight0004" x="838" y="1562"  width="838" height="794"/>
+  <SubTexture name="NeedleDown0000" x="1676" y="1562"  width="795" height="813"/>
+  <SubTexture name="NeedleDown0001" x="2471" y="1576"  width="795" height="813"/>
+  <SubTexture name="NeedleDown0002" x="2471" y="1576"  width="795" height="813"/>
+  <SubTexture name="NeedleDown0003" x="0" y="2356"  width="795" height="813"/>
+  <SubTexture name="NeedleDown0004" x="0" y="2356"  width="795" height="813"/>
+  <SubTexture name="NeedleUp0000" x="795" y="2356"  width="834" height="830"/>
+  <SubTexture name="NeedleUp0001" x="1629" y="2375"  width="834" height="830"/>
+  <SubTexture name="NeedleUp0002" x="1629" y="2375"  width="834" height="830"/>
+  <SubTexture name="NeedleUp0003" x="2463" y="2389"  width="834" height="830"/>
+  <SubTexture name="NeedleUp0004" x="2463" y="2389"  width="834" height="830"/>
+</TextureAtlas>

@@ -1,0 +1,1287 @@
+{
+  "frames": {
+    "smiler mouse down0005": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 295.5,
+        "h": 252
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 18.5,
+        "w": 295.5,
+        "h": 252
+      },
+      "sourceSize": {
+        "w": 298,
+        "h": 272
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "smiler mouse down0003": {
+      "frame": {
+        "x": 295.5,
+        "y": 0,
+        "w": 295,
+        "h": 253
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 17.5,
+        "w": 295,
+        "h": 253
+      },
+      "sourceSize": {
+        "w": 298,
+        "h": 272
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "smiler mouse down0001": {
+      "frame": {
+        "x": 590.5,
+        "y": 0,
+        "w": 292.5,
+        "h": 253.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 17,
+        "w": 292.5,
+        "h": 253.5
+      },
+      "sourceSize": {
+        "w": 298,
+        "h": 272
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "smiler mouse down0007": {
+      "frame": {
+        "x": 883,
+        "y": 0,
+        "w": 286,
+        "h": 255.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 7,
+        "y": 15,
+        "w": 286,
+        "h": 255.5
+      },
+      "sourceSize": {
+        "w": 298,
+        "h": 272
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "smiler mouse down0009": {
+      "frame": {
+        "x": 1169,
+        "y": 0,
+        "w": 272.5,
+        "h": 270.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16.5,
+        "y": 0,
+        "w": 272.5,
+        "h": 270.5
+      },
+      "sourceSize": {
+        "w": 298,
+        "h": 272
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "smiler mouse idle0001": {
+      "frame": {
+        "x": 0,
+        "y": 252,
+        "w": 242.5,
+        "h": 284
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 3,
+        "w": 242.5,
+        "h": 284
+      },
+      "sourceSize": {
+        "w": 244.5,
+        "h": 298
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "smiler mouse idle0003": {
+      "frame": {
+        "x": 242.5,
+        "y": 253,
+        "w": 233,
+        "h": 284
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 9,
+        "w": 233,
+        "h": 284
+      },
+      "sourceSize": {
+        "w": 244.5,
+        "h": 298
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "smiler mouse idle0007": {
+      "frame": {
+        "x": 475.5,
+        "y": 253.5,
+        "w": 231,
+        "h": 286.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 2.5,
+        "w": 231,
+        "h": 286.5
+      },
+      "sourceSize": {
+        "w": 244.5,
+        "h": 298
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "smiler mouse idle0013": {
+      "frame": {
+        "x": 706.5,
+        "y": 255.5,
+        "w": 236.5,
+        "h": 286.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0.5,
+        "w": 236.5,
+        "h": 286.5
+      },
+      "sourceSize": {
+        "w": 244.5,
+        "h": 298
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "smiler mouse left0009": {
+      "frame": {
+        "x": 943,
+        "y": 255.5,
+        "w": 182.5,
+        "h": 297.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 56,
+        "y": 52,
+        "w": 182.5,
+        "h": 297.5
+      },
+      "sourceSize": {
+        "w": 259,
+        "h": 352
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "smiler mouse rigth0009": {
+      "frame": {
+        "x": 1125.5,
+        "y": 270.5,
+        "w": 245,
+        "h": 286.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 3.5,
+        "y": 27,
+        "w": 245,
+        "h": 286.5
+      },
+      "sourceSize": {
+        "w": 270.5,
+        "h": 315
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "smiler mouse idle0009": {
+      "frame": {
+        "x": 0,
+        "y": 536,
+        "w": 236,
+        "h": 287
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 236,
+        "h": 287
+      },
+      "sourceSize": {
+        "w": 244.5,
+        "h": 298
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "smiler mouse idle0011": {
+      "frame": {
+        "x": 236,
+        "y": 537,
+        "w": 236.5,
+        "h": 287
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 236.5,
+        "h": 287
+      },
+      "sourceSize": {
+        "w": 244.5,
+        "h": 298
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "smiler mouse idle0005": {
+      "frame": {
+        "x": 472.5,
+        "y": 540,
+        "w": 232,
+        "h": 288.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 7,
+        "w": 232,
+        "h": 288.5
+      },
+      "sourceSize": {
+        "w": 244.5,
+        "h": 298
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "smiler mouse rigth0007": {
+      "frame": {
+        "x": 704.5,
+        "y": 553,
+        "w": 265,
+        "h": 303.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 3.5,
+        "y": 10,
+        "w": 265,
+        "h": 303.5
+      },
+      "sourceSize": {
+        "w": 270.5,
+        "h": 315
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "smiler mouse up0009": {
+      "frame": {
+        "x": 969.5,
+        "y": 557,
+        "w": 297,
+        "h": 305.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 32,
+        "w": 297,
+        "h": 305.5
+      },
+      "sourceSize": {
+        "w": 298.5,
+        "h": 344.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "smiler mouse rigth0001": {
+      "frame": {
+        "x": 1266.5,
+        "y": 557,
+        "w": 262.5,
+        "h": 313
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0.5,
+        "w": 262.5,
+        "h": 313
+      },
+      "sourceSize": {
+        "w": 270.5,
+        "h": 315
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "smiler mouse rigth0003": {
+      "frame": {
+        "x": 0,
+        "y": 824,
+        "w": 261.5,
+        "h": 313
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 0.5,
+        "w": 261.5,
+        "h": 313
+      },
+      "sourceSize": {
+        "w": 270.5,
+        "h": 315
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "smiler mouse rigth0005": {
+      "frame": {
+        "x": 261.5,
+        "y": 828.5,
+        "w": 265,
+        "h": 313
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 3.5,
+        "y": 0.5,
+        "w": 265,
+        "h": 313
+      },
+      "sourceSize": {
+        "w": 270.5,
+        "h": 315
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "smiler mouse up0007": {
+      "frame": {
+        "x": 526.5,
+        "y": 856.5,
+        "w": 283.5,
+        "h": 327
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 15.5,
+        "w": 283.5,
+        "h": 327
+      },
+      "sourceSize": {
+        "w": 298.5,
+        "h": 344.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "smiler mouse up0001": {
+      "frame": {
+        "x": 810,
+        "y": 862.5,
+        "w": 279.5,
+        "h": 338
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0.5,
+        "y": 4.5,
+        "w": 279.5,
+        "h": 338
+      },
+      "sourceSize": {
+        "w": 298.5,
+        "h": 344.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "smiler mouse left0007": {
+      "frame": {
+        "x": 1089.5,
+        "y": 870,
+        "w": 257,
+        "h": 340.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 10,
+        "w": 257,
+        "h": 340.5
+      },
+      "sourceSize": {
+        "w": 259,
+        "h": 352
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "smiler mouse up0003": {
+      "frame": {
+        "x": 0,
+        "y": 1141.5,
+        "w": 280,
+        "h": 340.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0.5,
+        "y": 2,
+        "w": 280,
+        "h": 340.5
+      },
+      "sourceSize": {
+        "w": 298.5,
+        "h": 344.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "smiler mouse left0003": {
+      "frame": {
+        "x": 280,
+        "y": 1141.5,
+        "w": 245,
+        "h": 349.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 1,
+        "w": 245,
+        "h": 349.5
+      },
+      "sourceSize": {
+        "w": 259,
+        "h": 352
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "smiler mouse up0005": {
+      "frame": {
+        "x": 525,
+        "y": 1183.5,
+        "w": 280,
+        "h": 341.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 1,
+        "w": 280,
+        "h": 341.5
+      },
+      "sourceSize": {
+        "w": 298.5,
+        "h": 344.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "smiler mouse left0001": {
+      "frame": {
+        "x": 805,
+        "y": 1200.5,
+        "w": 247.5,
+        "h": 349
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 1.5,
+        "w": 247.5,
+        "h": 349
+      },
+      "sourceSize": {
+        "w": 259,
+        "h": 352
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "smiler mouse left0005": {
+      "frame": {
+        "x": 1052.5,
+        "y": 1210.5,
+        "w": 243.5,
+        "h": 350
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 7,
+        "y": 0.5,
+        "w": 243.5,
+        "h": 350
+      },
+      "sourceSize": {
+        "w": 259,
+        "h": 352
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "smiler mouse down0002": {
+      "frame": {
+        "x": 590.5,
+        "y": 0,
+        "w": 292.5,
+        "h": 253.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 17,
+        "w": 292.5,
+        "h": 253.5
+      },
+      "sourceSize": {
+        "w": 298,
+        "h": 272
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "smiler mouse down0004": {
+      "frame": {
+        "x": 295.5,
+        "y": 0,
+        "w": 295,
+        "h": 253
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 17.5,
+        "w": 295,
+        "h": 253
+      },
+      "sourceSize": {
+        "w": 298,
+        "h": 272
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "smiler mouse down0006": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 295.5,
+        "h": 252
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 18.5,
+        "w": 295.5,
+        "h": 252
+      },
+      "sourceSize": {
+        "w": 298,
+        "h": 272
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "smiler mouse down0008": {
+      "frame": {
+        "x": 883,
+        "y": 0,
+        "w": 286,
+        "h": 255.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 7,
+        "y": 15,
+        "w": 286,
+        "h": 255.5
+      },
+      "sourceSize": {
+        "w": 298,
+        "h": 272
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "smiler mouse idle0002": {
+      "frame": {
+        "x": 0,
+        "y": 252,
+        "w": 242.5,
+        "h": 284
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 3,
+        "w": 242.5,
+        "h": 284
+      },
+      "sourceSize": {
+        "w": 244.5,
+        "h": 298
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "smiler mouse idle0004": {
+      "frame": {
+        "x": 242.5,
+        "y": 253,
+        "w": 233,
+        "h": 284
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 9,
+        "w": 233,
+        "h": 284
+      },
+      "sourceSize": {
+        "w": 244.5,
+        "h": 298
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "smiler mouse idle0006": {
+      "frame": {
+        "x": 472.5,
+        "y": 540,
+        "w": 232,
+        "h": 288.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 7,
+        "w": 232,
+        "h": 288.5
+      },
+      "sourceSize": {
+        "w": 244.5,
+        "h": 298
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "smiler mouse idle0008": {
+      "frame": {
+        "x": 475.5,
+        "y": 253.5,
+        "w": 231,
+        "h": 286.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 2.5,
+        "w": 231,
+        "h": 286.5
+      },
+      "sourceSize": {
+        "w": 244.5,
+        "h": 298
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "smiler mouse idle0010": {
+      "frame": {
+        "x": 0,
+        "y": 536,
+        "w": 236,
+        "h": 287
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 236,
+        "h": 287
+      },
+      "sourceSize": {
+        "w": 244.5,
+        "h": 298
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "smiler mouse idle0012": {
+      "frame": {
+        "x": 236,
+        "y": 537,
+        "w": 236.5,
+        "h": 287
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 236.5,
+        "h": 287
+      },
+      "sourceSize": {
+        "w": 244.5,
+        "h": 298
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "smiler mouse idle0014": {
+      "frame": {
+        "x": 706.5,
+        "y": 255.5,
+        "w": 236.5,
+        "h": 286.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0.5,
+        "w": 236.5,
+        "h": 286.5
+      },
+      "sourceSize": {
+        "w": 244.5,
+        "h": 298
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "smiler mouse idle0015": {
+      "frame": {
+        "x": 706.5,
+        "y": 255.5,
+        "w": 236.5,
+        "h": 286.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0.5,
+        "w": 236.5,
+        "h": 286.5
+      },
+      "sourceSize": {
+        "w": 244.5,
+        "h": 298
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "smiler mouse idle0016": {
+      "frame": {
+        "x": 706.5,
+        "y": 255.5,
+        "w": 236.5,
+        "h": 286.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0.5,
+        "w": 236.5,
+        "h": 286.5
+      },
+      "sourceSize": {
+        "w": 244.5,
+        "h": 298
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "smiler mouse idle0017": {
+      "frame": {
+        "x": 706.5,
+        "y": 255.5,
+        "w": 236.5,
+        "h": 286.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0.5,
+        "w": 236.5,
+        "h": 286.5
+      },
+      "sourceSize": {
+        "w": 244.5,
+        "h": 298
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "smiler mouse left0002": {
+      "frame": {
+        "x": 805,
+        "y": 1200.5,
+        "w": 247.5,
+        "h": 349
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 1.5,
+        "w": 247.5,
+        "h": 349
+      },
+      "sourceSize": {
+        "w": 259,
+        "h": 352
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "smiler mouse left0004": {
+      "frame": {
+        "x": 280,
+        "y": 1141.5,
+        "w": 245,
+        "h": 349.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 1,
+        "w": 245,
+        "h": 349.5
+      },
+      "sourceSize": {
+        "w": 259,
+        "h": 352
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "smiler mouse left0006": {
+      "frame": {
+        "x": 1052.5,
+        "y": 1210.5,
+        "w": 243.5,
+        "h": 350
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 7,
+        "y": 0.5,
+        "w": 243.5,
+        "h": 350
+      },
+      "sourceSize": {
+        "w": 259,
+        "h": 352
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "smiler mouse left0008": {
+      "frame": {
+        "x": 1089.5,
+        "y": 870,
+        "w": 257,
+        "h": 340.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 10,
+        "w": 257,
+        "h": 340.5
+      },
+      "sourceSize": {
+        "w": 259,
+        "h": 352
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "smiler mouse rigth0002": {
+      "frame": {
+        "x": 1266.5,
+        "y": 557,
+        "w": 262.5,
+        "h": 313
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0.5,
+        "w": 262.5,
+        "h": 313
+      },
+      "sourceSize": {
+        "w": 270.5,
+        "h": 315
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "smiler mouse rigth0004": {
+      "frame": {
+        "x": 0,
+        "y": 824,
+        "w": 261.5,
+        "h": 313
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 0.5,
+        "w": 261.5,
+        "h": 313
+      },
+      "sourceSize": {
+        "w": 270.5,
+        "h": 315
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "smiler mouse rigth0006": {
+      "frame": {
+        "x": 261.5,
+        "y": 828.5,
+        "w": 265,
+        "h": 313
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 3.5,
+        "y": 0.5,
+        "w": 265,
+        "h": 313
+      },
+      "sourceSize": {
+        "w": 270.5,
+        "h": 315
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "smiler mouse rigth0008": {
+      "frame": {
+        "x": 704.5,
+        "y": 553,
+        "w": 265,
+        "h": 303.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 3.5,
+        "y": 10,
+        "w": 265,
+        "h": 303.5
+      },
+      "sourceSize": {
+        "w": 270.5,
+        "h": 315
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "smiler mouse up0002": {
+      "frame": {
+        "x": 810,
+        "y": 862.5,
+        "w": 279.5,
+        "h": 338
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0.5,
+        "y": 4.5,
+        "w": 279.5,
+        "h": 338
+      },
+      "sourceSize": {
+        "w": 298.5,
+        "h": 344.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "smiler mouse up0004": {
+      "frame": {
+        "x": 0,
+        "y": 1141.5,
+        "w": 280,
+        "h": 340.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0.5,
+        "y": 2,
+        "w": 280,
+        "h": 340.5
+      },
+      "sourceSize": {
+        "w": 298.5,
+        "h": 344.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "smiler mouse up0006": {
+      "frame": {
+        "x": 525,
+        "y": 1183.5,
+        "w": 280,
+        "h": 341.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 1,
+        "w": 280,
+        "h": 341.5
+      },
+      "sourceSize": {
+        "w": 298.5,
+        "h": 344.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "smiler mouse up0008": {
+      "frame": {
+        "x": 526.5,
+        "y": 856.5,
+        "w": 283.5,
+        "h": 327
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 15.5,
+        "w": 283.5,
+        "h": 327
+      },
+      "sourceSize": {
+        "w": 298.5,
+        "h": 344.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "Smiler_Mouse.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1529,
+      "h": 1561
+    },
+    "scale": 1
+  }
+}
