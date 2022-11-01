@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pato1.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DONALD DEATH0000" x="0" y="0" width="1118" height="1176" frameX="0" frameY="-12" frameWidth="1118" frameHeight="1188"/>
+	<SubTexture name="DONALD DEATH0001" x="1118" y="0" width="1113" height="1174" frameX="-5" frameY="-12" frameWidth="1118" frameHeight="1188"/>
+	<SubTexture name="DONALD DEATH0002" x="2231" y="0" width="1113" height="1183" frameX="-5" frameY="-3" frameWidth="1118" frameHeight="1188"/>
+	<SubTexture name="DONALD DEATH0003" x="3344" y="0" width="1108" height="1183" frameX="-10" frameY="-3" frameWidth="1118" frameHeight="1188"/>
+	<SubTexture name="DONALD DEATH0004" x="4452" y="0" width="1108" height="1185" frameX="-10" frameY="-1" frameWidth="1118" frameHeight="1188"/>
+	<SubTexture name="DONALD DEATH0005" x="4452" y="0" width="1108" height="1185" frameX="-10" frameY="-1" frameWidth="1118" frameHeight="1188"/>
+	<SubTexture name="DONALD DEATH0006" x="4452" y="0" width="1108" height="1185" frameX="-10" frameY="-1" frameWidth="1118" frameHeight="1188"/>
+	<SubTexture name="DONALD DEATH0007" x="4452" y="0" width="1108" height="1185" frameX="-10" frameY="-1" frameWidth="1118" frameHeight="1188"/>
+	<SubTexture name="DONALD DEATH0008" x="4452" y="0" width="1108" height="1185" frameX="-10" frameY="-1" frameWidth="1118" frameHeight="1188"/>
+	<SubTexture name="DONALD DEATH0009" x="4452" y="0" width="1108" height="1185" frameX="-10" frameY="-1" frameWidth="1118" frameHeight="1188"/>
+	<SubTexture name="DONALD DEATH0010" x="4452" y="0" width="1108" height="1185" frameX="-10" frameY="-1" frameWidth="1118" frameHeight="1188"/>
+	<SubTexture name="DONALD DEATH0011" x="4452" y="0" width="1108" height="1185" frameX="-10" frameY="-1" frameWidth="1118" frameHeight="1188"/>
+	<SubTexture name="DONALD DEATH0012" x="4452" y="0" width="1108" height="1185" frameX="-10" frameY="-1" frameWidth="1118" frameHeight="1188"/>
+	<SubTexture name="DONALD DEATH0013" x="5560" y="0" width="1116" height="1169" frameX="-2" frameY="-17" frameWidth="1118" frameHeight="1188"/>
+	<SubTexture name="DONALD DEATH0014" x="6676" y="0" width="1112" height="1169" frameX="-6" frameY="-17" frameWidth="1118" frameHeight="1188"/>
+	<SubTexture name="DONALD DEATH0015" x="0" y="1185" width="1112" height="1172" frameX="-6" frameY="-14" frameWidth="1118" frameHeight="1188"/>
+	<SubTexture name="DONALD DEATH0016" x="1112" y="1185" width="1107" height="1172" frameX="-11" frameY="-14" frameWidth="1118" frameHeight="1188"/>
+	<SubTexture name="DONALD DEATH0017" x="2219" y="1185" width="1107" height="1177" frameX="-11" frameY="-9" frameWidth="1118" frameHeight="1188"/>
+	<SubTexture name="DONALD DEATH0018" x="2219" y="1185" width="1107" height="1177" frameX="-11" frameY="-9" frameWidth="1118" frameHeight="1188"/>
+	<SubTexture name="DONALD DEATH0019" x="3326" y="1185" width="1107" height="1184" frameX="-11" frameY="-2" frameWidth="1118" frameHeight="1188"/>
+	<SubTexture name="DONALD DEATH0020" x="3326" y="1185" width="1107" height="1184" frameX="-11" frameY="-2" frameWidth="1118" frameHeight="1188"/>
+	<SubTexture name="DONALD DEATH0021" x="4433" y="1185" width="1107" height="1186" frameX="-11" frameY="0" frameWidth="1118" frameHeight="1188"/>
+	<SubTexture name="DONALD DEATH0022" x="4433" y="1185" width="1107" height="1186" frameX="-11" frameY="0" frameWidth="1118" frameHeight="1188"/>
+	<SubTexture name="DONALD DEATH0023" x="5540" y="1185" width="1107" height="1186" frameX="-11" frameY="0" frameWidth="1118" frameHeight="1188"/>
+	<SubTexture name="DONALD DEATH0024" x="5540" y="1185" width="1107" height="1186" frameX="-11" frameY="0" frameWidth="1118" frameHeight="1188"/>
+	<SubTexture name="DONALD DEATH0025" x="6647" y="1185" width="1107" height="1186" frameX="-11" frameY="0" frameWidth="1118" frameHeight="1188"/>
+</TextureAtlas>
