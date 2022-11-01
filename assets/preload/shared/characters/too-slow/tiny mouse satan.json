@@ -1,0 +1,1935 @@
+{
+  "frames": {
+    "TRANSFORMATION0007": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 401,
+        "h": 416
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 72,
+        "y": 142,
+        "w": 401,
+        "h": 416
+      },
+      "sourceSize": {
+        "w": 622,
+        "h": 573
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN MIKI UP0008": {
+      "frame": {
+        "x": 401,
+        "y": 0,
+        "w": 408,
+        "h": 450
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 61,
+        "y": 70,
+        "w": 408,
+        "h": 450
+      },
+      "sourceSize": {
+        "w": 528,
+        "h": 522
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TRANSFORMATION0009": {
+      "frame": {
+        "x": 809,
+        "y": 0,
+        "w": 318,
+        "h": 455
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 114,
+        "y": 96,
+        "w": 318,
+        "h": 455
+      },
+      "sourceSize": {
+        "w": 622,
+        "h": 573
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TRANSFORMATION0011": {
+      "frame": {
+        "x": 1127,
+        "y": 0,
+        "w": 437,
+        "h": 472
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 67,
+        "y": 44,
+        "w": 437,
+        "h": 472
+      },
+      "sourceSize": {
+        "w": 622,
+        "h": 573
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN MIKI UP0007": {
+      "frame": {
+        "x": 1564,
+        "y": 0,
+        "w": 441,
+        "h": 489
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 46,
+        "y": 33,
+        "w": 441,
+        "h": 489
+      },
+      "sourceSize": {
+        "w": 528,
+        "h": 522
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TRANSFORMATION0013": {
+      "frame": {
+        "x": 2005,
+        "y": 0,
+        "w": 463,
+        "h": 501
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 27,
+        "y": 15,
+        "w": 463,
+        "h": 501
+      },
+      "sourceSize": {
+        "w": 622,
+        "h": 573
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN MIKI UP0005": {
+      "frame": {
+        "x": 2468,
+        "y": 0,
+        "w": 492,
+        "h": 510
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20,
+        "y": 8,
+        "w": 492,
+        "h": 510
+      },
+      "sourceSize": {
+        "w": 528,
+        "h": 522
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN MIKI UP0003": {
+      "frame": {
+        "x": 2960,
+        "y": 0,
+        "w": 515,
+        "h": 516
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 13,
+        "y": 2,
+        "w": 515,
+        "h": 516
+      },
+      "sourceSize": {
+        "w": 528,
+        "h": 522
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN MIKI DOWN0008": {
+      "frame": {
+        "x": 0,
+        "y": 416,
+        "w": 363,
+        "h": 541
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 45,
+        "y": 87,
+        "w": 363,
+        "h": 541
+      },
+      "sourceSize": {
+        "w": 442,
+        "h": 634
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN MIKI UP0001": {
+      "frame": {
+        "x": 363,
+        "y": 455,
+        "w": 512,
+        "h": 518
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 512,
+        "h": 518
+      },
+      "sourceSize": {
+        "w": 528,
+        "h": 522
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TRANSFORMATION0005": {
+      "frame": {
+        "x": 875,
+        "y": 472,
+        "w": 522,
+        "h": 520
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 66,
+        "y": 35,
+        "w": 522,
+        "h": 520
+      },
+      "sourceSize": {
+        "w": 622,
+        "h": 573
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN MIKI LEFT0008": {
+      "frame": {
+        "x": 1397,
+        "y": 489,
+        "w": 414,
+        "h": 526
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 89,
+        "y": 81,
+        "w": 414,
+        "h": 526
+      },
+      "sourceSize": {
+        "w": 525,
+        "h": 607
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN MIKI IDLE0007": {
+      "frame": {
+        "x": 1811,
+        "y": 501,
+        "w": 547,
+        "h": 533
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20,
+        "y": 22,
+        "w": 547,
+        "h": 533
+      },
+      "sourceSize": {
+        "w": 580,
+        "h": 555
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN MIKI IDLE0015": {
+      "frame": {
+        "x": 2358,
+        "y": 510,
+        "w": 542,
+        "h": 534
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 22,
+        "y": 21,
+        "w": 542,
+        "h": 534
+      },
+      "sourceSize": {
+        "w": 580,
+        "h": 555
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TRANSFORMATION0003": {
+      "frame": {
+        "x": 2900,
+        "y": 516,
+        "w": 527,
+        "h": 535
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 81,
+        "y": 20,
+        "w": 527,
+        "h": 535
+      },
+      "sourceSize": {
+        "w": 622,
+        "h": 573
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN MIKI IDLE0001": {
+      "frame": {
+        "x": 0,
+        "y": 973,
+        "w": 579,
+        "h": 543
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 12,
+        "w": 579,
+        "h": 543
+      },
+      "sourceSize": {
+        "w": 580,
+        "h": 555
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN MIKI IDLE0009": {
+      "frame": {
+        "x": 579,
+        "y": 992,
+        "w": 557,
+        "h": 545
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 8,
+        "y": 10,
+        "w": 557,
+        "h": 545
+      },
+      "sourceSize": {
+        "w": 580,
+        "h": 555
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "JUJUJUJA0001": {
+      "frame": {
+        "x": 1136,
+        "y": 1015,
+        "w": 539,
+        "h": 549
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 12,
+        "y": 26,
+        "w": 539,
+        "h": 549
+      },
+      "sourceSize": {
+        "w": 556,
+        "h": 575
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN MIKI IDLE0003": {
+      "frame": {
+        "x": 1675,
+        "y": 1034,
+        "w": 575,
+        "h": 553
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 5,
+        "y": 2,
+        "w": 575,
+        "h": 553
+      },
+      "sourceSize": {
+        "w": 580,
+        "h": 555
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN MIKI IDLE0011": {
+      "frame": {
+        "x": 2250,
+        "y": 1044,
+        "w": 550,
+        "h": 553
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 14,
+        "y": 2,
+        "w": 550,
+        "h": 553
+      },
+      "sourceSize": {
+        "w": 580,
+        "h": 555
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TRANSFORMATION0017": {
+      "frame": {
+        "x": 2800,
+        "y": 1051,
+        "w": 495,
+        "h": 554
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 5,
+        "y": 18,
+        "w": 495,
+        "h": 554
+      },
+      "sourceSize": {
+        "w": 622,
+        "h": 573
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN MIKI DOWN0007": {
+      "frame": {
+        "x": 3295,
+        "y": 1051,
+        "w": 395,
+        "h": 560
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 36,
+        "y": 68,
+        "w": 395,
+        "h": 560
+      },
+      "sourceSize": {
+        "w": 442,
+        "h": 634
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN MIKI IDLE0005": {
+      "frame": {
+        "x": 0,
+        "y": 1516,
+        "w": 571,
+        "h": 555
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 0,
+        "w": 571,
+        "h": 555
+      },
+      "sourceSize": {
+        "w": 580,
+        "h": 555
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN MIKI IDLE0013": {
+      "frame": {
+        "x": 571,
+        "y": 1537,
+        "w": 552,
+        "h": 555
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 12,
+        "y": 0,
+        "w": 552,
+        "h": 555
+      },
+      "sourceSize": {
+        "w": 580,
+        "h": 555
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TRANSFORMATION0001": {
+      "frame": {
+        "x": 1123,
+        "y": 1564,
+        "w": 551,
+        "h": 555
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 71,
+        "y": 0,
+        "w": 551,
+        "h": 555
+      },
+      "sourceSize": {
+        "w": 622,
+        "h": 573
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN MIKI RIGHT0008": {
+      "frame": {
+        "x": 1674,
+        "y": 1587,
+        "w": 438,
+        "h": 560
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 172,
+        "y": 70,
+        "w": 438,
+        "h": 560
+      },
+      "sourceSize": {
+        "w": 610,
+        "h": 630
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "JUJUJUJA0005": {
+      "frame": {
+        "x": 2112,
+        "y": 1597,
+        "w": 552,
+        "h": 561
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 14,
+        "w": 552,
+        "h": 561
+      },
+      "sourceSize": {
+        "w": 556,
+        "h": 575
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "JUJUJUJA0003": {
+      "frame": {
+        "x": 2664,
+        "y": 1605,
+        "w": 548,
+        "h": 566
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 9,
+        "w": 548,
+        "h": 566
+      },
+      "sourceSize": {
+        "w": 556,
+        "h": 575
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TRANSFORMATION0015": {
+      "frame": {
+        "x": 3212,
+        "y": 1611,
+        "w": 488,
+        "h": 566
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 7,
+        "w": 488,
+        "h": 566
+      },
+      "sourceSize": {
+        "w": 622,
+        "h": 573
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TRANSFORMATION0019": {
+      "frame": {
+        "x": 0,
+        "y": 2071,
+        "w": 498,
+        "h": 570
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 2,
+        "w": 498,
+        "h": 570
+      },
+      "sourceSize": {
+        "w": 622,
+        "h": 573
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TRANSFORMATION0021": {
+      "frame": {
+        "x": 498,
+        "y": 2092,
+        "w": 498,
+        "h": 572
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 498,
+        "h": 572
+      },
+      "sourceSize": {
+        "w": 622,
+        "h": 573
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN MIKI LEFT0007": {
+      "frame": {
+        "x": 996,
+        "y": 2119,
+        "w": 411,
+        "h": 573
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 77,
+        "y": 34,
+        "w": 411,
+        "h": 573
+      },
+      "sourceSize": {
+        "w": 525,
+        "h": 607
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "JUJUJUJA0007": {
+      "frame": {
+        "x": 1407,
+        "y": 2147,
+        "w": 554,
+        "h": 575
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 0,
+        "w": 554,
+        "h": 575
+      },
+      "sourceSize": {
+        "w": 556,
+        "h": 575
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN MIKI LEFT0001": {
+      "frame": {
+        "x": 1961,
+        "y": 2158,
+        "w": 525,
+        "h": 595
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 12,
+        "w": 525,
+        "h": 595
+      },
+      "sourceSize": {
+        "w": 525,
+        "h": 607
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN MIKI LEFT0003": {
+      "frame": {
+        "x": 2486,
+        "y": 2171,
+        "w": 508,
+        "h": 598
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 8,
+        "y": 9,
+        "w": 508,
+        "h": 598
+      },
+      "sourceSize": {
+        "w": 525,
+        "h": 607
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN MIKI LEFT0005": {
+      "frame": {
+        "x": 2994,
+        "y": 2177,
+        "w": 483,
+        "h": 607
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 10,
+        "y": 0,
+        "w": 483,
+        "h": 607
+      },
+      "sourceSize": {
+        "w": 525,
+        "h": 607
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN MIKI RIGHT0007": {
+      "frame": {
+        "x": 0,
+        "y": 2641,
+        "w": 427,
+        "h": 608
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 110,
+        "y": 22,
+        "w": 427,
+        "h": 608
+      },
+      "sourceSize": {
+        "w": 610,
+        "h": 630
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN MIKI DOWN0001": {
+      "frame": {
+        "x": 427,
+        "y": 2664,
+        "w": 428,
+        "h": 614
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 14,
+        "y": 20,
+        "w": 428,
+        "h": 614
+      },
+      "sourceSize": {
+        "w": 442,
+        "h": 634
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN MIKI DOWN0003": {
+      "frame": {
+        "x": 855,
+        "y": 2692,
+        "w": 442,
+        "h": 614
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 20,
+        "w": 442,
+        "h": 614
+      },
+      "sourceSize": {
+        "w": 442,
+        "h": 634
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN MIKI RIGHT0001": {
+      "frame": {
+        "x": 1297,
+        "y": 2722,
+        "w": 507,
+        "h": 621
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 9,
+        "w": 507,
+        "h": 621
+      },
+      "sourceSize": {
+        "w": 610,
+        "h": 630
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN MIKI RIGHT0003": {
+      "frame": {
+        "x": 1804,
+        "y": 2753,
+        "w": 507,
+        "h": 630
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 507,
+        "h": 630
+      },
+      "sourceSize": {
+        "w": 610,
+        "h": 630
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN MIKI RIGHT0005": {
+      "frame": {
+        "x": 2311,
+        "y": 2769,
+        "w": 399,
+        "h": 630
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 67,
+        "y": 0,
+        "w": 399,
+        "h": 630
+      },
+      "sourceSize": {
+        "w": 610,
+        "h": 630
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN MIKI DOWN0005": {
+      "frame": {
+        "x": 2710,
+        "y": 2784,
+        "w": 423,
+        "h": 634
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 0,
+        "w": 423,
+        "h": 634
+      },
+      "sourceSize": {
+        "w": 442,
+        "h": 634
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "JUJUJUJA0002": {
+      "frame": {
+        "x": 1136,
+        "y": 1015,
+        "w": 539,
+        "h": 549
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 12,
+        "y": 26,
+        "w": 539,
+        "h": 549
+      },
+      "sourceSize": {
+        "w": 556,
+        "h": 575
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "JUJUJUJA0004": {
+      "frame": {
+        "x": 2664,
+        "y": 1605,
+        "w": 548,
+        "h": 566
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 9,
+        "w": 548,
+        "h": 566
+      },
+      "sourceSize": {
+        "w": 556,
+        "h": 575
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "JUJUJUJA0006": {
+      "frame": {
+        "x": 2112,
+        "y": 1597,
+        "w": 552,
+        "h": 561
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 14,
+        "w": 552,
+        "h": 561
+      },
+      "sourceSize": {
+        "w": 556,
+        "h": 575
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "JUJUJUJA0008": {
+      "frame": {
+        "x": 1407,
+        "y": 2147,
+        "w": 554,
+        "h": 575
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 0,
+        "w": 554,
+        "h": 575
+      },
+      "sourceSize": {
+        "w": 556,
+        "h": 575
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN MIKI DOWN0002": {
+      "frame": {
+        "x": 427,
+        "y": 2664,
+        "w": 428,
+        "h": 614
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 14,
+        "y": 20,
+        "w": 428,
+        "h": 614
+      },
+      "sourceSize": {
+        "w": 442,
+        "h": 634
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN MIKI DOWN0004": {
+      "frame": {
+        "x": 855,
+        "y": 2692,
+        "w": 442,
+        "h": 614
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 20,
+        "w": 442,
+        "h": 614
+      },
+      "sourceSize": {
+        "w": 442,
+        "h": 634
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN MIKI DOWN0006": {
+      "frame": {
+        "x": 2710,
+        "y": 2784,
+        "w": 423,
+        "h": 634
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 0,
+        "w": 423,
+        "h": 634
+      },
+      "sourceSize": {
+        "w": 442,
+        "h": 634
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN MIKI IDLE0002": {
+      "frame": {
+        "x": 0,
+        "y": 973,
+        "w": 579,
+        "h": 543
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 12,
+        "w": 579,
+        "h": 543
+      },
+      "sourceSize": {
+        "w": 580,
+        "h": 555
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN MIKI IDLE0004": {
+      "frame": {
+        "x": 1675,
+        "y": 1034,
+        "w": 575,
+        "h": 553
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 5,
+        "y": 2,
+        "w": 575,
+        "h": 553
+      },
+      "sourceSize": {
+        "w": 580,
+        "h": 555
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN MIKI IDLE0006": {
+      "frame": {
+        "x": 0,
+        "y": 1516,
+        "w": 571,
+        "h": 555
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 0,
+        "w": 571,
+        "h": 555
+      },
+      "sourceSize": {
+        "w": 580,
+        "h": 555
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN MIKI IDLE0008": {
+      "frame": {
+        "x": 1811,
+        "y": 501,
+        "w": 547,
+        "h": 533
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20,
+        "y": 22,
+        "w": 547,
+        "h": 533
+      },
+      "sourceSize": {
+        "w": 580,
+        "h": 555
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN MIKI IDLE0010": {
+      "frame": {
+        "x": 579,
+        "y": 992,
+        "w": 557,
+        "h": 545
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 8,
+        "y": 10,
+        "w": 557,
+        "h": 545
+      },
+      "sourceSize": {
+        "w": 580,
+        "h": 555
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN MIKI IDLE0012": {
+      "frame": {
+        "x": 2250,
+        "y": 1044,
+        "w": 550,
+        "h": 553
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 14,
+        "y": 2,
+        "w": 550,
+        "h": 553
+      },
+      "sourceSize": {
+        "w": 580,
+        "h": 555
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN MIKI IDLE0014": {
+      "frame": {
+        "x": 571,
+        "y": 1537,
+        "w": 552,
+        "h": 555
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 12,
+        "y": 0,
+        "w": 552,
+        "h": 555
+      },
+      "sourceSize": {
+        "w": 580,
+        "h": 555
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN MIKI IDLE0016": {
+      "frame": {
+        "x": 2358,
+        "y": 510,
+        "w": 542,
+        "h": 534
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 22,
+        "y": 21,
+        "w": 542,
+        "h": 534
+      },
+      "sourceSize": {
+        "w": 580,
+        "h": 555
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN MIKI LEFT0002": {
+      "frame": {
+        "x": 1961,
+        "y": 2158,
+        "w": 525,
+        "h": 595
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 12,
+        "w": 525,
+        "h": 595
+      },
+      "sourceSize": {
+        "w": 525,
+        "h": 607
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN MIKI LEFT0004": {
+      "frame": {
+        "x": 2486,
+        "y": 2171,
+        "w": 508,
+        "h": 598
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 8,
+        "y": 9,
+        "w": 508,
+        "h": 598
+      },
+      "sourceSize": {
+        "w": 525,
+        "h": 607
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN MIKI LEFT0006": {
+      "frame": {
+        "x": 2994,
+        "y": 2177,
+        "w": 483,
+        "h": 607
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 10,
+        "y": 0,
+        "w": 483,
+        "h": 607
+      },
+      "sourceSize": {
+        "w": 525,
+        "h": 607
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN MIKI RIGHT0002": {
+      "frame": {
+        "x": 1297,
+        "y": 2722,
+        "w": 507,
+        "h": 621
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 9,
+        "w": 507,
+        "h": 621
+      },
+      "sourceSize": {
+        "w": 610,
+        "h": 630
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN MIKI RIGHT0004": {
+      "frame": {
+        "x": 1804,
+        "y": 2753,
+        "w": 507,
+        "h": 630
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 507,
+        "h": 630
+      },
+      "sourceSize": {
+        "w": 610,
+        "h": 630
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN MIKI RIGHT0006": {
+      "frame": {
+        "x": 2311,
+        "y": 2769,
+        "w": 399,
+        "h": 630
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 67,
+        "y": 0,
+        "w": 399,
+        "h": 630
+      },
+      "sourceSize": {
+        "w": 610,
+        "h": 630
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN MIKI UP0002": {
+      "frame": {
+        "x": 363,
+        "y": 455,
+        "w": 512,
+        "h": 518
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 512,
+        "h": 518
+      },
+      "sourceSize": {
+        "w": 528,
+        "h": 522
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN MIKI UP0004": {
+      "frame": {
+        "x": 2960,
+        "y": 0,
+        "w": 515,
+        "h": 516
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 13,
+        "y": 2,
+        "w": 515,
+        "h": 516
+      },
+      "sourceSize": {
+        "w": 528,
+        "h": 522
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SATAN MIKI UP0006": {
+      "frame": {
+        "x": 2468,
+        "y": 0,
+        "w": 492,
+        "h": 510
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20,
+        "y": 8,
+        "w": 492,
+        "h": 510
+      },
+      "sourceSize": {
+        "w": 528,
+        "h": 522
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TRANSFORMATION0002": {
+      "frame": {
+        "x": 1123,
+        "y": 1564,
+        "w": 551,
+        "h": 555
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 71,
+        "y": 0,
+        "w": 551,
+        "h": 555
+      },
+      "sourceSize": {
+        "w": 622,
+        "h": 573
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TRANSFORMATION0004": {
+      "frame": {
+        "x": 2900,
+        "y": 516,
+        "w": 527,
+        "h": 535
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 81,
+        "y": 20,
+        "w": 527,
+        "h": 535
+      },
+      "sourceSize": {
+        "w": 622,
+        "h": 573
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TRANSFORMATION0006": {
+      "frame": {
+        "x": 875,
+        "y": 472,
+        "w": 522,
+        "h": 520
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 66,
+        "y": 35,
+        "w": 522,
+        "h": 520
+      },
+      "sourceSize": {
+        "w": 622,
+        "h": 573
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TRANSFORMATION0008": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 401,
+        "h": 416
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 72,
+        "y": 142,
+        "w": 401,
+        "h": 416
+      },
+      "sourceSize": {
+        "w": 622,
+        "h": 573
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TRANSFORMATION0010": {
+      "frame": {
+        "x": 809,
+        "y": 0,
+        "w": 318,
+        "h": 455
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 114,
+        "y": 96,
+        "w": 318,
+        "h": 455
+      },
+      "sourceSize": {
+        "w": 622,
+        "h": 573
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TRANSFORMATION0012": {
+      "frame": {
+        "x": 1127,
+        "y": 0,
+        "w": 437,
+        "h": 472
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 67,
+        "y": 44,
+        "w": 437,
+        "h": 472
+      },
+      "sourceSize": {
+        "w": 622,
+        "h": 573
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TRANSFORMATION0014": {
+      "frame": {
+        "x": 2005,
+        "y": 0,
+        "w": 463,
+        "h": 501
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 27,
+        "y": 15,
+        "w": 463,
+        "h": 501
+      },
+      "sourceSize": {
+        "w": 622,
+        "h": 573
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TRANSFORMATION0016": {
+      "frame": {
+        "x": 3212,
+        "y": 1611,
+        "w": 488,
+        "h": 566
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 7,
+        "w": 488,
+        "h": 566
+      },
+      "sourceSize": {
+        "w": 622,
+        "h": 573
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TRANSFORMATION0018": {
+      "frame": {
+        "x": 2800,
+        "y": 1051,
+        "w": 495,
+        "h": 554
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 5,
+        "y": 18,
+        "w": 495,
+        "h": 554
+      },
+      "sourceSize": {
+        "w": 622,
+        "h": 573
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TRANSFORMATION0020": {
+      "frame": {
+        "x": 0,
+        "y": 2071,
+        "w": 498,
+        "h": 570
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 2,
+        "w": 498,
+        "h": 570
+      },
+      "sourceSize": {
+        "w": 622,
+        "h": 573
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TRANSFORMATION0022": {
+      "frame": {
+        "x": 498,
+        "y": 2092,
+        "w": 498,
+        "h": 572
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 498,
+        "h": 572
+      },
+      "sourceSize": {
+        "w": 622,
+        "h": 573
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TRANSFORMATION0023": {
+      "frame": {
+        "x": 498,
+        "y": 2092,
+        "w": 498,
+        "h": 572
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 498,
+        "h": 572
+      },
+      "sourceSize": {
+        "w": 622,
+        "h": 573
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TRANSFORMATION0024": {
+      "frame": {
+        "x": 498,
+        "y": 2092,
+        "w": 498,
+        "h": 572
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 498,
+        "h": 572
+      },
+      "sourceSize": {
+        "w": 622,
+        "h": 573
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "tiny mouse satan.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 3700,
+      "h": 3418
+    },
+    "scale": 1
+  }
+}

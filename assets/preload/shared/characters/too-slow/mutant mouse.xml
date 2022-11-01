@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="mutant mouse.png">
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+  <SubTexture name="DEATH0001" x="1024" y="1408"  width="498" height="573" frameX="-36" frameY="-10" frameWidth="641" frameHeight="601"/>
+  <SubTexture name="DEATH0002" x="1024" y="1408"  width="498" height="573" frameX="-36" frameY="-10" frameWidth="641" frameHeight="601"/>
+  <SubTexture name="DEATH0003" x="1031" y="851"  width="501" height="557" frameX="-34" frameY="-26" frameWidth="641" frameHeight="601"/>
+  <SubTexture name="DEATH0004" x="1031" y="851"  width="501" height="557" frameX="-34" frameY="-26" frameWidth="641" frameHeight="601"/>
+  <SubTexture name="DEATH0005" x="1522" y="1560"  width="499" height="592" frameX="-41" frameY="-9" frameWidth="641" frameHeight="601"/>
+  <SubTexture name="DEATH0006" x="2625" y="1753"  width="499" height="592" frameX="-41" frameY="-9" frameWidth="641" frameHeight="601"/>
+  <SubTexture name="DEATH0007" x="3124" y="1804"  width="462" height="592" frameX="-60" frameY="-9" frameWidth="641" frameHeight="601"/>
+  <SubTexture name="DEATH0008" x="0" y="1953"  width="462" height="592" frameX="-60" frameY="-9" frameWidth="641" frameHeight="601"/>
+  <SubTexture name="DEATH0009" x="462" y="1954"  width="439" height="592" frameX="-80" frameY="-9" frameWidth="641" frameHeight="601"/>
+  <SubTexture name="DEATH0010" x="901" y="1981"  width="524" height="592" frameX="-59" frameY="-9" frameWidth="641" frameHeight="601"/>
+  <SubTexture name="DEATH0011" x="1425" y="2152"  width="591" height="596" frameX="-25" frameY="-5" frameWidth="641" frameHeight="601"/>
+  <SubTexture name="DEATH0012" x="2611" y="2396"  width="641" height="596" frameX="-0" frameY="-5" frameWidth="641" frameHeight="601"/>
+  <SubTexture name="DEATH0013" x="3252" y="2396"  width="641" height="599" frameX="-0" frameY="-2" frameWidth="641" frameHeight="601"/>
+  <SubTexture name="DEATH0014" x="0" y="2546"  width="615" height="599" frameX="-13" frameY="-2" frameWidth="641" frameHeight="601"/>
+  <SubTexture name="DEATH0015" x="1219" y="2748"  width="615" height="601" frameX="-13" frameY="-0" frameWidth="641" frameHeight="601"/>
+  <SubTexture name="DEATH0016" x="1834" y="2907"  width="604" height="601" frameX="-19" frameY="-0" frameWidth="641" frameHeight="601"/>
+  <SubTexture name="DEATH0017" x="1834" y="2907"  width="604" height="601" frameX="-19" frameY="-0" frameWidth="641" frameHeight="601"/>
+  <SubTexture name="DEATH0018" x="1834" y="2907"  width="604" height="601" frameX="-19" frameY="-0" frameWidth="641" frameHeight="601"/>
+  <SubTexture name="DEATH0019" x="1834" y="2907"  width="604" height="601" frameX="-19" frameY="-0" frameWidth="641" frameHeight="601"/>
+  <SubTexture name="DEATH0020" x="1834" y="2907"  width="604" height="601" frameX="-19" frameY="-0" frameWidth="641" frameHeight="601"/>
+  <SubTexture name="DEATH0021" x="1834" y="2907"  width="604" height="601" frameX="-19" frameY="-0" frameWidth="641" frameHeight="601"/>
+  <SubTexture name="DEATH0022" x="1834" y="2907"  width="604" height="601" frameX="-19" frameY="-0" frameWidth="641" frameHeight="601"/>
+  <SubTexture name="DEATH0023" x="1834" y="2907"  width="604" height="601" frameX="-19" frameY="-0" frameWidth="641" frameHeight="601"/>
+  <SubTexture name="DEATH0024" x="615" y="2573"  width="604" height="599" frameX="-19" frameY="-2" frameWidth="641" frameHeight="601"/>
+  <SubTexture name="DEATH0025" x="615" y="2573"  width="604" height="599" frameX="-19" frameY="-2" frameWidth="641" frameHeight="601"/>
+  <SubTexture name="DEATH0026" x="2021" y="1720"  width="604" height="589" frameX="-19" frameY="-12" frameWidth="641" frameHeight="601"/>
+  <SubTexture name="DEATH0027" x="2021" y="1720"  width="604" height="589" frameX="-19" frameY="-12" frameWidth="641" frameHeight="601"/>
+  <SubTexture name="DEATH0028" x="2024" y="1163"  width="604" height="557" frameX="-19" frameY="-44" frameWidth="641" frameHeight="601"/>
+  <SubTexture name="DEATH0029" x="2024" y="1163"  width="604" height="557" frameX="-19" frameY="-44" frameWidth="641" frameHeight="601"/>
+  <SubTexture name="DEATH0030" x="2882" y="147"  width="604" height="492" frameX="-19" frameY="-109" frameWidth="641" frameHeight="601"/>
+  <SubTexture name="DEATH0031" x="2882" y="147"  width="604" height="492" frameX="-19" frameY="-109" frameWidth="641" frameHeight="601"/>
+  <SubTexture name="DEATH0032" x="1709" y="144"  width="604" height="310" frameX="-19" frameY="-291" frameWidth="641" frameHeight="601"/>
+  <SubTexture name="DEATH0033" x="1709" y="144"  width="604" height="310" frameX="-19" frameY="-291" frameWidth="641" frameHeight="601"/>
+  <SubTexture name="DEATH0034" x="1105" y="137"  width="604" height="166" frameX="-19" frameY="-435" frameWidth="641" frameHeight="601"/>
+  <SubTexture name="DEATH0035" x="2554" y="0"  width="604" height="147" frameX="-19" frameY="-454" frameWidth="641" frameHeight="601"/>
+  <SubTexture name="DEATH0036" x="3158" y="0"  width="604" height="147" frameX="-19" frameY="-454" frameWidth="641" frameHeight="601"/>
+  <SubTexture name="DEATH0037" x="3158" y="0"  width="604" height="147" frameX="-19" frameY="-454" frameWidth="641" frameHeight="601"/>
+  <SubTexture name="DEATH0038" x="3158" y="0"  width="604" height="147" frameX="-19" frameY="-454" frameWidth="641" frameHeight="601"/>
+  <SubTexture name="DEATH0039" x="129" y="125"  width="604" height="147" frameX="-19" frameY="-454" frameWidth="641" frameHeight="601"/>
+  <SubTexture name="DEATH0040" x="129" y="125"  width="604" height="147" frameX="-19" frameY="-454" frameWidth="641" frameHeight="601"/>
+  <SubTexture name="DEATH0041" x="1939" y="0"  width="615" height="144" frameX="-13" frameY="-457" frameWidth="641" frameHeight="601"/>
+  <SubTexture name="DEATH0042" x="1939" y="0"  width="615" height="144" frameX="-13" frameY="-457" frameWidth="641" frameHeight="601"/>
+  <SubTexture name="DEATH0043" x="183" y="0"  width="641" height="125" frameX="-0" frameY="-476" frameWidth="641" frameHeight="601"/>
+  <SubTexture name="DEATH0044" x="183" y="0"  width="641" height="125" frameX="-0" frameY="-476" frameWidth="641" frameHeight="601"/>
+  <SubTexture name="DEATH0045" x="824" y="0"  width="591" height="133" frameX="-25" frameY="-468" frameWidth="641" frameHeight="601"/>
+  <SubTexture name="DEATH0046" x="1415" y="0"  width="524" height="137" frameX="-59" frameY="-464" frameWidth="641" frameHeight="601"/>
+  <SubTexture name="DEATH0047" x="733" y="133"  width="372" height="148" frameX="-135" frameY="-453" frameWidth="641" frameHeight="601"/>
+  <SubTexture name="DEATH0048" x="3762" y="0"  width="210" height="151" frameX="-216" frameY="-450" frameWidth="641" frameHeight="601"/>
+  <SubTexture name="DEATH0049" x="0" y="106"  width="129" height="154" frameX="-256" frameY="-447" frameWidth="641" frameHeight="601"/>
+  <SubTexture name="DEATH0050" x="30" y="0"  width="153" height="106" frameX="-244" frameY="-495" frameWidth="641" frameHeight="601"/>
+  <SubTexture name="DEATH0051" x="0" y="0"  width="30" height="67" frameX="-306" frameY="-534" frameWidth="641" frameHeight="601"/>
+  <SubTexture name="MONSTER DOWN0001" x="3138" y="1238"  width="559" height="566" frameX="-9" frameY="-32" frameWidth="569" frameHeight="598"/>
+  <SubTexture name="MONSTER DOWN0002" x="3138" y="1238"  width="559" height="566" frameX="-9" frameY="-32" frameWidth="569" frameHeight="598"/>
+  <SubTexture name="MONSTER DOWN0003" x="2313" y="147"  width="569" height="469" frameX="-0" frameY="-129" frameWidth="569" frameHeight="598"/>
+  <SubTexture name="MONSTER DOWN0004" x="2313" y="147"  width="569" height="469" frameX="-0" frameY="-129" frameWidth="569" frameHeight="598"/>
+  <SubTexture name="MONSTER DOWN0005" x="3486" y="151"  width="434" height="533" frameX="-54" frameY="-65" frameWidth="569" frameHeight="598"/>
+  <SubTexture name="MONSTER IDLE0001" x="0" y="827"  width="517" height="555" frameX="-0" frameY="-16" frameWidth="522" frameHeight="571"/>
+  <SubTexture name="MONSTER IDLE0002" x="0" y="827"  width="517" height="555" frameX="-0" frameY="-16" frameWidth="522" frameHeight="571"/>
+  <SubTexture name="MONSTER IDLE0003" x="517" y="827"  width="514" height="556" frameX="-0" frameY="-15" frameWidth="522" frameHeight="571"/>
+  <SubTexture name="MONSTER IDLE0004" x="517" y="827"  width="514" height="556" frameX="-0" frameY="-15" frameWidth="522" frameHeight="571"/>
+  <SubTexture name="MONSTER IDLE0005" x="3324" y="684"  width="497" height="554" frameX="-19" frameY="-17" frameWidth="522" frameHeight="571"/>
+  <SubTexture name="MONSTER IDLE0006" x="3324" y="684"  width="497" height="554" frameX="-19" frameY="-17" frameWidth="522" frameHeight="571"/>
+  <SubTexture name="MONSTER IDLE0007" x="1532" y="1002"  width="492" height="558" frameX="-18" frameY="-13" frameWidth="522" frameHeight="571"/>
+  <SubTexture name="MONSTER IDLE0008" x="1532" y="1002"  width="492" height="558" frameX="-18" frameY="-13" frameWidth="522" frameHeight="571"/>
+  <SubTexture name="MONSTER IDLE0009" x="2628" y="1190"  width="510" height="563" frameX="-12" frameY="-8" frameWidth="522" frameHeight="571"/>
+  <SubTexture name="MONSTER IDLE0010" x="2628" y="1190"  width="510" height="563" frameX="-12" frameY="-8" frameWidth="522" frameHeight="571"/>
+  <SubTexture name="MONSTER IDLE0011" x="0" y="1382"  width="512" height="571" frameX="-10" frameY="-0" frameWidth="522" frameHeight="571"/>
+  <SubTexture name="MONSTER IDLE0012" x="0" y="1382"  width="512" height="571" frameX="-10" frameY="-0" frameWidth="522" frameHeight="571"/>
+  <SubTexture name="MONSTER IDLE0013" x="512" y="1383"  width="512" height="571" frameX="-10" frameY="-0" frameWidth="522" frameHeight="571"/>
+  <SubTexture name="MONSTER IDLE0014" x="512" y="1383"  width="512" height="571" frameX="-10" frameY="-0" frameWidth="522" frameHeight="571"/>
+  <SubTexture name="MONSTER IDLE0015" x="512" y="1383"  width="512" height="571" frameX="-10" frameY="-0" frameWidth="522" frameHeight="571"/>
+  <SubTexture name="MONSTER IDLE0016" x="512" y="1383"  width="512" height="571" frameX="-10" frameY="-0" frameWidth="522" frameHeight="571"/>
+  <SubTexture name="MONSTER IDLE0017" x="512" y="1383"  width="512" height="571" frameX="-10" frameY="-0" frameWidth="522" frameHeight="571"/>
+  <SubTexture name="MONSTER LEFT0001" x="2128" y="616"  width="711" height="547" frameX="-66" frameY="-2" frameWidth="800" frameHeight="549"/>
+  <SubTexture name="MONSTER LEFT0002" x="2128" y="616"  width="711" height="547" frameX="-66" frameY="-2" frameWidth="800" frameHeight="549"/>
+  <SubTexture name="MONSTER LEFT0003" x="1050" y="303"  width="638" height="548" frameX="-84" frameY="-1" frameWidth="800" frameHeight="549"/>
+  <SubTexture name="MONSTER LEFT0004" x="1050" y="303"  width="638" height="548" frameX="-84" frameY="-1" frameWidth="800" frameHeight="549"/>
+  <SubTexture name="MONSTER LEFT0005" x="0" y="272"  width="441" height="541" frameX="-261" frameY="-8" frameWidth="800" frameHeight="549"/>
+  <SubTexture name="MONSTER RIGHT0001" x="441" y="281"  width="609" height="546" frameX="-7" frameY="-5" frameWidth="632" frameHeight="554"/>
+  <SubTexture name="MONSTER RIGHT0002" x="441" y="281"  width="609" height="546" frameX="-7" frameY="-5" frameWidth="632" frameHeight="554"/>
+  <SubTexture name="MONSTER RIGHT0003" x="2839" y="639"  width="485" height="551" frameX="-60" frameY="-0" frameWidth="632" frameHeight="554"/>
+  <SubTexture name="MONSTER RIGHT0004" x="2839" y="639"  width="485" height="551" frameX="-60" frameY="-0" frameWidth="632" frameHeight="554"/>
+  <SubTexture name="MONSTER RIGHT0005" x="1688" y="454"  width="440" height="548" frameX="-32" frameY="-3" frameWidth="632" frameHeight="554"/>
+  <SubTexture name="MONSTER UP0001" x="3005" y="2995"  width="543" height="712" frameX="-16" frameY="-9" frameWidth="599" frameHeight="727"/>
+  <SubTexture name="MONSTER UP0002" x="3005" y="2995"  width="543" height="712" frameX="-16" frameY="-9" frameWidth="599" frameHeight="727"/>
+  <SubTexture name="MONSTER UP0003" x="2438" y="2992"  width="567" height="651" frameX="-5" frameY="-35" frameWidth="599" frameHeight="727"/>
+  <SubTexture name="MONSTER UP0004" x="2438" y="2992"  width="567" height="651" frameX="-5" frameY="-35" frameWidth="599" frameHeight="727"/>
+  <SubTexture name="MONSTER UP0005" x="2016" y="2309"  width="595" height="598" frameX="-0" frameY="-88" frameWidth="599" frameHeight="727"/>
+</TextureAtlas>
