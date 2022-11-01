@@ -1,0 +1,101 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "LEAKER 2 IDLE"
+		},
+		{
+			"offsets": [
+				-31,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "leaker 2 DOWN0"
+		},
+		{
+			"offsets": [
+				81,
+				241
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "LEAKER 2 UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				287,
+				3
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "LEAKER 2 LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-109,
+				-36
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "LEAKER 2 RIGHT",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				117,
+				15
+			],
+			"anim": "floss",
+			"fps": 24,
+			"name": "floss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				40
+			],
+			"anim": "kiss ass",
+			"fps": 24,
+			"name": "Leaker amante del poto",
+			"indices": []
+		}
+	],
+	"dataType": "JSON",
+	"no_antialiasing": false,
+	"image": "characters/leakers/LEAKER 2",
+	"position": [
+		137,
+		291
+	],
+	"healthicon": "leakers",
+	"flip_x": false,
+	"healthbar_colors": [
+		56,
+		59,
+		57
+	],
+	"camera_position": [
+		-127,
+		-170
+	],
+	"sing_duration": 4.5,
+	"scale": 2.4
+}

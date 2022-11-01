@@ -1,0 +1,112 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "LEAKER IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-50
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "LEAKER DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-79,
+				97
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "LEAKER UP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				39,
+				13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "LEAKER LEFT"
+		},
+		{
+			"offsets": [
+				10,
+				-34
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "LEAKER RIGHT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				26
+			],
+			"anim": "dig in ass",
+			"fps": 24,
+			"name": "CELPHONE",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				186,
+				139
+			],
+			"anim": "bitch",
+			"fps": 24,
+			"name": "leaker angry",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				12,
+				26
+			],
+			"anim": "dig in assEnd",
+			"fps": 24,
+			"name": "CELPHONE0092",
+			"indices": []
+		}
+	],
+	"dataType": "JSON",
+	"no_antialiasing": false,
+	"image": "characters/leakers/LEAKER 1",
+	"position": [
+		133,
+		478
+	],
+	"healthicon": "leakers",
+	"flip_x": true,
+	"healthbar_colors": [
+		56,
+		59,
+		57
+	],
+	"camera_position": [
+		233,
+		-130
+	],
+	"sing_duration": 4.2,
+	"scale": 2.4
+}

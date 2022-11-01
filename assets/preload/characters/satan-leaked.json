@@ -1,0 +1,90 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-19
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "SATAN DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				169
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "SATAN UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				14
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "SATAN RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				0
+			],
+			"anim": "leakers",
+			"fps": 24,
+			"name": "SATAN DIALOGUE 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				110
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "SATAN LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "SATAN LEFT0011",
+			"indices": []
+		}
+	],
+	"dataType": "JSON",
+	"no_antialiasing": false,
+	"image": "characters/leakers/SATAN LEAKERS",
+	"position": [
+		300,
+		136
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-110,
+		-130
+	],
+	"sing_duration": 4.10000000000001,
+	"scale": 2.4
+}
