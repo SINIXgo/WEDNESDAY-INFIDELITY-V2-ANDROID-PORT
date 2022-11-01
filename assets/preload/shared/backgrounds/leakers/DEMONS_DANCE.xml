@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DEMONS DANCE.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+    <SubTexture name="DEMONS IDLE0000" x="736" y="1205"  width="244.5" height="71" frameX="-6" frameY="-17" frameWidth="259" frameHeight="88.5"/>
+    <SubTexture name="DEMONS IDLE0001" x="736" y="1205"  width="244.5" height="71" frameX="-6" frameY="-17" frameWidth="259" frameHeight="88.5"/>
+    <SubTexture name="DEMONS IDLE0002" x="1235" y="1124"  width="244.5" height="70" frameX="-6.5" frameY="-18" frameWidth="259" frameHeight="88.5"/>
+    <SubTexture name="DEMONS IDLE0003" x="1235" y="1124"  width="244.5" height="70" frameX="-6.5" frameY="-18" frameWidth="259" frameHeight="88.5"/>
+    <SubTexture name="DEMONS IDLE0004" x="745" y="960"  width="245.5" height="73" frameX="-6" frameY="-15" frameWidth="259" frameHeight="88.5"/>
+    <SubTexture name="DEMONS IDLE0005" x="1513.5" y="695" width="86.5" height="249.5" rotated="true"  frameX="-9" frameY="-1.5" frameWidth="259" frameHeight="88.5"/>
+    <SubTexture name="DEMONS IDLE0006" x="762" y="523"  width="253" height="86.5" frameX="-6" frameY="-1.5" frameWidth="259" frameHeight="88.5"/>
+    <SubTexture name="DEMONS IDLE0007" x="1270.5" y="518"  width="253" height="86.5" frameX="-5" frameY="-2" frameWidth="259" frameHeight="88.5"/>
+    <SubTexture name="DEMONS IDLE0008" x="1015" y="523.5"  width="253" height="86.5" frameX="-5" frameY="-2" frameWidth="259" frameHeight="88.5"/>
+    <SubTexture name="DEMONS IDLE0009" x="253.5" y="609.5"  width="253" height="86" frameX="-5" frameY="-2.5" frameWidth="259" frameHeight="88.5"/>
+    <SubTexture name="DEMONS IDLE0010" x="507" y="607"  width="253" height="86" frameX="-5" frameY="-2.5" frameWidth="259" frameHeight="88.5"/>
+    <SubTexture name="DEMONS IDLE0011" x="1526" y="427" width="73" height="245.5" rotated="true"  frameX="-6" frameY="-15" frameWidth="259" frameHeight="88.5"/>
+    <SubTexture name="DEMONS IDLE0012" x="1479.5" y="1190" width="71" height="244.5" rotated="true"  frameX="-6" frameY="-17" frameWidth="259" frameHeight="88.5"/>
+    <SubTexture name="DEMONS IDLE0013" x="736" y="1205"  width="244.5" height="71" frameX="-6" frameY="-17" frameWidth="259" frameHeight="88.5"/>
+    <SubTexture name="DEMONS IDLE0014" x="1229" y="1194"  width="244.5" height="70" frameX="-6.5" frameY="-18" frameWidth="259" frameHeight="88.5"/>
+    <SubTexture name="DEMONS IDLE0015" x="1229" y="1194"  width="244.5" height="70" frameX="-6.5" frameY="-18" frameWidth="259" frameHeight="88.5"/>
+    <SubTexture name="DEMONS IDLE0016" x="723.5" y="1276"  width="239" height="74" frameX="-11" frameY="-14" frameWidth="259" frameHeight="88.5"/>
+    <SubTexture name="DEMONS IDLE0017" x="756.5" y="784.5"  width="248" height="88" frameX="-0" frameY="-0" frameWidth="259" frameHeight="88.5"/>
+    <SubTexture name="DEMONS IDLE0018" x="1260" y="784.5"  width="248" height="88" frameX="-0" frameY="-0" frameWidth="259" frameHeight="88.5"/>
+    <SubTexture name="DEMONS IDLE0019" x="502" y="871"  width="247.5" height="87.5" frameX="-1.5" frameY="-0.5" frameWidth="259" frameHeight="88.5"/>
+    <SubTexture name="DEMONS IDLE0020" x="749.5" y="872.5"  width="247.5" height="87.5" frameX="-1.5" frameY="-0.5" frameWidth="259" frameHeight="88.5"/>
+    <SubTexture name="DEMONS IDLE0021" x="498" y="958.5"  width="247" height="87" frameX="-2" frameY="-1" frameWidth="259" frameHeight="88.5"/>
+    <SubTexture name="DEMONS IDLE0022" x="247.5" y="961.5"  width="247" height="87" frameX="-2" frameY="-1" frameWidth="259" frameHeight="88.5"/>
+    <SubTexture name="DEMONS IDLE0023" x="342" y="1391.5" width="80" height="233" rotated="true"  frameX="-14" frameY="-8" frameWidth="259" frameHeight="88.5"/>
+    <SubTexture name="DEMONS IDLE0024" x="245" y="1276"  width="239.5" height="74" frameX="-11" frameY="-14" frameWidth="259" frameHeight="88.5"/>
+    <SubTexture name="DEMONS TROMPETA0000" x="251.5" y="786"  width="250.5" height="89.5" frameX="-7" frameY="-1" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0001" x="1263" y="695"  width="250.5" height="89.5" frameX="-7" frameY="-1" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0002" x="253.5" y="695.5"  width="251.5" height="90.5" frameX="-4" frameY="-0" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0003" x="506.5" y="693"  width="251.5" height="90.5" frameX="-4" frameY="-0" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0004" x="0" y="608"  width="253.5" height="91" frameX="-0.5" frameY="-0" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0005" x="253.5" y="518.5"  width="253.5" height="91" frameX="-0.5" frameY="-0" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0006" x="508.5" y="516"  width="253.5" height="91" frameX="-0" frameY="-0" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0007" x="254.5" y="427.5"  width="254" height="91" frameX="-0" frameY="-0" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0008" x="763.5" y="432"  width="253.5" height="91" frameX="-0" frameY="-0" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0009" x="509.5" y="427"  width="254" height="89" frameX="-17" frameY="-2.5" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0010" x="1044.5" y="85.5"  width="260" height="84" frameX="-30.5" frameY="-6.5" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0011" x="1304.5" y="85.5"  width="260" height="84" frameX="-30.5" frameY="-6.5" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0012" x="263" y="0"  width="263" height="85" frameX="-29.5" frameY="-5.5" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0013" x="263" y="0"  width="263" height="85" frameX="-29.5" frameY="-5.5" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0014" x="1050.5" y="0"  width="262" height="85.5" frameX="-30.5" frameY="-5" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0015" x="788.5" y="0"  width="262" height="85.5" frameX="-30.5" frameY="-5" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0016" x="788.5" y="0"  width="262" height="85.5" frameX="-30.5" frameY="-5" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0017" x="0" y="85"  width="262.5" height="85.5" frameX="-30.5" frameY="-5" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0018" x="788.5" y="0"  width="262" height="85.5" frameX="-30.5" frameY="-5" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0019" x="788.5" y="0"  width="262" height="85.5" frameX="-30.5" frameY="-5" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0020" x="788.5" y="0"  width="262" height="85.5" frameX="-30.5" frameY="-5" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0021" x="1050.5" y="0"  width="262" height="85.5" frameX="-30.5" frameY="-5" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0022" x="524.5" y="169.5"  width="259.5" height="85.5" frameX="-27.5" frameY="-6" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0023" x="760" y="609.5"  width="251.5" height="87.5" frameX="-35.5" frameY="-7" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0024" x="1011.5" y="610"  width="251.5" height="87.5" frameX="-35.5" frameY="-7" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0025" x="784" y="169.5"  width="255.5" height="85.5" frameX="-36" frameY="-9" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0026" x="1280" y="255.5"  width="255" height="85.5" frameX="-36" frameY="-9" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0027" x="1294.5" y="169.5"  width="255" height="86" frameX="-36.5" frameY="-9" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0028" x="0" y="256"  width="255" height="86" frameX="-36.5" frameY="-9" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0029" x="255" y="341.5"  width="254.5" height="86" frameX="-37" frameY="-9" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0030" x="770" y="255"  width="255" height="86" frameX="-36.5" frameY="-9" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0031" x="770" y="255"  width="255" height="86" frameX="-36.5" frameY="-9" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0032" x="770" y="255"  width="255" height="86" frameX="-36.5" frameY="-9" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0033" x="515" y="255"  width="255" height="86" frameX="-36.5" frameY="-9" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0034" x="770" y="255"  width="255" height="86" frameX="-36.5" frameY="-9" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0035" x="770" y="255"  width="255" height="86" frameX="-36.5" frameY="-9" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0036" x="0" y="1206.5"  width="245" height="87.5" frameX="-32" frameY="-12" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0037" x="984.5" y="1132.5"  width="244.5" height="87.5" frameX="-32.5" frameY="-12" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0038" x="1498" y="944.5" width="87.5" height="245.5" rotated="true"  frameX="-29.5" frameY="-11" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0039" x="1498" y="944.5" width="87.5" height="245.5" rotated="true"  frameX="-29.5" frameY="-11" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0040" x="990.5" y="961"  width="245" height="87" frameX="-29.5" frameY="-10.5" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0041" x="246" y="1048.5"  width="245" height="87" frameX="-29.5" frameY="-10.5" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0042" x="990.5" y="961"  width="245" height="87" frameX="-29.5" frameY="-10.5" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0043" x="990.5" y="961"  width="245" height="87" frameX="-29.5" frameY="-10.5" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0044" x="510.5" y="1391.5" width="89" height="228" rotated="true"  frameX="-35" frameY="-10.5" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0045" x="1131.5" y="1396" width="89" height="228" rotated="true"  frameX="-35" frameY="-10.5" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0046" x="962.5" y="1307.5"  width="228" height="88.5" frameX="-34.5" frameY="-10" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0047" x="962.5" y="1307.5"  width="228" height="88.5" frameX="-34.5" frameY="-10" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0048" x="688" y="1391.5" width="88.5" height="228" rotated="true"  frameX="-34.5" frameY="-10" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0049" x="599.5" y="1391.5" width="88.5" height="228" rotated="true"  frameX="-34.5" frameY="-10" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0050" x="688" y="1391.5" width="88.5" height="228" rotated="true"  frameX="-34.5" frameY="-10" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0051" x="688" y="1391.5" width="88.5" height="228" rotated="true"  frameX="-34.5" frameY="-10" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0052" x="1220.5" y="1440"  width="226.5" height="90" frameX="-33.5" frameY="-4.5" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0053" x="745" y="1033"  width="245" height="88.5" frameX="-16" frameY="-1.5" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0054" x="494.5" y="1045.5"  width="245" height="88.5" frameX="-16" frameY="-1.5" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0055" x="1004.5" y="787"  width="247.5" height="86.5" frameX="-15" frameY="-3.5" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0056" x="1004.5" y="787"  width="247.5" height="86.5" frameX="-15" frameY="-3.5" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0057" x="0" y="879"  width="247.5" height="86" frameX="-15" frameY="-4" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0058" x="250.5" y="875.5"  width="247.5" height="86" frameX="-15" frameY="-4" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0059" x="990" y="1048"  width="245" height="84.5" frameX="-17.5" frameY="-5.5" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0060" x="990" y="1048"  width="245" height="84.5" frameX="-17.5" frameY="-5.5" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0061" x="739.5" y="1121.5"  width="245" height="83.5" frameX="-17.5" frameY="-6.5" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0062" x="491" y="1134"  width="245" height="83.5" frameX="-17.5" frameY="-6.5" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0063" x="245" y="1135.5"  width="245" height="82" frameX="-23.5" frameY="-8" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0064" x="245" y="1135.5"  width="245" height="82" frameX="-23.5" frameY="-8" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0065" x="169.5" y="1351.5" width="82" height="244" rotated="true"  frameX="-23.5" frameY="-8" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0066" x="87.5" y="1351.5" width="82" height="244" rotated="true"  frameX="-23.5" frameY="-8" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0067" x="87.5" y="1351.5" width="82" height="244" rotated="true"  frameX="-23.5" frameY="-8" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0068" x="1252" y="872.5"  width="246" height="77.5" frameX="-22" frameY="-12.5" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0069" x="0" y="965"  width="246" height="77.5" frameX="-22" frameY="-12.5" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0070" x="0" y="1042.5"  width="246" height="76.5" frameX="-22" frameY="-13.5" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0071" x="0" y="1042.5"  width="246" height="76.5" frameX="-22" frameY="-13.5" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0072" x="251.5" y="1351.5" width="90.5" height="242" rotated="true"  frameX="-32.5" frameY="-5.5" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0073" x="0" y="1351.5" width="87.5" height="244" rotated="true"  frameX="-33" frameY="-12" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0074" x="1225" y="1264"  width="244" height="87.5" frameX="-33" frameY="-12" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0075" x="484.5" y="1308"  width="236" height="83.5" frameX="-31.5" frameY="-6.5" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0076" x="484.5" y="1308"  width="236" height="83.5" frameX="-31.5" frameY="-6.5" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0077" x="484.5" y="1217.5"  width="239" height="90.5" frameX="-22.5" frameY="-0" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0078" x="0" y="789.5"  width="250.5" height="89.5" frameX="-7" frameY="-1" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0079" x="1009.5" y="697.5"  width="250.5" height="89.5" frameX="-7" frameY="-1" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0080" x="1268" y="604.5"  width="251.5" height="90.5" frameX="-4" frameY="-0" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0081" x="0" y="699"  width="251.5" height="90.5" frameX="-4" frameY="-0" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0082" x="1019" y="341.5"  width="253.5" height="91" frameX="-0.5" frameY="-0" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0083" x="1272.5" y="427"  width="253.5" height="91" frameX="-0.5" frameY="-0" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0084" x="0" y="517"  width="253.5" height="91" frameX="-0" frameY="-0" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0085" x="765" y="341"  width="254" height="91" frameX="-0" frameY="-0" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0086" x="1017" y="432.5"  width="253.5" height="91" frameX="-0" frameY="-0" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0087" x="0" y="428"  width="254" height="89" frameX="-17" frameY="-2.5" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0088" x="784.5" y="85.5"  width="260" height="84" frameX="-30.5" frameY="-6.5" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0089" x="524.5" y="85.5"  width="260" height="84" frameX="-30.5" frameY="-6.5" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0090" x="0" y="0"  width="263" height="85" frameX="-29.5" frameY="-5.5" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0091" x="0" y="0"  width="263" height="85" frameX="-29.5" frameY="-5.5" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0092" x="262.5" y="85"  width="262" height="85.5" frameX="-30.5" frameY="-5" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0093" x="1312.5" y="0"  width="262" height="85.5" frameX="-30.5" frameY="-5" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0094" x="1312.5" y="0"  width="262" height="85.5" frameX="-30.5" frameY="-5" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0095" x="526" y="0"  width="262.5" height="85.5" frameX="-30.5" frameY="-5" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0096" x="1312.5" y="0"  width="262" height="85.5" frameX="-30.5" frameY="-5" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0097" x="1312.5" y="0"  width="262" height="85.5" frameX="-30.5" frameY="-5" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0098" x="1312.5" y="0"  width="262" height="85.5" frameX="-30.5" frameY="-5" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0099" x="262.5" y="85"  width="262" height="85.5" frameX="-30.5" frameY="-5" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0100" x="0" y="170.5"  width="259.5" height="85.5" frameX="-27.5" frameY="-6" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0101" x="505" y="783.5"  width="251.5" height="87.5" frameX="-35.5" frameY="-7" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0102" x="758" y="697"  width="251.5" height="87.5" frameX="-35.5" frameY="-7" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0103" x="259.5" y="170.5"  width="255.5" height="85.5" frameX="-36" frameY="-9" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0104" x="255" y="256"  width="255" height="85.5" frameX="-36" frameY="-9" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0105" x="1025" y="255.5"  width="255" height="86" frameX="-36.5" frameY="-9" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0106" x="1280" y="341"  width="255" height="86" frameX="-36.5" frameY="-9" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0107" x="0" y="342"  width="254.5" height="86" frameX="-37" frameY="-9" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0108" x="1039.5" y="169.5"  width="255" height="86" frameX="-36.5" frameY="-9" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0109" x="1039.5" y="169.5"  width="255" height="86" frameX="-36.5" frameY="-9" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0110" x="1039.5" y="169.5"  width="255" height="86" frameX="-36.5" frameY="-9" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0111" x="510" y="341"  width="255" height="86" frameX="-36.5" frameY="-9" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0112" x="1039.5" y="169.5"  width="255" height="86" frameX="-36.5" frameY="-9" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0113" x="1039.5" y="169.5"  width="255" height="86" frameX="-36.5" frameY="-9" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0114" x="0" y="1119"  width="245" height="87.5" frameX="-32" frameY="-12" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0115" x="980.5" y="1220"  width="244.5" height="87.5" frameX="-32.5" frameY="-12" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0116" x="997" y="873.5"  width="245.5" height="87.5" frameX="-29.5" frameY="-11" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0117" x="997" y="873.5"  width="245.5" height="87.5" frameX="-29.5" frameY="-11" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0118" x="1235.5" y="1037"  width="245" height="87" frameX="-29.5" frameY="-10.5" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0119" x="1242.5" y="950"  width="245" height="87" frameX="-29.5" frameY="-10.5" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0120" x="1235.5" y="1037"  width="245" height="87" frameX="-29.5" frameY="-10.5" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0121" x="1235.5" y="1037"  width="245" height="87" frameX="-29.5" frameY="-10.5" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0122" x="776.5" y="1396" width="89" height="228" rotated="true"  frameX="-35" frameY="-10.5" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0123" x="865.5" y="1396" width="89" height="228" rotated="true"  frameX="-35" frameY="-10.5" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0124" x="954.5" y="1396" width="88.5" height="228" rotated="true"  frameX="-34.5" frameY="-10" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0125" x="954.5" y="1396" width="88.5" height="228" rotated="true"  frameX="-34.5" frameY="-10" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0126" x="1043" y="1396" width="88.5" height="228" rotated="true"  frameX="-34.5" frameY="-10" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0127" x="422" y="1391.5" width="88.5" height="228" rotated="true"  frameX="-34.5" frameY="-10" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0128" x="1043" y="1396" width="88.5" height="228" rotated="true"  frameX="-34.5" frameY="-10" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0129" x="1043" y="1396" width="88.5" height="228" rotated="true"  frameX="-34.5" frameY="-10" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0130" x="1043" y="1396" width="88.5" height="228" rotated="true"  frameX="-34.5" frameY="-10" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0131" x="1220.5" y="1351.5"  width="227.5" height="88.5" frameX="-35" frameY="-10" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0132" x="1043" y="1396" width="88.5" height="228" rotated="true"  frameX="-34.5" frameY="-10" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0133" x="1043" y="1396" width="88.5" height="228" rotated="true"  frameX="-34.5" frameY="-10" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0134" x="1043" y="1396" width="88.5" height="228" rotated="true"  frameX="-34.5" frameY="-10" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0135" x="422" y="1391.5" width="88.5" height="228" rotated="true"  frameX="-34.5" frameY="-10" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0136" x="1043" y="1396" width="88.5" height="228" rotated="true"  frameX="-34.5" frameY="-10" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0137" x="1043" y="1396" width="88.5" height="228" rotated="true"  frameX="-34.5" frameY="-10" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0138" x="1043" y="1396" width="88.5" height="228" rotated="true"  frameX="-34.5" frameY="-10" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0139" x="1220.5" y="1351.5"  width="227.5" height="88.5" frameX="-35" frameY="-10" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0140" x="1043" y="1396" width="88.5" height="228" rotated="true"  frameX="-34.5" frameY="-10" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0141" x="1043" y="1396" width="88.5" height="228" rotated="true"  frameX="-34.5" frameY="-10" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0142" x="1043" y="1396" width="88.5" height="228" rotated="true"  frameX="-34.5" frameY="-10" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0143" x="422" y="1391.5" width="88.5" height="228" rotated="true"  frameX="-34.5" frameY="-10" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0144" x="1043" y="1396" width="88.5" height="228" rotated="true"  frameX="-34.5" frameY="-10" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0145" x="1043" y="1396" width="88.5" height="228" rotated="true"  frameX="-34.5" frameY="-10" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0146" x="1043" y="1396" width="88.5" height="228" rotated="true"  frameX="-34.5" frameY="-10" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0147" x="1220.5" y="1351.5"  width="227.5" height="88.5" frameX="-35" frameY="-10" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0148" x="1043" y="1396" width="88.5" height="228" rotated="true"  frameX="-34.5" frameY="-10" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0149" x="1043" y="1396" width="88.5" height="228" rotated="true"  frameX="-34.5" frameY="-10" frameWidth="293" frameHeight="100"/>
+    <SubTexture name="DEMONS TROMPETA0150" x="1043" y="1396" width="88.5" height="228" rotated="true"  frameX="-34.5" frameY="-10" frameWidth="293" frameHeight="100"/>
+</TextureAtlas>

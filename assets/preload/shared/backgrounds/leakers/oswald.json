@@ -1,0 +1,3807 @@
+{
+  "frames": {
+    "OSWALD MANCO NO PUSO PARED0004": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 220,
+        "h": 258
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 17,
+        "w": 220,
+        "h": 258
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0006": {
+      "frame": {
+        "x": 258,
+        "y": 0,
+        "w": 220,
+        "h": 259
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 16,
+        "w": 220,
+        "h": 259
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0008": {
+      "frame": {
+        "x": 517,
+        "y": 0,
+        "w": 220,
+        "h": 259.5
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 15.5,
+        "w": 220,
+        "h": 259.5
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0016": {
+      "frame": {
+        "x": 776.5,
+        "y": 0,
+        "w": 220,
+        "h": 258
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 17,
+        "w": 220,
+        "h": 258
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0018": {
+      "frame": {
+        "x": 1034.5,
+        "y": 0,
+        "w": 220,
+        "h": 258
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 17,
+        "w": 220,
+        "h": 258
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0060": {
+      "frame": {
+        "x": 1292.5,
+        "y": 0,
+        "w": 225,
+        "h": 256
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 19,
+        "w": 225,
+        "h": 256
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0044": {
+      "frame": {
+        "x": 1548.5,
+        "y": 0,
+        "w": 225.5,
+        "h": 255
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 20,
+        "w": 225.5,
+        "h": 255
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0062": {
+      "frame": {
+        "x": 0,
+        "y": 220,
+        "w": 225,
+        "h": 258.5
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 16.5,
+        "w": 225,
+        "h": 258.5
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "mesa OSWALD0001": {
+      "frame": {
+        "x": 258.5,
+        "y": 220,
+        "w": 230,
+        "h": 244.5
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 1.5,
+        "w": 230,
+        "h": 244.5
+      },
+      "sourceSize": {
+        "w": 230,
+        "h": 246
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "mesa OSWALD0003": {
+      "frame": {
+        "x": 503,
+        "y": 220,
+        "w": 230,
+        "h": 245.5
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0.5,
+        "w": 230,
+        "h": 245.5
+      },
+      "sourceSize": {
+        "w": 230,
+        "h": 246
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "mesa OSWALD0005": {
+      "frame": {
+        "x": 748.5,
+        "y": 220,
+        "w": 230,
+        "h": 246
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 230,
+        "h": 246
+      },
+      "sourceSize": {
+        "w": 230,
+        "h": 246
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0001": {
+      "frame": {
+        "x": 994.5,
+        "y": 220,
+        "w": 230.5,
+        "h": 246
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 24,
+        "w": 230.5,
+        "h": 246
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0063": {
+      "frame": {
+        "x": 1240.5,
+        "y": 225,
+        "w": 233,
+        "h": 242.5
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 27.5,
+        "w": 233,
+        "h": 242.5
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0111": {
+      "frame": {
+        "x": 1483,
+        "y": 255,
+        "w": 236.5,
+        "h": 245
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 25,
+        "w": 236.5,
+        "h": 245
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0127": {
+      "frame": {
+        "x": 0,
+        "y": 445,
+        "w": 236.5,
+        "h": 245
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 25,
+        "w": 236.5,
+        "h": 245
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0130": {
+      "frame": {
+        "x": 245,
+        "y": 450,
+        "w": 236.5,
+        "h": 248.5
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4.5,
+        "y": 21.5,
+        "w": 236.5,
+        "h": 248.5
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0113": {
+      "frame": {
+        "x": 493.5,
+        "y": 450,
+        "w": 237,
+        "h": 245
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 25,
+        "w": 237,
+        "h": 245
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0115": {
+      "frame": {
+        "x": 738.5,
+        "y": 450,
+        "w": 237,
+        "h": 245
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 25,
+        "w": 237,
+        "h": 245
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0117": {
+      "frame": {
+        "x": 983.5,
+        "y": 450.5,
+        "w": 237,
+        "h": 245
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 25,
+        "w": 237,
+        "h": 245
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0119": {
+      "frame": {
+        "x": 1228.5,
+        "y": 458,
+        "w": 237,
+        "h": 245
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 25,
+        "w": 237,
+        "h": 245
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0121": {
+      "frame": {
+        "x": 1473.5,
+        "y": 491.5,
+        "w": 237,
+        "h": 245
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 25,
+        "w": 237,
+        "h": 245
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0123": {
+      "frame": {
+        "x": 0,
+        "y": 681.5,
+        "w": 237,
+        "h": 245
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 25,
+        "w": 237,
+        "h": 245
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0125": {
+      "frame": {
+        "x": 245,
+        "y": 686.5,
+        "w": 237,
+        "h": 245
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 25,
+        "w": 237,
+        "h": 245
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0040": {
+      "frame": {
+        "x": 490,
+        "y": 687,
+        "w": 238.5,
+        "h": 259.5
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 15.5,
+        "w": 238.5,
+        "h": 259.5
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0109": {
+      "frame": {
+        "x": 749.5,
+        "y": 687.5,
+        "w": 238.5,
+        "h": 244.5
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 25.5,
+        "w": 238.5,
+        "h": 244.5
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0131": {
+      "frame": {
+        "x": 994,
+        "y": 695,
+        "w": 238.5,
+        "h": 249
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 21,
+        "w": 238.5,
+        "h": 249
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0132": {
+      "frame": {
+        "x": 1243,
+        "y": 728.5,
+        "w": 238.5,
+        "h": 249
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 21,
+        "w": 238.5,
+        "h": 249
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0065": {
+      "frame": {
+        "x": 1492,
+        "y": 728.5,
+        "w": 239,
+        "h": 242.5
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 27.5,
+        "w": 239,
+        "h": 242.5
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0067": {
+      "frame": {
+        "x": 0,
+        "y": 918.5,
+        "w": 240.5,
+        "h": 244
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 26,
+        "w": 240.5,
+        "h": 244
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0069": {
+      "frame": {
+        "x": 244,
+        "y": 923.5,
+        "w": 240.5,
+        "h": 244.5
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 25.5,
+        "w": 240.5,
+        "h": 244.5
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0133": {
+      "frame": {
+        "x": 488.5,
+        "y": 925.5,
+        "w": 239,
+        "h": 251
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 19,
+        "w": 239,
+        "h": 251
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0135": {
+      "frame": {
+        "x": 739.5,
+        "y": 926,
+        "w": 239,
+        "h": 251
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 19,
+        "w": 239,
+        "h": 251
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0137": {
+      "frame": {
+        "x": 990.5,
+        "y": 933.5,
+        "w": 239,
+        "h": 251
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 19,
+        "w": 239,
+        "h": 251
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0139": {
+      "frame": {
+        "x": 1241.5,
+        "y": 967.5,
+        "w": 239,
+        "h": 251
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 19,
+        "w": 239,
+        "h": 251
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0129": {
+      "frame": {
+        "x": 1492.5,
+        "y": 967.5,
+        "w": 241,
+        "h": 248.5
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 21.5,
+        "w": 241,
+        "h": 248.5
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0091": {
+      "frame": {
+        "x": 0,
+        "y": 1164,
+        "w": 249,
+        "h": 242.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 27.5,
+        "w": 249,
+        "h": 242.5
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0093": {
+      "frame": {
+        "x": 249,
+        "y": 1164.5,
+        "w": 248,
+        "h": 242.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 27.5,
+        "w": 248,
+        "h": 242.5
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0097": {
+      "frame": {
+        "x": 497,
+        "y": 1165,
+        "w": 258.5,
+        "h": 243
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 27,
+        "w": 258.5,
+        "h": 243
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0099": {
+      "frame": {
+        "x": 755.5,
+        "y": 1172.5,
+        "w": 258.5,
+        "h": 243.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 26.5,
+        "w": 258.5,
+        "h": 243.5
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0095": {
+      "frame": {
+        "x": 1014,
+        "y": 1206.5,
+        "w": 275.5,
+        "h": 244
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 26,
+        "w": 275.5,
+        "h": 244
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0101": {
+      "frame": {
+        "x": 1289.5,
+        "y": 1208.5,
+        "w": 258.5,
+        "h": 244
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 26,
+        "w": 258.5,
+        "h": 244
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0103": {
+      "frame": {
+        "x": 0,
+        "y": 1407,
+        "w": 258.5,
+        "h": 244.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 25.5,
+        "w": 258.5,
+        "h": 244.5
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0105": {
+      "frame": {
+        "x": 258.5,
+        "y": 1408,
+        "w": 258.5,
+        "h": 245
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 25,
+        "w": 258.5,
+        "h": 245
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0108": {
+      "frame": {
+        "x": 517,
+        "y": 1416,
+        "w": 262.5,
+        "h": 245
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 25,
+        "w": 262.5,
+        "h": 245
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0041": {
+      "frame": {
+        "x": 779.5,
+        "y": 1450.5,
+        "w": 261,
+        "h": 268.5
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 6.5,
+        "w": 261,
+        "h": 268.5
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0042": {
+      "frame": {
+        "x": 1048,
+        "y": 1452.5,
+        "w": 274.5,
+        "h": 275
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 0,
+        "w": 274.5,
+        "h": 275
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0043": {
+      "frame": {
+        "x": 1323,
+        "y": 1452.5,
+        "w": 279,
+        "h": 274.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 0.5,
+        "w": 279,
+        "h": 274.5
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0002": {
+      "frame": {
+        "x": 994.5,
+        "y": 220,
+        "w": 230.5,
+        "h": 246
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 24,
+        "w": 230.5,
+        "h": 246
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0003": {
+      "frame": {
+        "x": 994.5,
+        "y": 220,
+        "w": 230.5,
+        "h": 246
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 24,
+        "w": 230.5,
+        "h": 246
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0005": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 220,
+        "h": 258
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 17,
+        "w": 220,
+        "h": 258
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0007": {
+      "frame": {
+        "x": 258,
+        "y": 0,
+        "w": 220,
+        "h": 259
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 16,
+        "w": 220,
+        "h": 259
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0009": {
+      "frame": {
+        "x": 517,
+        "y": 0,
+        "w": 220,
+        "h": 259.5
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 15.5,
+        "w": 220,
+        "h": 259.5
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0010": {
+      "frame": {
+        "x": 517,
+        "y": 0,
+        "w": 220,
+        "h": 259.5
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 15.5,
+        "w": 220,
+        "h": 259.5
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0011": {
+      "frame": {
+        "x": 517,
+        "y": 0,
+        "w": 220,
+        "h": 259.5
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 15.5,
+        "w": 220,
+        "h": 259.5
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0012": {
+      "frame": {
+        "x": 517,
+        "y": 0,
+        "w": 220,
+        "h": 259.5
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 15.5,
+        "w": 220,
+        "h": 259.5
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0013": {
+      "frame": {
+        "x": 517,
+        "y": 0,
+        "w": 220,
+        "h": 259.5
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 15.5,
+        "w": 220,
+        "h": 259.5
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0014": {
+      "frame": {
+        "x": 517,
+        "y": 0,
+        "w": 220,
+        "h": 259.5
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 15.5,
+        "w": 220,
+        "h": 259.5
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0015": {
+      "frame": {
+        "x": 517,
+        "y": 0,
+        "w": 220,
+        "h": 259.5
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 15.5,
+        "w": 220,
+        "h": 259.5
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0017": {
+      "frame": {
+        "x": 776.5,
+        "y": 0,
+        "w": 220,
+        "h": 258
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 17,
+        "w": 220,
+        "h": 258
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0019": {
+      "frame": {
+        "x": 1034.5,
+        "y": 0,
+        "w": 220,
+        "h": 258
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 17,
+        "w": 220,
+        "h": 258
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0020": {
+      "frame": {
+        "x": 1034.5,
+        "y": 0,
+        "w": 220,
+        "h": 258
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 17,
+        "w": 220,
+        "h": 258
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0021": {
+      "frame": {
+        "x": 1034.5,
+        "y": 0,
+        "w": 220,
+        "h": 258
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 17,
+        "w": 220,
+        "h": 258
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0022": {
+      "frame": {
+        "x": 1034.5,
+        "y": 0,
+        "w": 220,
+        "h": 258
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 17,
+        "w": 220,
+        "h": 258
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0023": {
+      "frame": {
+        "x": 1034.5,
+        "y": 0,
+        "w": 220,
+        "h": 258
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 17,
+        "w": 220,
+        "h": 258
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0024": {
+      "frame": {
+        "x": 1034.5,
+        "y": 0,
+        "w": 220,
+        "h": 258
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 17,
+        "w": 220,
+        "h": 258
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0025": {
+      "frame": {
+        "x": 1034.5,
+        "y": 0,
+        "w": 220,
+        "h": 258
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 17,
+        "w": 220,
+        "h": 258
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0026": {
+      "frame": {
+        "x": 1034.5,
+        "y": 0,
+        "w": 220,
+        "h": 258
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 17,
+        "w": 220,
+        "h": 258
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0027": {
+      "frame": {
+        "x": 1034.5,
+        "y": 0,
+        "w": 220,
+        "h": 258
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 17,
+        "w": 220,
+        "h": 258
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0028": {
+      "frame": {
+        "x": 1034.5,
+        "y": 0,
+        "w": 220,
+        "h": 258
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 17,
+        "w": 220,
+        "h": 258
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0029": {
+      "frame": {
+        "x": 1034.5,
+        "y": 0,
+        "w": 220,
+        "h": 258
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 17,
+        "w": 220,
+        "h": 258
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0030": {
+      "frame": {
+        "x": 1034.5,
+        "y": 0,
+        "w": 220,
+        "h": 258
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 17,
+        "w": 220,
+        "h": 258
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0031": {
+      "frame": {
+        "x": 1034.5,
+        "y": 0,
+        "w": 220,
+        "h": 258
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 17,
+        "w": 220,
+        "h": 258
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0032": {
+      "frame": {
+        "x": 1034.5,
+        "y": 0,
+        "w": 220,
+        "h": 258
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 17,
+        "w": 220,
+        "h": 258
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0033": {
+      "frame": {
+        "x": 1034.5,
+        "y": 0,
+        "w": 220,
+        "h": 258
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 17,
+        "w": 220,
+        "h": 258
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0034": {
+      "frame": {
+        "x": 1034.5,
+        "y": 0,
+        "w": 220,
+        "h": 258
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 17,
+        "w": 220,
+        "h": 258
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0035": {
+      "frame": {
+        "x": 1034.5,
+        "y": 0,
+        "w": 220,
+        "h": 258
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 17,
+        "w": 220,
+        "h": 258
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0036": {
+      "frame": {
+        "x": 1034.5,
+        "y": 0,
+        "w": 220,
+        "h": 258
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 17,
+        "w": 220,
+        "h": 258
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0037": {
+      "frame": {
+        "x": 1034.5,
+        "y": 0,
+        "w": 220,
+        "h": 258
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 17,
+        "w": 220,
+        "h": 258
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0038": {
+      "frame": {
+        "x": 1034.5,
+        "y": 0,
+        "w": 220,
+        "h": 258
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 17,
+        "w": 220,
+        "h": 258
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0039": {
+      "frame": {
+        "x": 1034.5,
+        "y": 0,
+        "w": 220,
+        "h": 258
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 17,
+        "w": 220,
+        "h": 258
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0045": {
+      "frame": {
+        "x": 1548.5,
+        "y": 0,
+        "w": 225.5,
+        "h": 255
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 20,
+        "w": 225.5,
+        "h": 255
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0046": {
+      "frame": {
+        "x": 1548.5,
+        "y": 0,
+        "w": 225.5,
+        "h": 255
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 20,
+        "w": 225.5,
+        "h": 255
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0047": {
+      "frame": {
+        "x": 1548.5,
+        "y": 0,
+        "w": 225.5,
+        "h": 255
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 20,
+        "w": 225.5,
+        "h": 255
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0048": {
+      "frame": {
+        "x": 1548.5,
+        "y": 0,
+        "w": 225.5,
+        "h": 255
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 20,
+        "w": 225.5,
+        "h": 255
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0049": {
+      "frame": {
+        "x": 1548.5,
+        "y": 0,
+        "w": 225.5,
+        "h": 255
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 20,
+        "w": 225.5,
+        "h": 255
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0050": {
+      "frame": {
+        "x": 1548.5,
+        "y": 0,
+        "w": 225.5,
+        "h": 255
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 20,
+        "w": 225.5,
+        "h": 255
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0051": {
+      "frame": {
+        "x": 1548.5,
+        "y": 0,
+        "w": 225.5,
+        "h": 255
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 20,
+        "w": 225.5,
+        "h": 255
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0052": {
+      "frame": {
+        "x": 1548.5,
+        "y": 0,
+        "w": 225.5,
+        "h": 255
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 20,
+        "w": 225.5,
+        "h": 255
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0053": {
+      "frame": {
+        "x": 1548.5,
+        "y": 0,
+        "w": 225.5,
+        "h": 255
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 20,
+        "w": 225.5,
+        "h": 255
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0054": {
+      "frame": {
+        "x": 1548.5,
+        "y": 0,
+        "w": 225.5,
+        "h": 255
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 20,
+        "w": 225.5,
+        "h": 255
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0055": {
+      "frame": {
+        "x": 1548.5,
+        "y": 0,
+        "w": 225.5,
+        "h": 255
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 20,
+        "w": 225.5,
+        "h": 255
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0056": {
+      "frame": {
+        "x": 1548.5,
+        "y": 0,
+        "w": 225.5,
+        "h": 255
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 20,
+        "w": 225.5,
+        "h": 255
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0057": {
+      "frame": {
+        "x": 1548.5,
+        "y": 0,
+        "w": 225.5,
+        "h": 255
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 20,
+        "w": 225.5,
+        "h": 255
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0058": {
+      "frame": {
+        "x": 1548.5,
+        "y": 0,
+        "w": 225.5,
+        "h": 255
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 20,
+        "w": 225.5,
+        "h": 255
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0059": {
+      "frame": {
+        "x": 1548.5,
+        "y": 0,
+        "w": 225.5,
+        "h": 255
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 20,
+        "w": 225.5,
+        "h": 255
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0061": {
+      "frame": {
+        "x": 1292.5,
+        "y": 0,
+        "w": 225,
+        "h": 256
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 19,
+        "w": 225,
+        "h": 256
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0064": {
+      "frame": {
+        "x": 1240.5,
+        "y": 225,
+        "w": 233,
+        "h": 242.5
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 27.5,
+        "w": 233,
+        "h": 242.5
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0066": {
+      "frame": {
+        "x": 1492,
+        "y": 728.5,
+        "w": 239,
+        "h": 242.5
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 27.5,
+        "w": 239,
+        "h": 242.5
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0068": {
+      "frame": {
+        "x": 0,
+        "y": 918.5,
+        "w": 240.5,
+        "h": 244
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 26,
+        "w": 240.5,
+        "h": 244
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0070": {
+      "frame": {
+        "x": 244,
+        "y": 923.5,
+        "w": 240.5,
+        "h": 244.5
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 25.5,
+        "w": 240.5,
+        "h": 244.5
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0071": {
+      "frame": {
+        "x": 244,
+        "y": 923.5,
+        "w": 240.5,
+        "h": 244.5
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 25.5,
+        "w": 240.5,
+        "h": 244.5
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0072": {
+      "frame": {
+        "x": 244,
+        "y": 923.5,
+        "w": 240.5,
+        "h": 244.5
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 25.5,
+        "w": 240.5,
+        "h": 244.5
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0073": {
+      "frame": {
+        "x": 244,
+        "y": 923.5,
+        "w": 240.5,
+        "h": 244.5
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 25.5,
+        "w": 240.5,
+        "h": 244.5
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0074": {
+      "frame": {
+        "x": 244,
+        "y": 923.5,
+        "w": 240.5,
+        "h": 244.5
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 25.5,
+        "w": 240.5,
+        "h": 244.5
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0075": {
+      "frame": {
+        "x": 244,
+        "y": 923.5,
+        "w": 240.5,
+        "h": 244.5
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 25.5,
+        "w": 240.5,
+        "h": 244.5
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0076": {
+      "frame": {
+        "x": 244,
+        "y": 923.5,
+        "w": 240.5,
+        "h": 244.5
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 25.5,
+        "w": 240.5,
+        "h": 244.5
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0077": {
+      "frame": {
+        "x": 244,
+        "y": 923.5,
+        "w": 240.5,
+        "h": 244.5
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 25.5,
+        "w": 240.5,
+        "h": 244.5
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0078": {
+      "frame": {
+        "x": 244,
+        "y": 923.5,
+        "w": 240.5,
+        "h": 244.5
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 25.5,
+        "w": 240.5,
+        "h": 244.5
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0079": {
+      "frame": {
+        "x": 244,
+        "y": 923.5,
+        "w": 240.5,
+        "h": 244.5
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 25.5,
+        "w": 240.5,
+        "h": 244.5
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0080": {
+      "frame": {
+        "x": 244,
+        "y": 923.5,
+        "w": 240.5,
+        "h": 244.5
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 25.5,
+        "w": 240.5,
+        "h": 244.5
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0081": {
+      "frame": {
+        "x": 244,
+        "y": 923.5,
+        "w": 240.5,
+        "h": 244.5
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 25.5,
+        "w": 240.5,
+        "h": 244.5
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0082": {
+      "frame": {
+        "x": 244,
+        "y": 923.5,
+        "w": 240.5,
+        "h": 244.5
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 25.5,
+        "w": 240.5,
+        "h": 244.5
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0083": {
+      "frame": {
+        "x": 244,
+        "y": 923.5,
+        "w": 240.5,
+        "h": 244.5
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 25.5,
+        "w": 240.5,
+        "h": 244.5
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0084": {
+      "frame": {
+        "x": 244,
+        "y": 923.5,
+        "w": 240.5,
+        "h": 244.5
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 25.5,
+        "w": 240.5,
+        "h": 244.5
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0085": {
+      "frame": {
+        "x": 244,
+        "y": 923.5,
+        "w": 240.5,
+        "h": 244.5
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 25.5,
+        "w": 240.5,
+        "h": 244.5
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0086": {
+      "frame": {
+        "x": 244,
+        "y": 923.5,
+        "w": 240.5,
+        "h": 244.5
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 25.5,
+        "w": 240.5,
+        "h": 244.5
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0087": {
+      "frame": {
+        "x": 244,
+        "y": 923.5,
+        "w": 240.5,
+        "h": 244.5
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 25.5,
+        "w": 240.5,
+        "h": 244.5
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0088": {
+      "frame": {
+        "x": 244,
+        "y": 923.5,
+        "w": 240.5,
+        "h": 244.5
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 25.5,
+        "w": 240.5,
+        "h": 244.5
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0089": {
+      "frame": {
+        "x": 244,
+        "y": 923.5,
+        "w": 240.5,
+        "h": 244.5
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 25.5,
+        "w": 240.5,
+        "h": 244.5
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0090": {
+      "frame": {
+        "x": 244,
+        "y": 923.5,
+        "w": 240.5,
+        "h": 244.5
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 25.5,
+        "w": 240.5,
+        "h": 244.5
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0092": {
+      "frame": {
+        "x": 0,
+        "y": 1164,
+        "w": 249,
+        "h": 242.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 27.5,
+        "w": 249,
+        "h": 242.5
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0094": {
+      "frame": {
+        "x": 249,
+        "y": 1164.5,
+        "w": 248,
+        "h": 242.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 27.5,
+        "w": 248,
+        "h": 242.5
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0096": {
+      "frame": {
+        "x": 1014,
+        "y": 1206.5,
+        "w": 275.5,
+        "h": 244
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 26,
+        "w": 275.5,
+        "h": 244
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0098": {
+      "frame": {
+        "x": 497,
+        "y": 1165,
+        "w": 258.5,
+        "h": 243
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 27,
+        "w": 258.5,
+        "h": 243
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0100": {
+      "frame": {
+        "x": 755.5,
+        "y": 1172.5,
+        "w": 258.5,
+        "h": 243.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 26.5,
+        "w": 258.5,
+        "h": 243.5
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0102": {
+      "frame": {
+        "x": 1289.5,
+        "y": 1208.5,
+        "w": 258.5,
+        "h": 244
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 26,
+        "w": 258.5,
+        "h": 244
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0104": {
+      "frame": {
+        "x": 0,
+        "y": 1407,
+        "w": 258.5,
+        "h": 244.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 25.5,
+        "w": 258.5,
+        "h": 244.5
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0106": {
+      "frame": {
+        "x": 258.5,
+        "y": 1408,
+        "w": 258.5,
+        "h": 245
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 25,
+        "w": 258.5,
+        "h": 245
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0107": {
+      "frame": {
+        "x": 258.5,
+        "y": 1408,
+        "w": 258.5,
+        "h": 245
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 25,
+        "w": 258.5,
+        "h": 245
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0110": {
+      "frame": {
+        "x": 749.5,
+        "y": 687.5,
+        "w": 238.5,
+        "h": 244.5
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 25.5,
+        "w": 238.5,
+        "h": 244.5
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0112": {
+      "frame": {
+        "x": 1483,
+        "y": 255,
+        "w": 236.5,
+        "h": 245
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 25,
+        "w": 236.5,
+        "h": 245
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0114": {
+      "frame": {
+        "x": 493.5,
+        "y": 450,
+        "w": 237,
+        "h": 245
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 25,
+        "w": 237,
+        "h": 245
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0116": {
+      "frame": {
+        "x": 738.5,
+        "y": 450,
+        "w": 237,
+        "h": 245
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 25,
+        "w": 237,
+        "h": 245
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0118": {
+      "frame": {
+        "x": 983.5,
+        "y": 450.5,
+        "w": 237,
+        "h": 245
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 25,
+        "w": 237,
+        "h": 245
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0120": {
+      "frame": {
+        "x": 1228.5,
+        "y": 458,
+        "w": 237,
+        "h": 245
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 25,
+        "w": 237,
+        "h": 245
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0122": {
+      "frame": {
+        "x": 1473.5,
+        "y": 491.5,
+        "w": 237,
+        "h": 245
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 25,
+        "w": 237,
+        "h": 245
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0124": {
+      "frame": {
+        "x": 0,
+        "y": 681.5,
+        "w": 237,
+        "h": 245
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 25,
+        "w": 237,
+        "h": 245
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0126": {
+      "frame": {
+        "x": 245,
+        "y": 686.5,
+        "w": 237,
+        "h": 245
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 25,
+        "w": 237,
+        "h": 245
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0128": {
+      "frame": {
+        "x": 0,
+        "y": 445,
+        "w": 236.5,
+        "h": 245
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 25,
+        "w": 236.5,
+        "h": 245
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0134": {
+      "frame": {
+        "x": 488.5,
+        "y": 925.5,
+        "w": 239,
+        "h": 251
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 19,
+        "w": 239,
+        "h": 251
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0136": {
+      "frame": {
+        "x": 739.5,
+        "y": 926,
+        "w": 239,
+        "h": 251
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 19,
+        "w": 239,
+        "h": 251
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0138": {
+      "frame": {
+        "x": 990.5,
+        "y": 933.5,
+        "w": 239,
+        "h": 251
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 19,
+        "w": 239,
+        "h": 251
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0140": {
+      "frame": {
+        "x": 1241.5,
+        "y": 967.5,
+        "w": 239,
+        "h": 251
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 19,
+        "w": 239,
+        "h": 251
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0141": {
+      "frame": {
+        "x": 1241.5,
+        "y": 967.5,
+        "w": 239,
+        "h": 251
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 19,
+        "w": 239,
+        "h": 251
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0142": {
+      "frame": {
+        "x": 1241.5,
+        "y": 967.5,
+        "w": 239,
+        "h": 251
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 19,
+        "w": 239,
+        "h": 251
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0143": {
+      "frame": {
+        "x": 1241.5,
+        "y": 967.5,
+        "w": 239,
+        "h": 251
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 19,
+        "w": 239,
+        "h": 251
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0144": {
+      "frame": {
+        "x": 1241.5,
+        "y": 967.5,
+        "w": 239,
+        "h": 251
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 19,
+        "w": 239,
+        "h": 251
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0145": {
+      "frame": {
+        "x": 1241.5,
+        "y": 967.5,
+        "w": 239,
+        "h": 251
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 19,
+        "w": 239,
+        "h": 251
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OSWALD MANCO NO PUSO PARED0146": {
+      "frame": {
+        "x": 1241.5,
+        "y": 967.5,
+        "w": 239,
+        "h": 251
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2.5,
+        "y": 19,
+        "w": 239,
+        "h": 251
+      },
+      "sourceSize": {
+        "w": 281.5,
+        "h": 275
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "mesa OSWALD0002": {
+      "frame": {
+        "x": 258.5,
+        "y": 220,
+        "w": 230,
+        "h": 244.5
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 1.5,
+        "w": 230,
+        "h": 244.5
+      },
+      "sourceSize": {
+        "w": 230,
+        "h": 246
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "mesa OSWALD0004": {
+      "frame": {
+        "x": 503,
+        "y": 220,
+        "w": 230,
+        "h": 245.5
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0.5,
+        "w": 230,
+        "h": 245.5
+      },
+      "sourceSize": {
+        "w": 230,
+        "h": 246
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "mesa OSWALD0006": {
+      "frame": {
+        "x": 748.5,
+        "y": 220,
+        "w": 230,
+        "h": 246
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 230,
+        "h": 246
+      },
+      "sourceSize": {
+        "w": 230,
+        "h": 246
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "mesa OSWALD0007": {
+      "frame": {
+        "x": 748.5,
+        "y": 220,
+        "w": 230,
+        "h": 246
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 230,
+        "h": 246
+      },
+      "sourceSize": {
+        "w": 230,
+        "h": 246
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "mesa OSWALD0008": {
+      "frame": {
+        "x": 748.5,
+        "y": 220,
+        "w": 230,
+        "h": 246
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 230,
+        "h": 246
+      },
+      "sourceSize": {
+        "w": 230,
+        "h": 246
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "mesa OSWALD0009": {
+      "frame": {
+        "x": 748.5,
+        "y": 220,
+        "w": 230,
+        "h": 246
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 230,
+        "h": 246
+      },
+      "sourceSize": {
+        "w": 230,
+        "h": 246
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "mesa OSWALD0010": {
+      "frame": {
+        "x": 748.5,
+        "y": 220,
+        "w": 230,
+        "h": 246
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 230,
+        "h": 246
+      },
+      "sourceSize": {
+        "w": 230,
+        "h": 246
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "mesa OSWALD0011": {
+      "frame": {
+        "x": 748.5,
+        "y": 220,
+        "w": 230,
+        "h": 246
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 230,
+        "h": 246
+      },
+      "sourceSize": {
+        "w": 230,
+        "h": 246
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "mesa OSWALD0012": {
+      "frame": {
+        "x": 748.5,
+        "y": 220,
+        "w": 230,
+        "h": 246
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 230,
+        "h": 246
+      },
+      "sourceSize": {
+        "w": 230,
+        "h": 246
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "oswald.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1774,
+      "h": 1727
+    },
+    "scale": 0.5
+  }
+}
