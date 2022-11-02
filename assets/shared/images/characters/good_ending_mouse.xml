@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="good ending mouse.png">
+<TextureAtlas imagePath="good_ending_mouse.png">
 	<!-- Created with Adobe Animate version 21.0.7.42652 -->
 	<!-- http://www.adobe.com/products/animate.html -->
 	<SubTexture name="Mouse Down0000" x="0" y="0" width="550" height="593" frameX="0" frameY="-11" frameWidth="558" frameHeight="604"/>
