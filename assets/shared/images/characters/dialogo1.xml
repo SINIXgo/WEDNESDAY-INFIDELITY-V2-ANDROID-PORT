@@ -1,0 +1,366 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dialogo1.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MIKI WAIFU0000" x="0" y="0" width="475" height="621" frameX="-107" frameY="-50" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0001" x="0" y="0" width="475" height="621" frameX="-107" frameY="-50" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0002" x="0" y="0" width="475" height="621" frameX="-107" frameY="-50" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0003" x="0" y="0" width="475" height="621" frameX="-107" frameY="-50" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0004" x="0" y="0" width="475" height="621" frameX="-107" frameY="-50" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0005" x="475" y="0" width="472" height="612" frameX="-115" frameY="-59" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0006" x="475" y="0" width="472" height="612" frameX="-115" frameY="-59" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0007" x="947" y="0" width="452" height="628" frameX="-120" frameY="-43" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0008" x="1399" y="0" width="449" height="636" frameX="-123" frameY="-35" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0009" x="1399" y="0" width="449" height="636" frameX="-123" frameY="-35" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0010" x="1848" y="0" width="448" height="634" frameX="-123" frameY="-37" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0011" x="1848" y="0" width="448" height="634" frameX="-123" frameY="-37" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0012" x="2296" y="0" width="448" height="634" frameX="-123" frameY="-37" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0013" x="2296" y="0" width="448" height="634" frameX="-123" frameY="-37" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0014" x="2744" y="0" width="448" height="634" frameX="-123" frameY="-37" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0015" x="2744" y="0" width="448" height="634" frameX="-123" frameY="-37" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0016" x="3192" y="0" width="462" height="619" frameX="-103" frameY="-52" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0017" x="3654" y="0" width="462" height="619" frameX="-103" frameY="-52" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0018" x="4116" y="0" width="484" height="609" frameX="-78" frameY="-62" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0019" x="4116" y="0" width="484" height="609" frameX="-78" frameY="-62" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0020" x="4600" y="0" width="545" height="559" frameX="0" frameY="-107" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0021" x="4600" y="0" width="545" height="559" frameX="0" frameY="-107" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0022" x="5145" y="0" width="545" height="559" frameX="0" frameY="-107" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0023" x="5690" y="0" width="545" height="559" frameX="0" frameY="-107" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0024" x="5690" y="0" width="545" height="559" frameX="0" frameY="-107" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0025" x="6235" y="0" width="528" height="565" frameX="-15" frameY="-101" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0026" x="6763" y="0" width="522" height="568" frameX="-21" frameY="-98" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0027" x="6763" y="0" width="522" height="568" frameX="-21" frameY="-98" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0028" x="7285" y="0" width="526" height="564" frameX="-15" frameY="-102" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0029" x="0" y="636" width="525" height="562" frameX="-15" frameY="-104" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0030" x="525" y="636" width="525" height="562" frameX="-15" frameY="-104" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0031" x="1050" y="636" width="525" height="562" frameX="-15" frameY="-104" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0032" x="1050" y="636" width="525" height="562" frameX="-15" frameY="-104" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0033" x="1575" y="636" width="525" height="562" frameX="-15" frameY="-104" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0034" x="1575" y="636" width="525" height="562" frameX="-15" frameY="-104" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0035" x="2100" y="636" width="525" height="562" frameX="-15" frameY="-104" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0036" x="2100" y="636" width="525" height="562" frameX="-15" frameY="-104" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0037" x="2625" y="636" width="525" height="562" frameX="-15" frameY="-104" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0038" x="2625" y="636" width="525" height="562" frameX="-15" frameY="-104" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0039" x="3150" y="636" width="525" height="562" frameX="-15" frameY="-104" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0040" x="3150" y="636" width="525" height="562" frameX="-15" frameY="-104" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0041" x="3675" y="636" width="525" height="562" frameX="-15" frameY="-104" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0042" x="3675" y="636" width="525" height="562" frameX="-15" frameY="-104" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0043" x="2625" y="636" width="525" height="562" frameX="-15" frameY="-104" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0044" x="2625" y="636" width="525" height="562" frameX="-15" frameY="-104" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0045" x="3150" y="636" width="525" height="562" frameX="-15" frameY="-104" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0046" x="3150" y="636" width="525" height="562" frameX="-15" frameY="-104" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0047" x="4200" y="636" width="525" height="562" frameX="-15" frameY="-104" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0048" x="4725" y="636" width="526" height="557" frameX="-17" frameY="-109" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0049" x="5251" y="636" width="517" height="554" frameX="-23" frameY="-112" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0050" x="5251" y="636" width="517" height="554" frameX="-23" frameY="-112" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0051" x="5768" y="636" width="510" height="557" frameX="-24" frameY="-109" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0052" x="6278" y="636" width="509" height="558" frameX="-24" frameY="-108" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0053" x="6787" y="636" width="509" height="558" frameX="-24" frameY="-108" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0054" x="6787" y="636" width="509" height="558" frameX="-24" frameY="-108" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0055" x="7296" y="636" width="509" height="558" frameX="-24" frameY="-108" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0056" x="0" y="1198" width="509" height="558" frameX="-24" frameY="-108" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0057" x="0" y="1198" width="509" height="558" frameX="-24" frameY="-108" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0058" x="509" y="1198" width="509" height="558" frameX="-24" frameY="-108" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0059" x="509" y="1198" width="509" height="558" frameX="-24" frameY="-108" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0060" x="1018" y="1198" width="509" height="558" frameX="-24" frameY="-108" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0061" x="1018" y="1198" width="509" height="558" frameX="-24" frameY="-108" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0062" x="1018" y="1198" width="509" height="558" frameX="-24" frameY="-108" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0063" x="1018" y="1198" width="509" height="558" frameX="-24" frameY="-108" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0064" x="1018" y="1198" width="509" height="558" frameX="-24" frameY="-108" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0065" x="1018" y="1198" width="509" height="558" frameX="-24" frameY="-108" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0066" x="1527" y="1198" width="497" height="578" frameX="-18" frameY="-88" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0067" x="2024" y="1198" width="482" height="623" frameX="-23" frameY="-54" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0068" x="2024" y="1198" width="482" height="623" frameX="-23" frameY="-54" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0069" x="2506" y="1198" width="485" height="622" frameX="-22" frameY="-55" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0070" x="2506" y="1198" width="485" height="622" frameX="-22" frameY="-55" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0071" x="2991" y="1198" width="497" height="614" frameX="-22" frameY="-63" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0072" x="2991" y="1198" width="497" height="614" frameX="-22" frameY="-63" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0073" x="3488" y="1198" width="498" height="614" frameX="-22" frameY="-63" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0074" x="3986" y="1198" width="498" height="614" frameX="-22" frameY="-63" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0075" x="4484" y="1198" width="498" height="614" frameX="-22" frameY="-63" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0076" x="4982" y="1198" width="498" height="614" frameX="-22" frameY="-63" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0077" x="4982" y="1198" width="498" height="614" frameX="-22" frameY="-63" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0078" x="5480" y="1198" width="498" height="614" frameX="-22" frameY="-63" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0079" x="5480" y="1198" width="498" height="614" frameX="-22" frameY="-63" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0080" x="5480" y="1198" width="498" height="614" frameX="-22" frameY="-63" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0081" x="5480" y="1198" width="498" height="614" frameX="-22" frameY="-63" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0082" x="5480" y="1198" width="498" height="614" frameX="-22" frameY="-63" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0083" x="5978" y="1198" width="498" height="614" frameX="-22" frameY="-63" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0084" x="5978" y="1198" width="498" height="614" frameX="-22" frameY="-63" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0085" x="6476" y="1198" width="498" height="614" frameX="-22" frameY="-63" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0086" x="6476" y="1198" width="498" height="614" frameX="-22" frameY="-63" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0087" x="6974" y="1198" width="498" height="614" frameX="-22" frameY="-63" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0088" x="6974" y="1198" width="498" height="614" frameX="-22" frameY="-63" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0089" x="5480" y="1198" width="498" height="614" frameX="-22" frameY="-63" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0090" x="5480" y="1198" width="498" height="614" frameX="-22" frameY="-63" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0091" x="7472" y="1198" width="498" height="614" frameX="-22" frameY="-63" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0092" x="7472" y="1198" width="498" height="614" frameX="-22" frameY="-63" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0093" x="0" y="1821" width="490" height="624" frameX="-22" frameY="-53" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0094" x="0" y="1821" width="490" height="624" frameX="-22" frameY="-53" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0095" x="490" y="1821" width="490" height="624" frameX="-22" frameY="-53" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0096" x="490" y="1821" width="490" height="624" frameX="-22" frameY="-53" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0097" x="980" y="1821" width="490" height="624" frameX="-22" frameY="-53" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0098" x="980" y="1821" width="490" height="624" frameX="-22" frameY="-53" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0099" x="1470" y="1821" width="490" height="624" frameX="-22" frameY="-53" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0100" x="1470" y="1821" width="490" height="624" frameX="-22" frameY="-53" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0101" x="1470" y="1821" width="490" height="624" frameX="-22" frameY="-53" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0102" x="1470" y="1821" width="490" height="624" frameX="-22" frameY="-53" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0103" x="1960" y="1821" width="490" height="624" frameX="-22" frameY="-53" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0104" x="2450" y="1821" width="502" height="625" frameX="-9" frameY="-52" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0105" x="2450" y="1821" width="502" height="625" frameX="-9" frameY="-52" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0106" x="2952" y="1821" width="492" height="623" frameX="-7" frameY="-53" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0107" x="2952" y="1821" width="492" height="623" frameX="-7" frameY="-53" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0108" x="3444" y="1821" width="491" height="623" frameX="-7" frameY="-53" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0109" x="3444" y="1821" width="491" height="623" frameX="-7" frameY="-53" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0110" x="3935" y="1821" width="491" height="623" frameX="-7" frameY="-53" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0111" x="3935" y="1821" width="491" height="623" frameX="-7" frameY="-53" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0112" x="4426" y="1821" width="491" height="623" frameX="-7" frameY="-53" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0113" x="4426" y="1821" width="491" height="623" frameX="-7" frameY="-53" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0114" x="4917" y="1821" width="491" height="623" frameX="-7" frameY="-53" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0115" x="4917" y="1821" width="491" height="623" frameX="-7" frameY="-53" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0116" x="4917" y="1821" width="491" height="623" frameX="-7" frameY="-53" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0117" x="4917" y="1821" width="491" height="623" frameX="-7" frameY="-53" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0118" x="4917" y="1821" width="491" height="623" frameX="-7" frameY="-53" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0119" x="4917" y="1821" width="491" height="623" frameX="-7" frameY="-53" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0120" x="4917" y="1821" width="491" height="623" frameX="-7" frameY="-53" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0121" x="4917" y="1821" width="491" height="623" frameX="-7" frameY="-53" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0122" x="4917" y="1821" width="491" height="623" frameX="-7" frameY="-53" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0123" x="5408" y="1821" width="470" height="615" frameX="-24" frameY="-61" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0124" x="5408" y="1821" width="470" height="615" frameX="-24" frameY="-61" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0125" x="5878" y="1821" width="449" height="628" frameX="-31" frameY="-48" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0126" x="5878" y="1821" width="449" height="628" frameX="-31" frameY="-48" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0127" x="6327" y="1821" width="432" height="645" frameX="-23" frameY="-31" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0128" x="6327" y="1821" width="432" height="645" frameX="-23" frameY="-31" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0129" x="6759" y="1821" width="391" height="627" frameX="-63" frameY="-48" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0130" x="7150" y="1821" width="382" height="655" frameX="-58" frameY="-17" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0131" x="7150" y="1821" width="382" height="655" frameX="-58" frameY="-17" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0132" x="7532" y="1821" width="379" height="659" frameX="-57" frameY="-13" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0133" x="7532" y="1821" width="379" height="659" frameX="-57" frameY="-13" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0134" x="0" y="2480" width="377" height="663" frameX="-56" frameY="-9" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0135" x="0" y="2480" width="377" height="663" frameX="-56" frameY="-9" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0136" x="377" y="2480" width="378" height="667" frameX="-55" frameY="-5" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0137" x="377" y="2480" width="378" height="667" frameX="-55" frameY="-5" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0138" x="755" y="2480" width="379" height="672" frameX="-54" frameY="0" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0139" x="755" y="2480" width="379" height="672" frameX="-54" frameY="0" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0140" x="1134" y="2480" width="414" height="638" frameX="-56" frameY="-35" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0141" x="1134" y="2480" width="414" height="638" frameX="-56" frameY="-35" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0142" x="1548" y="2480" width="409" height="642" frameX="-56" frameY="-32" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0143" x="1957" y="2480" width="409" height="642" frameX="-56" frameY="-32" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0144" x="1957" y="2480" width="409" height="642" frameX="-56" frameY="-32" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0145" x="2366" y="2480" width="409" height="642" frameX="-56" frameY="-32" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0146" x="2775" y="2480" width="409" height="642" frameX="-56" frameY="-32" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0147" x="2775" y="2480" width="409" height="642" frameX="-56" frameY="-32" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0148" x="3184" y="2480" width="409" height="642" frameX="-56" frameY="-32" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0149" x="3184" y="2480" width="409" height="642" frameX="-56" frameY="-32" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0150" x="3593" y="2480" width="400" height="645" frameX="-61" frameY="-29" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0151" x="3593" y="2480" width="400" height="645" frameX="-61" frameY="-29" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0152" x="3993" y="2480" width="395" height="648" frameX="-67" frameY="-26" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0153" x="3993" y="2480" width="395" height="648" frameX="-67" frameY="-26" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0154" x="4388" y="2480" width="395" height="648" frameX="-67" frameY="-26" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0155" x="4388" y="2480" width="395" height="648" frameX="-67" frameY="-26" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0156" x="4783" y="2480" width="395" height="648" frameX="-67" frameY="-26" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0157" x="4783" y="2480" width="395" height="648" frameX="-67" frameY="-26" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0158" x="5178" y="2480" width="395" height="648" frameX="-67" frameY="-26" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0159" x="5178" y="2480" width="395" height="648" frameX="-67" frameY="-26" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0160" x="5573" y="2480" width="395" height="648" frameX="-67" frameY="-26" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0161" x="5573" y="2480" width="395" height="648" frameX="-67" frameY="-26" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0162" x="5968" y="2480" width="395" height="648" frameX="-67" frameY="-26" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0163" x="5968" y="2480" width="395" height="648" frameX="-67" frameY="-26" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0164" x="6363" y="2480" width="387" height="646" frameX="-73" frameY="-29" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0165" x="6363" y="2480" width="387" height="646" frameX="-73" frameY="-29" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0166" x="6750" y="2480" width="391" height="639" frameX="-79" frameY="-36" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0167" x="7141" y="2480" width="352" height="649" frameX="-111" frameY="-18" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0168" x="7141" y="2480" width="352" height="649" frameX="-111" frameY="-18" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0169" x="7493" y="2480" width="350" height="650" frameX="-113" frameY="-17" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0170" x="7493" y="2480" width="350" height="650" frameX="-113" frameY="-17" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0171" x="7843" y="2480" width="348" height="651" frameX="-116" frameY="-16" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0172" x="7843" y="2480" width="348" height="651" frameX="-116" frameY="-16" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0173" x="0" y="3152" width="346" height="651" frameX="-119" frameY="-16" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0174" x="346" y="3152" width="345" height="652" frameX="-120" frameY="-15" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0175" x="346" y="3152" width="345" height="652" frameX="-120" frameY="-15" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0176" x="691" y="3152" width="345" height="652" frameX="-120" frameY="-15" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0177" x="691" y="3152" width="345" height="652" frameX="-120" frameY="-15" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0178" x="1036" y="3152" width="345" height="652" frameX="-120" frameY="-15" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0179" x="1036" y="3152" width="345" height="652" frameX="-120" frameY="-15" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0180" x="1381" y="3152" width="345" height="652" frameX="-120" frameY="-15" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0181" x="1381" y="3152" width="345" height="652" frameX="-120" frameY="-15" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0182" x="1726" y="3152" width="345" height="652" frameX="-120" frameY="-15" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0183" x="1726" y="3152" width="345" height="652" frameX="-120" frameY="-15" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0184" x="2071" y="3152" width="345" height="652" frameX="-120" frameY="-15" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0185" x="2071" y="3152" width="345" height="652" frameX="-120" frameY="-15" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0186" x="2071" y="3152" width="345" height="652" frameX="-120" frameY="-15" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0187" x="2071" y="3152" width="345" height="652" frameX="-120" frameY="-15" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0188" x="2416" y="3152" width="441" height="555" frameX="-162" frameY="-113" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0189" x="2857" y="3152" width="429" height="541" frameX="-165" frameY="-127" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0190" x="2857" y="3152" width="429" height="541" frameX="-165" frameY="-127" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0191" x="3286" y="3152" width="455" height="637" frameX="-194" frameY="-34" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0192" x="3286" y="3152" width="455" height="637" frameX="-194" frameY="-34" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0193" x="3741" y="3152" width="487" height="659" frameX="-212" frameY="-12" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0194" x="3741" y="3152" width="487" height="659" frameX="-212" frameY="-12" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0195" x="4228" y="3152" width="480" height="653" frameX="-209" frameY="-18" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0196" x="4228" y="3152" width="480" height="653" frameX="-209" frameY="-18" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0197" x="4708" y="3152" width="478" height="646" frameX="-209" frameY="-25" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0198" x="5186" y="3152" width="478" height="643" frameX="-209" frameY="-28" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0199" x="5664" y="3152" width="478" height="643" frameX="-209" frameY="-28" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0200" x="6142" y="3152" width="478" height="646" frameX="-209" frameY="-25" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0201" x="6620" y="3152" width="478" height="647" frameX="-209" frameY="-24" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0202" x="6620" y="3152" width="478" height="647" frameX="-209" frameY="-24" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0203" x="7098" y="3152" width="478" height="647" frameX="-209" frameY="-24" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0204" x="7098" y="3152" width="478" height="647" frameX="-209" frameY="-24" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0205" x="7576" y="3152" width="478" height="647" frameX="-209" frameY="-24" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0206" x="7576" y="3152" width="478" height="647" frameX="-209" frameY="-24" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0207" x="0" y="3811" width="478" height="647" frameX="-209" frameY="-24" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0208" x="0" y="3811" width="478" height="647" frameX="-209" frameY="-24" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0209" x="478" y="3811" width="478" height="647" frameX="-209" frameY="-24" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0210" x="478" y="3811" width="478" height="647" frameX="-209" frameY="-24" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0211" x="956" y="3811" width="471" height="647" frameX="-209" frameY="-24" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0212" x="956" y="3811" width="471" height="647" frameX="-209" frameY="-24" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0213" x="1427" y="3811" width="438" height="647" frameX="-209" frameY="-24" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0214" x="1427" y="3811" width="438" height="647" frameX="-209" frameY="-24" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0215" x="1865" y="3811" width="442" height="647" frameX="-209" frameY="-24" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0216" x="1865" y="3811" width="442" height="647" frameX="-209" frameY="-24" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0217" x="2307" y="3811" width="451" height="647" frameX="-209" frameY="-24" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0218" x="2307" y="3811" width="451" height="647" frameX="-209" frameY="-24" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0219" x="2758" y="3811" width="451" height="647" frameX="-209" frameY="-24" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0220" x="2758" y="3811" width="451" height="647" frameX="-209" frameY="-24" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0221" x="3209" y="3811" width="451" height="647" frameX="-209" frameY="-24" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0222" x="3209" y="3811" width="451" height="647" frameX="-209" frameY="-24" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0223" x="3660" y="3811" width="443" height="650" frameX="-214" frameY="-21" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0224" x="3660" y="3811" width="443" height="650" frameX="-214" frameY="-21" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0225" x="4103" y="3811" width="440" height="652" frameX="-214" frameY="-19" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0226" x="4103" y="3811" width="440" height="652" frameX="-214" frameY="-19" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0227" x="4543" y="3811" width="433" height="652" frameX="-213" frameY="-19" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0228" x="4543" y="3811" width="433" height="652" frameX="-213" frameY="-19" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0229" x="4976" y="3811" width="447" height="651" frameX="-213" frameY="-20" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0230" x="4976" y="3811" width="447" height="651" frameX="-213" frameY="-20" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0231" x="5423" y="3811" width="441" height="655" frameX="-213" frameY="-16" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0232" x="5423" y="3811" width="441" height="655" frameX="-213" frameY="-16" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0233" x="5864" y="3811" width="437" height="656" frameX="-213" frameY="-15" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0234" x="5864" y="3811" width="437" height="656" frameX="-213" frameY="-15" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0235" x="6301" y="3811" width="436" height="656" frameX="-213" frameY="-15" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0236" x="6301" y="3811" width="436" height="656" frameX="-213" frameY="-15" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0237" x="6737" y="3811" width="423" height="601" frameX="-224" frameY="-65" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0238" x="7160" y="3811" width="426" height="571" frameX="-218" frameY="-95" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0239" x="7160" y="3811" width="426" height="571" frameX="-218" frameY="-95" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0240" x="7586" y="3811" width="500" height="629" frameX="-210" frameY="-47" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0241" x="0" y="4467" width="526" height="639" frameX="-210" frameY="-37" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0242" x="526" y="4467" width="526" height="639" frameX="-210" frameY="-37" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0243" x="1052" y="4467" width="529" height="641" frameX="-211" frameY="-35" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0244" x="1052" y="4467" width="529" height="641" frameX="-211" frameY="-35" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0245" x="1581" y="4467" width="532" height="644" frameX="-213" frameY="-32" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0246" x="2113" y="4467" width="535" height="646" frameX="-213" frameY="-30" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0247" x="2113" y="4467" width="535" height="646" frameX="-213" frameY="-30" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0248" x="2648" y="4467" width="533" height="642" frameX="-213" frameY="-33" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0249" x="3181" y="4467" width="533" height="641" frameX="-213" frameY="-34" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0250" x="3181" y="4467" width="533" height="641" frameX="-213" frameY="-34" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0251" x="3714" y="4467" width="533" height="641" frameX="-213" frameY="-34" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0252" x="3714" y="4467" width="533" height="641" frameX="-213" frameY="-34" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0253" x="4247" y="4467" width="533" height="641" frameX="-213" frameY="-34" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0254" x="4247" y="4467" width="533" height="641" frameX="-213" frameY="-34" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0255" x="4780" y="4467" width="533" height="641" frameX="-213" frameY="-34" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0256" x="4780" y="4467" width="533" height="641" frameX="-213" frameY="-34" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0257" x="5313" y="4467" width="533" height="641" frameX="-213" frameY="-34" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0258" x="5313" y="4467" width="533" height="641" frameX="-213" frameY="-34" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0259" x="5846" y="4467" width="533" height="641" frameX="-213" frameY="-34" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0260" x="5846" y="4467" width="533" height="641" frameX="-213" frameY="-34" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0261" x="6379" y="4467" width="533" height="641" frameX="-213" frameY="-34" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0262" x="6379" y="4467" width="533" height="641" frameX="-213" frameY="-34" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0263" x="6912" y="4467" width="533" height="641" frameX="-213" frameY="-34" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0264" x="6912" y="4467" width="533" height="641" frameX="-213" frameY="-34" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0265" x="7445" y="4467" width="533" height="641" frameX="-213" frameY="-34" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0266" x="7445" y="4467" width="533" height="641" frameX="-213" frameY="-34" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0267" x="0" y="5113" width="533" height="641" frameX="-213" frameY="-34" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0268" x="0" y="5113" width="533" height="641" frameX="-213" frameY="-34" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0269" x="533" y="5113" width="533" height="641" frameX="-213" frameY="-34" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0270" x="533" y="5113" width="533" height="641" frameX="-213" frameY="-34" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0271" x="1066" y="5113" width="533" height="641" frameX="-213" frameY="-34" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0272" x="1066" y="5113" width="533" height="641" frameX="-213" frameY="-34" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0273" x="1599" y="5113" width="533" height="641" frameX="-213" frameY="-34" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0274" x="1599" y="5113" width="533" height="641" frameX="-213" frameY="-34" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0275" x="1599" y="5113" width="533" height="641" frameX="-213" frameY="-34" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0276" x="1599" y="5113" width="533" height="641" frameX="-213" frameY="-34" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0277" x="2132" y="5113" width="533" height="641" frameX="-213" frameY="-34" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0278" x="2665" y="5113" width="533" height="641" frameX="-213" frameY="-34" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0279" x="3198" y="5113" width="526" height="658" frameX="-220" frameY="-18" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0280" x="3198" y="5113" width="526" height="658" frameX="-220" frameY="-18" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0281" x="3724" y="5113" width="537" height="652" frameX="-210" frameY="-24" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0282" x="3724" y="5113" width="537" height="652" frameX="-210" frameY="-24" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0283" x="4261" y="5113" width="542" height="652" frameX="-207" frameY="-24" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0284" x="4261" y="5113" width="542" height="652" frameX="-207" frameY="-24" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0285" x="4803" y="5113" width="542" height="652" frameX="-207" frameY="-24" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0286" x="4803" y="5113" width="542" height="652" frameX="-207" frameY="-24" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0287" x="5345" y="5113" width="542" height="652" frameX="-207" frameY="-24" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0288" x="5345" y="5113" width="542" height="652" frameX="-207" frameY="-24" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0289" x="5887" y="5113" width="542" height="652" frameX="-207" frameY="-24" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0290" x="5887" y="5113" width="542" height="652" frameX="-207" frameY="-24" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0291" x="6429" y="5113" width="542" height="652" frameX="-207" frameY="-24" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0292" x="6429" y="5113" width="542" height="652" frameX="-207" frameY="-24" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0293" x="6971" y="5113" width="542" height="652" frameX="-207" frameY="-24" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0294" x="6971" y="5113" width="542" height="652" frameX="-207" frameY="-24" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0295" x="6971" y="5113" width="542" height="652" frameX="-207" frameY="-24" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0296" x="6971" y="5113" width="542" height="652" frameX="-207" frameY="-24" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0297" x="7513" y="5113" width="516" height="614" frameX="-191" frameY="-62" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0298" x="7513" y="5113" width="516" height="614" frameX="-191" frameY="-62" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0299" x="0" y="5771" width="517" height="613" frameX="-183" frameY="-63" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0300" x="0" y="5771" width="517" height="613" frameX="-183" frameY="-63" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0301" x="517" y="5771" width="518" height="613" frameX="-183" frameY="-63" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0302" x="517" y="5771" width="518" height="613" frameX="-183" frameY="-63" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0303" x="1035" y="5771" width="509" height="613" frameX="-183" frameY="-63" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0304" x="1035" y="5771" width="509" height="613" frameX="-183" frameY="-63" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0305" x="1544" y="5771" width="487" height="625" frameX="-193" frameY="-52" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0306" x="1544" y="5771" width="487" height="625" frameX="-193" frameY="-52" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0307" x="2031" y="5771" width="488" height="637" frameX="-180" frameY="-39" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0308" x="2031" y="5771" width="488" height="637" frameX="-180" frameY="-39" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0309" x="2519" y="5771" width="490" height="634" frameX="-180" frameY="-42" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0310" x="2519" y="5771" width="490" height="634" frameX="-180" frameY="-42" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0311" x="3009" y="5771" width="490" height="625" frameX="-180" frameY="-51" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0312" x="3009" y="5771" width="490" height="625" frameX="-180" frameY="-51" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0313" x="3499" y="5771" width="490" height="623" frameX="-180" frameY="-53" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0314" x="3499" y="5771" width="490" height="623" frameX="-180" frameY="-53" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0315" x="3989" y="5771" width="490" height="623" frameX="-180" frameY="-53" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0316" x="4479" y="5771" width="490" height="623" frameX="-180" frameY="-53" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0317" x="4479" y="5771" width="490" height="623" frameX="-180" frameY="-53" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0318" x="4969" y="5771" width="490" height="623" frameX="-180" frameY="-53" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0319" x="4969" y="5771" width="490" height="623" frameX="-180" frameY="-53" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0320" x="4969" y="5771" width="490" height="623" frameX="-180" frameY="-53" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0321" x="4969" y="5771" width="490" height="623" frameX="-180" frameY="-53" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0322" x="4969" y="5771" width="490" height="623" frameX="-180" frameY="-53" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0323" x="4969" y="5771" width="490" height="623" frameX="-180" frameY="-53" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0324" x="4969" y="5771" width="490" height="623" frameX="-180" frameY="-53" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WAIFU0325" x="4969" y="5771" width="490" height="623" frameX="-180" frameY="-53" frameWidth="749" frameHeight="677"/>
+	<SubTexture name="MIKI WHATS THAT0000" x="5459" y="5771" width="465" height="618" frameX="-44" frameY="-26" frameWidth="513" frameHeight="644"/>
+	<SubTexture name="MIKI WHATS THAT0001" x="5459" y="5771" width="465" height="618" frameX="-44" frameY="-26" frameWidth="513" frameHeight="644"/>
+	<SubTexture name="MIKI WHATS THAT0002" x="5459" y="5771" width="465" height="618" frameX="-44" frameY="-26" frameWidth="513" frameHeight="644"/>
+	<SubTexture name="MIKI WHATS THAT0003" x="5924" y="5771" width="460" height="616" frameX="-49" frameY="-28" frameWidth="513" frameHeight="644"/>
+	<SubTexture name="MIKI WHATS THAT0004" x="5924" y="5771" width="460" height="616" frameX="-49" frameY="-28" frameWidth="513" frameHeight="644"/>
+	<SubTexture name="MIKI WHATS THAT0005" x="6384" y="5771" width="465" height="610" frameX="-48" frameY="-34" frameWidth="513" frameHeight="644"/>
+	<SubTexture name="MIKI WHATS THAT0006" x="6384" y="5771" width="465" height="610" frameX="-48" frameY="-34" frameWidth="513" frameHeight="644"/>
+	<SubTexture name="MIKI WHATS THAT0007" x="6849" y="5771" width="476" height="635" frameX="-28" frameY="-9" frameWidth="513" frameHeight="644"/>
+	<SubTexture name="MIKI WHATS THAT0008" x="7325" y="5771" width="470" height="642" frameX="-9" frameY="-2" frameWidth="513" frameHeight="644"/>
+	<SubTexture name="MIKI WHATS THAT0009" x="7325" y="5771" width="470" height="642" frameX="-9" frameY="-2" frameWidth="513" frameHeight="644"/>
+	<SubTexture name="MIKI WHATS THAT0010" x="0" y="6413" width="470" height="641" frameX="-9" frameY="-3" frameWidth="513" frameHeight="644"/>
+	<SubTexture name="MIKI WHATS THAT0011" x="0" y="6413" width="470" height="641" frameX="-9" frameY="-3" frameWidth="513" frameHeight="644"/>
+	<SubTexture name="MIKI WHATS THAT0012" x="470" y="6413" width="470" height="641" frameX="-9" frameY="-3" frameWidth="513" frameHeight="644"/>
+	<SubTexture name="MIKI WHATS THAT0013" x="470" y="6413" width="470" height="641" frameX="-9" frameY="-3" frameWidth="513" frameHeight="644"/>
+	<SubTexture name="MIKI WHATS THAT0014" x="940" y="6413" width="470" height="641" frameX="-9" frameY="-3" frameWidth="513" frameHeight="644"/>
+	<SubTexture name="MIKI WHATS THAT0015" x="1410" y="6413" width="484" height="633" frameX="-2" frameY="-11" frameWidth="513" frameHeight="644"/>
+	<SubTexture name="MIKI WHATS THAT0016" x="1410" y="6413" width="484" height="633" frameX="-2" frameY="-11" frameWidth="513" frameHeight="644"/>
+	<SubTexture name="MIKI WHATS THAT0017" x="1894" y="6413" width="484" height="632" frameX="-1" frameY="-12" frameWidth="513" frameHeight="644"/>
+	<SubTexture name="MIKI WHATS THAT0018" x="1894" y="6413" width="484" height="632" frameX="-1" frameY="-12" frameWidth="513" frameHeight="644"/>
+	<SubTexture name="MIKI WHATS THAT0019" x="2378" y="6413" width="485" height="632" frameX="0" frameY="-12" frameWidth="513" frameHeight="644"/>
+	<SubTexture name="MIKI WHATS THAT0020" x="2378" y="6413" width="485" height="632" frameX="0" frameY="-12" frameWidth="513" frameHeight="644"/>
+	<SubTexture name="MIKI WHATS THAT0021" x="2863" y="6413" width="485" height="632" frameX="0" frameY="-12" frameWidth="513" frameHeight="644"/>
+	<SubTexture name="MIKI WHATS THAT0022" x="3348" y="6413" width="451" height="644" frameX="-8" frameY="0" frameWidth="513" frameHeight="644"/>
+	<SubTexture name="MIKI WHATS THAT0023" x="3348" y="6413" width="451" height="644" frameX="-8" frameY="0" frameWidth="513" frameHeight="644"/>
+	<SubTexture name="MIKI WHATS THAT0024" x="3799" y="6413" width="447" height="639" frameX="-8" frameY="-5" frameWidth="513" frameHeight="644"/>
+	<SubTexture name="MIKI WHATS THAT0025" x="3799" y="6413" width="447" height="639" frameX="-8" frameY="-5" frameWidth="513" frameHeight="644"/>
+	<SubTexture name="MIKI WHATS THAT0026" x="4246" y="6413" width="447" height="638" frameX="-8" frameY="-6" frameWidth="513" frameHeight="644"/>
+	<SubTexture name="MIKI WHATS THAT0027" x="4246" y="6413" width="447" height="638" frameX="-8" frameY="-6" frameWidth="513" frameHeight="644"/>
+	<SubTexture name="MIKI WHATS THAT0028" x="4693" y="6413" width="447" height="638" frameX="-8" frameY="-6" frameWidth="513" frameHeight="644"/>
+	<SubTexture name="MIKI WHATS THAT0029" x="4693" y="6413" width="447" height="638" frameX="-8" frameY="-6" frameWidth="513" frameHeight="644"/>
+	<SubTexture name="MIKI WHATS THAT0030" x="5140" y="6413" width="447" height="638" frameX="-8" frameY="-6" frameWidth="513" frameHeight="644"/>
+	<SubTexture name="MIKI WHATS THAT0031" x="5140" y="6413" width="447" height="638" frameX="-8" frameY="-6" frameWidth="513" frameHeight="644"/>
+	<SubTexture name="MIKI WHATS THAT0032" x="5140" y="6413" width="447" height="638" frameX="-8" frameY="-6" frameWidth="513" frameHeight="644"/>
+	<SubTexture name="MIKI WHATS THAT0033" x="5140" y="6413" width="447" height="638" frameX="-8" frameY="-6" frameWidth="513" frameHeight="644"/>
+	<SubTexture name="MIKI WHATS THAT0034" x="5140" y="6413" width="447" height="638" frameX="-8" frameY="-6" frameWidth="513" frameHeight="644"/>
+</TextureAtlas>
