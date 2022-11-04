@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="satan.png">
+<SubTexture name="CAGADA0000" x="0" y="0" width="217" height="252" frameX="0" frameY="0" frameWidth="218" frameHeight="253" />
+<SubTexture name="CAGADA0001" x="0" y="0" width="217" height="252" frameX="0" frameY="0" frameWidth="218" frameHeight="253" />
+<SubTexture name="CAGADA0002" x="217" y="0" width="217" height="252" frameX="0" frameY="0" frameWidth="218" frameHeight="253" />
+<SubTexture name="CAGADA0003" x="217" y="0" width="217" height="252" frameX="0" frameY="0" frameWidth="218" frameHeight="253" />
+<SubTexture name="CAGADA0004" x="434" y="0" width="217" height="252" frameX="0" frameY="0" frameWidth="218" frameHeight="253" />
+<SubTexture name="CAGADA0005" x="0" y="252" width="217" height="252" frameX="0" frameY="0" frameWidth="218" frameHeight="253" />
+<SubTexture name="CAGADA0006" x="217" y="252" width="217" height="252" frameX="0" frameY="0" frameWidth="218" frameHeight="253" />
+<SubTexture name="CAGADA0007" x="217" y="252" width="217" height="252" frameX="0" frameY="0" frameWidth="218" frameHeight="253" />
+<SubTexture name="CAGADA0008" x="434" y="252" width="217" height="252" frameX="0" frameY="0" frameWidth="218" frameHeight="253" />
+<SubTexture name="CAGADA0009" x="651" y="0" width="217" height="252" frameX="0" frameY="0" frameWidth="218" frameHeight="253" />
+<SubTexture name="CAGADA0010" x="651" y="0" width="217" height="252" frameX="0" frameY="0" frameWidth="218" frameHeight="253" />
+<SubTexture name="CAGADA0011" x="651" y="252" width="217" height="252" frameX="0" frameY="0" frameWidth="218" frameHeight="253" />
+<SubTexture name="CAGADA0012" x="651" y="252" width="217" height="252" frameX="0" frameY="0" frameWidth="218" frameHeight="253" />
+<SubTexture name="CAGADA0013" x="0" y="504" width="217" height="252" frameX="0" frameY="0" frameWidth="218" frameHeight="253" />
+<SubTexture name="CAGADA0014" x="0" y="504" width="217" height="252" frameX="0" frameY="0" frameWidth="218" frameHeight="253" />
+<SubTexture name="CAGADA0015" x="0" y="504" width="217" height="252" frameX="0" frameY="0" frameWidth="218" frameHeight="253" />
+<SubTexture name="CAGADA0016" x="0" y="504" width="217" height="252" frameX="0" frameY="0" frameWidth="218" frameHeight="253" />
+<SubTexture name="CAGADA0017" x="0" y="504" width="217" height="252" frameX="0" frameY="0" frameWidth="218" frameHeight="253" />
+<SubTexture name="CAGADA0018" x="0" y="504" width="217" height="252" frameX="0" frameY="0" frameWidth="218" frameHeight="253" />
+<SubTexture name="CAGADA0019" x="0" y="504" width="217" height="252" frameX="0" frameY="0" frameWidth="218" frameHeight="253" />
+<SubTexture name="CAGADA0020" x="0" y="504" width="217" height="252" frameX="0" frameY="0" frameWidth="218" frameHeight="253" />
+<SubTexture name="CAGADA0021" x="0" y="504" width="217" height="252" frameX="0" frameY="0" frameWidth="218" frameHeight="253" />
+<SubTexture name="CAGADA0022" x="0" y="504" width="217" height="252" frameX="0" frameY="0" frameWidth="218" frameHeight="253" />
+<SubTexture name="CAGADA0023" x="0" y="504" width="217" height="252" frameX="0" frameY="0" frameWidth="218" frameHeight="253" />
+</TextureAtlas>
