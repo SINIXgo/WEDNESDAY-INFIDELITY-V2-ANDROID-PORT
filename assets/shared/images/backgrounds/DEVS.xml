@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="VS LEAKERS.png">
+	
+	
+	<SubTexture name="DEVS instancia 10000" x="0" y="845" width="614" height="209" frameX="0" frameY="-2" frameWidth="614" frameHeight="211" />
+	<SubTexture name="DEVS instancia 10001" x="0" y="845" width="614" height="209" frameX="0" frameY="-2" frameWidth="614" frameHeight="211" />
+	<SubTexture name="DEVS instancia 10002" x="0" y="634" width="614" height="210" frameX="0" frameY="-1" frameWidth="614" frameHeight="211" />
+	<SubTexture name="DEVS instancia 10003" x="0" y="634" width="614" height="210" frameX="0" frameY="-1" frameWidth="614" frameHeight="211" />
+	<SubTexture name="DEVS instancia 10004" x="0" y="0" width="614" height="211" />
+	<SubTexture name="DEVS instancia 10005" x="0" y="0" width="614" height="211" />
+	<SubTexture name="DEVS instancia 10006" x="0" y="211" width="614" height="211" />
+	<SubTexture name="DEVS instancia 10007" x="0" y="211" width="614" height="211" />
+	<SubTexture name="DEVS instancia 10008" x="0" y="423" width="614" height="211" />
+	<SubTexture name="DEVS instancia 10009" x="0" y="423" width="614" height="211" />
+	<SubTexture name="DEVS instancia 10010" x="0" y="423" width="614" height="211" />
+	<SubTexture name="DEVS instancia 10011" x="0" y="423" width="614" height="211" />
+	<SubTexture name="DEVS instancia 10012" x="0" y="423" width="614" height="211" />
+</TextureAtlas>
