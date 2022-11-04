@@ -1,285 +1,284 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--
-Created with Free texture packer v0.6.7 http://free-tex-packer.com
--->
-<TextureAtlas imagePath="tiny mouse dialogue.png" width="2839" height="2848">
-  <SubTexture name="MIKI DIALOGUE0191" x="0" y="0"  width="289.5" height="255" frameX="-32.5" frameY="-15" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0192" x="0" y="255"  width="289.5" height="255" frameX="-32.5" frameY="-15" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0195" x="289.5" y="0"  width="289.5" height="245" frameX="-32.5" frameY="-25" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0196" x="289.5" y="245"  width="289.5" height="245" frameX="-32.5" frameY="-25" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0193" x="0" y="510"  width="289" height="259" frameX="-33" frameY="-11" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0194" x="289" y="510"  width="289" height="259" frameX="-33" frameY="-11" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0227" x="579" y="0"  width="289" height="256.5" frameX="-13" frameY="-13" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0197" x="579" y="256.5"  width="288.5" height="250" frameX="-33.5" frameY="-20" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0199" x="578" y="506.5"  width="288.5" height="256" frameX="-33.5" frameY="-14" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0201" x="0" y="769"  width="288.5" height="259" frameX="-33.5" frameY="-11" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0203" x="578" y="762.5"  width="288.5" height="245" frameX="-33.5" frameY="-25" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0204" x="288.5" y="769"  width="288.5" height="245" frameX="-33.5" frameY="-25" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0205" x="868" y="0"  width="288.5" height="250" frameX="-33.5" frameY="-20" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0206" x="868" y="250"  width="288.5" height="250" frameX="-33.5" frameY="-20" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0208" x="867.5" y="500"  width="288.5" height="256" frameX="-33.5" frameY="-14" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0266" x="866.5" y="756"  width="288.5" height="249.5" frameX="-33.5" frameY="-18" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0267" x="0" y="1028"  width="288.5" height="249.5" frameX="-33.5" frameY="-18" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0268" x="866.5" y="1005.5"  width="288.5" height="238.5" frameX="-33.5" frameY="-29" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0269" x="577" y="1007.5"  width="288.5" height="238.5" frameX="-33.5" frameY="-29" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0270" x="288.5" y="1014"  width="288.5" height="244.5" frameX="-33.5" frameY="-23" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0271" x="1156.5" y="0"  width="288.5" height="244.5" frameX="-33.5" frameY="-23" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0272" x="1156.5" y="244.5"  width="288.5" height="250.5" frameX="-33.5" frameY="-17" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0273" x="1156.5" y="495"  width="288.5" height="250.5" frameX="-33.5" frameY="-17" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0274" x="1156" y="745.5"  width="288.5" height="252.5" frameX="-33.5" frameY="-15" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0276" x="1155" y="998"  width="288.5" height="239.5" frameX="-33.5" frameY="-28" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0226" x="0" y="1277.5"  width="285.5" height="252.5" frameX="-16.5" frameY="-17" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0189" x="1155" y="1237.5"  width="282" height="244.5" frameX="-40" frameY="-24.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0190" x="865.5" y="1244"  width="282" height="244.5" frameX="-40" frameY="-24.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0223" x="288.5" y="1258.5"  width="276" height="266.5" frameX="-26" frameY="-3" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0224" x="564.5" y="1258.5"  width="276" height="266.5" frameX="-26" frameY="-3" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0225" x="1445" y="0"  width="274.5" height="252" frameX="-27.5" frameY="-17" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0221" x="1445" y="252"  width="273" height="256" frameX="-29" frameY="-13" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0222" x="1445" y="508"  width="273" height="256" frameX="-29" frameY="-13" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0187" x="1444.5" y="764"  width="270.5" height="238" frameX="-31.5" frameY="-31" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0179" x="1437" y="1237.5"  width="229.5" height="269" frameX="-21" frameY="-0" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0180" x="0" y="1530"  width="229.5" height="269" frameX="-21" frameY="-0" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0209" x="229.5" y="1530"  width="268.5" height="267" frameX="-33.5" frameY="-3" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0210" x="498" y="1525"  width="268.5" height="267" frameX="-33.5" frameY="-3" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0211" x="1147.5" y="1482"  width="268.5" height="253" frameX="-33.5" frameY="-17" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0213" x="766.5" y="1525"  width="268.5" height="257" frameX="-33.5" frameY="-13" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0215" x="1416" y="1506.5"  width="268.5" height="263" frameX="-33.5" frameY="-7" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0217" x="1719.5" y="0"  width="268.5" height="265" frameX="-33.5" frameY="-5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0218" x="1718" y="265"  width="268.5" height="265" frameX="-33.5" frameY="-5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0219" x="1718" y="530"  width="268.5" height="252" frameX="-33.5" frameY="-18" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0220" x="1715" y="782"  width="268.5" height="252" frameX="-33.5" frameY="-18" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0228" x="1684.5" y="1034"  width="268.5" height="254.5" frameX="-33.5" frameY="-13" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0229" x="1684.5" y="1288.5"  width="268.5" height="260.5" frameX="-33.5" frameY="-7" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0230" x="0" y="1799"  width="268.5" height="260.5" frameX="-33.5" frameY="-7" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0231" x="268.5" y="1797"  width="268.5" height="262.5" frameX="-33.5" frameY="-5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0232" x="537" y="1792"  width="268.5" height="262.5" frameX="-33.5" frameY="-5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0233" x="805.5" y="1782"  width="268.5" height="249.5" frameX="-33.5" frameY="-18" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0234" x="1684.5" y="1549"  width="268.5" height="249.5" frameX="-33.5" frameY="-18" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0235" x="1074" y="1798.5"  width="268.5" height="254.5" frameX="-33.5" frameY="-13" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0236" x="1342.5" y="1798.5"  width="268.5" height="260.5" frameX="-33.5" frameY="-7" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0237" x="1988" y="0"  width="268.5" height="262.5" frameX="-33.5" frameY="-5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0238" x="1988" y="262.5"  width="268.5" height="262.5" frameX="-33.5" frameY="-5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0241" x="1986.5" y="525"  width="268.5" height="264.5" frameX="-33.5" frameY="-3" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0243" x="1983.5" y="789.5"  width="268.5" height="250.5" frameX="-33.5" frameY="-17" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0245" x="1611" y="1798.5"  width="268.5" height="254.5" frameX="-33.5" frameY="-13" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0246" x="1879.5" y="1798.5"  width="268.5" height="254.5" frameX="-33.5" frameY="-13" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0247" x="1953" y="1040"  width="268.5" height="260.5" frameX="-33.5" frameY="-7" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0248" x="1953" y="1300.5"  width="268.5" height="260.5" frameX="-33.5" frameY="-7" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0249" x="805.5" y="2031.5"  width="268.5" height="262.5" frameX="-33.5" frameY="-5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0250" x="537" y="2054.5"  width="268.5" height="264.5" frameX="-33.5" frameY="-3" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0252" x="1074" y="2053"  width="268.5" height="250.5" frameX="-33.5" frameY="-17" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0253" x="0" y="2059.5"  width="268.5" height="250.5" frameX="-33.5" frameY="-17" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0255" x="268.5" y="2059.5"  width="268.5" height="254.5" frameX="-33.5" frameY="-13" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0259" x="1611" y="2053"  width="268.5" height="264.5" frameX="-33.5" frameY="-3" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0260" x="1879.5" y="2053"  width="268.5" height="264.5" frameX="-33.5" frameY="-3" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0262" x="1342.5" y="2059"  width="268.5" height="250.5" frameX="-33.5" frameY="-17" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0265" x="2256.5" y="0"  width="264.5" height="266.5" frameX="-33.5" frameY="-1" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0264" x="2256.5" y="266.5"  width="264.5" height="264" frameX="-33.5" frameY="-3.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0177" x="2255" y="530.5"  width="227" height="259" frameX="-20" frameY="-10" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0178" x="2252" y="789.5"  width="223" height="259" frameX="-24" frameY="-10" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0181" x="2221.5" y="1048.5"  width="229.5" height="257" frameX="-21" frameY="-12" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0182" x="2221.5" y="1305.5"  width="229.5" height="257" frameX="-21" frameY="-12" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0185" x="2148" y="1562.5"  width="218" height="255.5" frameX="-31" frameY="-13.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0183" x="2148" y="1818"  width="229.5" height="252" frameX="-21" frameY="-17" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0175" x="1443.5" y="1002"  width="212" height="208.5" frameX="-13" frameY="-60.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0176" x="2148" y="2070"  width="205" height="208.5" frameX="-20" frameY="-60.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0014" x="2366" y="1562.5"  width="148.5" height="187.5" frameX="-29" frameY="-79" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0012" x="2353" y="2070"  width="149.5" height="186" frameX="-29.5" frameY="-80.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0017" x="1953" y="1561"  width="154.5" height="185" frameX="-23" frameY="-81.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0019" x="0" y="2319"  width="157.5" height="184.5" frameX="-21.5" frameY="-82" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0021" x="157.5" y="2319"  width="157.5" height="184.5" frameX="-20.5" frameY="-82" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0061" x="315" y="2319"  width="155" height="184.5" frameX="-23" frameY="-82" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0062" x="470" y="2319"  width="155" height="184.5" frameX="-23" frameY="-82" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0023" x="625" y="2319"  width="156" height="184" frameX="-22.5" frameY="-82.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0024" x="781" y="2319"  width="156" height="184" frameX="-22.5" frameY="-82.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0025" x="937" y="2317.5"  width="155" height="184" frameX="-24" frameY="-82.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0026" x="1092" y="2317.5"  width="155" height="184" frameX="-24" frameY="-82.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0029" x="1247" y="2317.5"  width="155" height="184" frameX="-24" frameY="-82.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0032" x="1402" y="2317.5"  width="155" height="184" frameX="-24" frameY="-82.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0034" x="1557" y="2317.5"  width="155" height="184" frameX="-24" frameY="-82.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0036" x="1712" y="2317.5"  width="155" height="184" frameX="-24" frameY="-82.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0038" x="1867" y="2317.5"  width="155" height="184" frameX="-24" frameY="-82.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0046" x="2022" y="2317.5"  width="155" height="184" frameX="-24" frameY="-82.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0048" x="2353" y="2256"  width="155" height="184" frameX="-24" frameY="-82.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0050" x="2177" y="2278.5"  width="155" height="184" frameX="-24" frameY="-82.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0010" x="0" y="2503.5"  width="147.5" height="183.5" frameX="-32" frameY="-83" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0015" x="147.5" y="2503.5"  width="152" height="183.5" frameX="-26.5" frameY="-83" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0063" x="299.5" y="2503.5"  width="159" height="179.5" frameX="-20" frameY="-87.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0064" x="458.5" y="2503.5"  width="159" height="179.5" frameX="-20" frameY="-87.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0009" x="2377.5" y="1750"  width="143" height="176.5" frameX="-33" frameY="-93" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0065" x="617.5" y="2503.5"  width="151.5" height="174" frameX="-19.5" frameY="-93.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0171" x="2332" y="2440"  width="173" height="171" frameX="-0" frameY="-98" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0067" x="2177" y="2462.5"  width="150" height="171.5" frameX="-19" frameY="-96.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0170" x="769" y="2503"  width="163" height="171" frameX="-10" frameY="-98" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0168" x="932" y="2503"  width="152.5" height="170.5" frameX="-22.5" frameY="-98.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0169" x="1084.5" y="2501.5"  width="165" height="170.5" frameX="-10" frameY="-98.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0166" x="1249.5" y="2501.5"  width="154" height="170" frameX="-23" frameY="-99" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0125" x="1403.5" y="2501.5"  width="160" height="168.5" frameX="-21" frameY="-100.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0126" x="1563.5" y="2501.5"  width="160" height="168.5" frameX="-21" frameY="-100.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0130" x="1723.5" y="2501.5"  width="160" height="168.5" frameX="-21" frameY="-100.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0132" x="1883.5" y="2501.5"  width="160" height="168.5" frameX="-21" frameY="-100.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0134" x="2521" y="0"  width="160" height="168.5" frameX="-21" frameY="-100.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0136" x="2521" y="168.5"  width="160" height="168.5" frameX="-21" frameY="-100.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0138" x="2521" y="337"  width="160" height="168.5" frameX="-21" frameY="-100.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0140" x="2521" y="505.5"  width="160" height="168.5" frameX="-21" frameY="-100.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0142" x="2520.5" y="674"  width="160" height="168.5" frameX="-21" frameY="-100.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0144" x="2520.5" y="842.5"  width="160" height="168.5" frameX="-21" frameY="-100.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0146" x="2520.5" y="1011"  width="160" height="168.5" frameX="-21" frameY="-100.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0007" x="2520.5" y="1179.5"  width="142" height="168" frameX="-34" frameY="-99" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0123" x="2520.5" y="1347.5"  width="157.5" height="168" frameX="-23" frameY="-101" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0124" x="2520.5" y="1515.5"  width="157.5" height="168" frameX="-23" frameY="-101" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0069" x="2520.5" y="1683.5"  width="142.5" height="167" frameX="-19.5" frameY="-100.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0172" x="2520.5" y="1850.5"  width="158" height="166.5" frameX="-0" frameY="-102.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0173" x="2508" y="2017"  width="147" height="166.5" frameX="-27" frameY="-102.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0087" x="2508" y="2183.5"  width="158" height="165.5" frameX="-23" frameY="-103.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0089" x="2508" y="2349"  width="158" height="165.5" frameX="-23" frameY="-103.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0091" x="2505" y="2514.5"  width="158" height="165.5" frameX="-23" frameY="-103.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0094" x="2681" y="0"  width="158" height="165.5" frameX="-23" frameY="-103.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0096" x="2681" y="165.5"  width="158" height="165.5" frameX="-23" frameY="-103.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0103" x="2681" y="331"  width="158" height="165.5" frameX="-23" frameY="-103.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0105" x="2681" y="496.5"  width="158" height="165.5" frameX="-23" frameY="-103.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0107" x="2681" y="662"  width="158" height="165.5" frameX="-23" frameY="-103.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0109" x="2680.5" y="827.5"  width="158" height="165.5" frameX="-23" frameY="-103.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0120" x="2680.5" y="993"  width="158" height="165.5" frameX="-23" frameY="-103.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0070" x="2655" y="2017"  width="142" height="165" frameX="-19.5" frameY="-102.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0085" x="2680.5" y="1158.5"  width="158" height="165" frameX="-23" frameY="-104" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0083" x="2663" y="1683.5"  width="158" height="164.5" frameX="-23" frameY="-104.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0121" x="2678.5" y="1848"  width="156.5" height="164.5" frameX="-22.5" frameY="-104.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0122" x="2678" y="1323.5"  width="156.5" height="164.5" frameX="-22.5" frameY="-104.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0174" x="2666" y="2182"  width="164" height="160.5" frameX="-13" frameY="-108.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0005" x="2663" y="2514.5"  width="144" height="163.5" frameX="-31" frameY="-103" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0081" x="2678" y="1488"  width="158" height="163.5" frameX="-23" frameY="-105.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0003" x="2666" y="2342.5"  width="149" height="161.5" frameX="-29" frameY="-105" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0001" x="0" y="2687"  width="152.5" height="161" frameX="-27" frameY="-105.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0079" x="152.5" y="2687"  width="152.5" height="160" frameX="-19" frameY="-109" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0071" x="305" y="2683"  width="138.5" height="159.5" frameX="-21" frameY="-108.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0073" x="443.5" y="2683"  width="138" height="159" frameX="-21" frameY="-109" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0075" x="581.5" y="2683"  width="141.5" height="158.5" frameX="-20" frameY="-109.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0077" x="723" y="2680"  width="145" height="158" frameX="-19.5" frameY="-110" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0002" x="0" y="2687"  width="152.5" height="161" frameX="-27" frameY="-105.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0004" x="2666" y="2342.5"  width="149" height="161.5" frameX="-29" frameY="-105" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0006" x="2663" y="2514.5"  width="144" height="163.5" frameX="-31" frameY="-103" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0008" x="2520.5" y="1179.5"  width="142" height="168" frameX="-34" frameY="-99" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0011" x="0" y="2503.5"  width="147.5" height="183.5" frameX="-32" frameY="-83" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0013" x="2353" y="2070"  width="149.5" height="186" frameX="-29.5" frameY="-80.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0016" x="147.5" y="2503.5"  width="152" height="183.5" frameX="-26.5" frameY="-83" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0018" x="1953" y="1561"  width="154.5" height="185" frameX="-23" frameY="-81.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0020" x="0" y="2319"  width="157.5" height="184.5" frameX="-21.5" frameY="-82" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0022" x="157.5" y="2319"  width="157.5" height="184.5" frameX="-20.5" frameY="-82" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0027" x="1092" y="2317.5"  width="155" height="184" frameX="-24" frameY="-82.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0028" x="1092" y="2317.5"  width="155" height="184" frameX="-24" frameY="-82.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0030" x="1247" y="2317.5"  width="155" height="184" frameX="-24" frameY="-82.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0031" x="1247" y="2317.5"  width="155" height="184" frameX="-24" frameY="-82.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0033" x="1402" y="2317.5"  width="155" height="184" frameX="-24" frameY="-82.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0035" x="1557" y="2317.5"  width="155" height="184" frameX="-24" frameY="-82.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0037" x="1712" y="2317.5"  width="155" height="184" frameX="-24" frameY="-82.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0039" x="1867" y="2317.5"  width="155" height="184" frameX="-24" frameY="-82.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0040" x="1867" y="2317.5"  width="155" height="184" frameX="-24" frameY="-82.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0041" x="1867" y="2317.5"  width="155" height="184" frameX="-24" frameY="-82.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0042" x="1867" y="2317.5"  width="155" height="184" frameX="-24" frameY="-82.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0043" x="1867" y="2317.5"  width="155" height="184" frameX="-24" frameY="-82.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0044" x="1867" y="2317.5"  width="155" height="184" frameX="-24" frameY="-82.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0045" x="1867" y="2317.5"  width="155" height="184" frameX="-24" frameY="-82.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0047" x="2022" y="2317.5"  width="155" height="184" frameX="-24" frameY="-82.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0049" x="2353" y="2256"  width="155" height="184" frameX="-24" frameY="-82.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0051" x="2177" y="2278.5"  width="155" height="184" frameX="-24" frameY="-82.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0052" x="2177" y="2278.5"  width="155" height="184" frameX="-24" frameY="-82.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0053" x="2177" y="2278.5"  width="155" height="184" frameX="-24" frameY="-82.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0054" x="2177" y="2278.5"  width="155" height="184" frameX="-24" frameY="-82.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0055" x="2177" y="2278.5"  width="155" height="184" frameX="-24" frameY="-82.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0056" x="2177" y="2278.5"  width="155" height="184" frameX="-24" frameY="-82.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0057" x="2177" y="2278.5"  width="155" height="184" frameX="-24" frameY="-82.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0058" x="2177" y="2278.5"  width="155" height="184" frameX="-24" frameY="-82.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0059" x="2177" y="2278.5"  width="155" height="184" frameX="-24" frameY="-82.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0060" x="2177" y="2278.5"  width="155" height="184" frameX="-24" frameY="-82.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0066" x="617.5" y="2503.5"  width="151.5" height="174" frameX="-19.5" frameY="-93.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0068" x="2177" y="2462.5"  width="150" height="171.5" frameX="-19" frameY="-96.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0072" x="305" y="2683"  width="138.5" height="159.5" frameX="-21" frameY="-108.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0074" x="443.5" y="2683"  width="138" height="159" frameX="-21" frameY="-109" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0076" x="581.5" y="2683"  width="141.5" height="158.5" frameX="-20" frameY="-109.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0078" x="723" y="2680"  width="145" height="158" frameX="-19.5" frameY="-110" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0080" x="152.5" y="2687"  width="152.5" height="160" frameX="-19" frameY="-109" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0082" x="2678" y="1488"  width="158" height="163.5" frameX="-23" frameY="-105.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0084" x="2663" y="1683.5"  width="158" height="164.5" frameX="-23" frameY="-104.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0086" x="2680.5" y="1158.5"  width="158" height="165" frameX="-23" frameY="-104" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0088" x="2508" y="2183.5"  width="158" height="165.5" frameX="-23" frameY="-103.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0090" x="2508" y="2349"  width="158" height="165.5" frameX="-23" frameY="-103.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0092" x="2505" y="2514.5"  width="158" height="165.5" frameX="-23" frameY="-103.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0093" x="2505" y="2514.5"  width="158" height="165.5" frameX="-23" frameY="-103.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0095" x="2681" y="0"  width="158" height="165.5" frameX="-23" frameY="-103.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0097" x="2681" y="165.5"  width="158" height="165.5" frameX="-23" frameY="-103.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0098" x="2681" y="165.5"  width="158" height="165.5" frameX="-23" frameY="-103.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0099" x="2681" y="165.5"  width="158" height="165.5" frameX="-23" frameY="-103.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0100" x="2681" y="165.5"  width="158" height="165.5" frameX="-23" frameY="-103.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0101" x="2681" y="165.5"  width="158" height="165.5" frameX="-23" frameY="-103.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0102" x="2681" y="165.5"  width="158" height="165.5" frameX="-23" frameY="-103.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0104" x="2681" y="331"  width="158" height="165.5" frameX="-23" frameY="-103.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0106" x="2681" y="496.5"  width="158" height="165.5" frameX="-23" frameY="-103.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0108" x="2681" y="662"  width="158" height="165.5" frameX="-23" frameY="-103.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0110" x="2680.5" y="827.5"  width="158" height="165.5" frameX="-23" frameY="-103.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0111" x="2680.5" y="827.5"  width="158" height="165.5" frameX="-23" frameY="-103.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0112" x="2680.5" y="827.5"  width="158" height="165.5" frameX="-23" frameY="-103.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0113" x="2680.5" y="827.5"  width="158" height="165.5" frameX="-23" frameY="-103.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0114" x="2680.5" y="827.5"  width="158" height="165.5" frameX="-23" frameY="-103.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0115" x="2680.5" y="827.5"  width="158" height="165.5" frameX="-23" frameY="-103.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0116" x="2680.5" y="827.5"  width="158" height="165.5" frameX="-23" frameY="-103.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0117" x="2680.5" y="827.5"  width="158" height="165.5" frameX="-23" frameY="-103.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0118" x="2680.5" y="827.5"  width="158" height="165.5" frameX="-23" frameY="-103.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0119" x="2680.5" y="827.5"  width="158" height="165.5" frameX="-23" frameY="-103.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0127" x="1563.5" y="2501.5"  width="160" height="168.5" frameX="-21" frameY="-100.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0128" x="1563.5" y="2501.5"  width="160" height="168.5" frameX="-21" frameY="-100.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0129" x="1563.5" y="2501.5"  width="160" height="168.5" frameX="-21" frameY="-100.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0131" x="1723.5" y="2501.5"  width="160" height="168.5" frameX="-21" frameY="-100.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0133" x="1883.5" y="2501.5"  width="160" height="168.5" frameX="-21" frameY="-100.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0135" x="2521" y="0"  width="160" height="168.5" frameX="-21" frameY="-100.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0137" x="2521" y="168.5"  width="160" height="168.5" frameX="-21" frameY="-100.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0139" x="2521" y="337"  width="160" height="168.5" frameX="-21" frameY="-100.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0141" x="2521" y="505.5"  width="160" height="168.5" frameX="-21" frameY="-100.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0143" x="2520.5" y="674"  width="160" height="168.5" frameX="-21" frameY="-100.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0145" x="2520.5" y="842.5"  width="160" height="168.5" frameX="-21" frameY="-100.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0147" x="2520.5" y="1011"  width="160" height="168.5" frameX="-21" frameY="-100.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0148" x="2520.5" y="1011"  width="160" height="168.5" frameX="-21" frameY="-100.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0149" x="2520.5" y="1011"  width="160" height="168.5" frameX="-21" frameY="-100.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0150" x="2520.5" y="1011"  width="160" height="168.5" frameX="-21" frameY="-100.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0151" x="2520.5" y="1011"  width="160" height="168.5" frameX="-21" frameY="-100.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0152" x="2520.5" y="1011"  width="160" height="168.5" frameX="-21" frameY="-100.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0153" x="2520.5" y="1011"  width="160" height="168.5" frameX="-21" frameY="-100.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0154" x="2520.5" y="1011"  width="160" height="168.5" frameX="-21" frameY="-100.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0155" x="2520.5" y="1011"  width="160" height="168.5" frameX="-21" frameY="-100.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0156" x="2520.5" y="1011"  width="160" height="168.5" frameX="-21" frameY="-100.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0157" x="2520.5" y="1011"  width="160" height="168.5" frameX="-21" frameY="-100.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0158" x="2520.5" y="1011"  width="160" height="168.5" frameX="-21" frameY="-100.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0159" x="2520.5" y="1011"  width="160" height="168.5" frameX="-21" frameY="-100.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0160" x="2520.5" y="1011"  width="160" height="168.5" frameX="-21" frameY="-100.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0161" x="2520.5" y="1011"  width="160" height="168.5" frameX="-21" frameY="-100.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0162" x="2520.5" y="1011"  width="160" height="168.5" frameX="-21" frameY="-100.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0163" x="2520.5" y="1011"  width="160" height="168.5" frameX="-21" frameY="-100.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0164" x="2520.5" y="1011"  width="160" height="168.5" frameX="-21" frameY="-100.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0165" x="2520.5" y="1011"  width="160" height="168.5" frameX="-21" frameY="-100.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0167" x="1249.5" y="2501.5"  width="154" height="170" frameX="-23" frameY="-99" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0184" x="2148" y="1818"  width="229.5" height="252" frameX="-21" frameY="-17" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0186" x="2148" y="1562.5"  width="218" height="255.5" frameX="-31" frameY="-13.5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0188" x="1444.5" y="764"  width="270.5" height="238" frameX="-31.5" frameY="-31" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0198" x="579" y="256.5"  width="288.5" height="250" frameX="-33.5" frameY="-20" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0200" x="578" y="506.5"  width="288.5" height="256" frameX="-33.5" frameY="-14" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0207" x="578" y="506.5"  width="288.5" height="256" frameX="-33.5" frameY="-14" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0202" x="0" y="769"  width="288.5" height="259" frameX="-33.5" frameY="-11" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0212" x="1147.5" y="1482"  width="268.5" height="253" frameX="-33.5" frameY="-17" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0214" x="766.5" y="1525"  width="268.5" height="257" frameX="-33.5" frameY="-13" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0216" x="1416" y="1506.5"  width="268.5" height="263" frameX="-33.5" frameY="-7" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0239" x="805.5" y="1782"  width="268.5" height="249.5" frameX="-33.5" frameY="-18" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0240" x="805.5" y="1782"  width="268.5" height="249.5" frameX="-33.5" frameY="-18" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0257" x="1342.5" y="1798.5"  width="268.5" height="260.5" frameX="-33.5" frameY="-7" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0258" x="1988" y="0"  width="268.5" height="262.5" frameX="-33.5" frameY="-5" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0242" x="1986.5" y="525"  width="268.5" height="264.5" frameX="-33.5" frameY="-3" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0244" x="1983.5" y="789.5"  width="268.5" height="250.5" frameX="-33.5" frameY="-17" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0254" x="1879.5" y="1798.5"  width="268.5" height="254.5" frameX="-33.5" frameY="-13" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0256" x="1953" y="1300.5"  width="268.5" height="260.5" frameX="-33.5" frameY="-7" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0251" x="537" y="2054.5"  width="268.5" height="264.5" frameX="-33.5" frameY="-3" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0261" x="0" y="2059.5"  width="268.5" height="250.5" frameX="-33.5" frameY="-17" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0263" x="268.5" y="2059.5"  width="268.5" height="254.5" frameX="-33.5" frameY="-13" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0278" x="1156.5" y="0"  width="288.5" height="244.5" frameX="-33.5" frameY="-23" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0279" x="1156.5" y="0"  width="288.5" height="244.5" frameX="-33.5" frameY="-23" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0275" x="1156" y="745.5"  width="288.5" height="252.5" frameX="-33.5" frameY="-15" frameWidth="322" frameHeight="271.5"/>
-  <SubTexture name="MIKI DIALOGUE0277" x="1155" y="998"  width="288.5" height="239.5" frameX="-33.5" frameY="-28" frameWidth="322" frameHeight="271.5"/>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TOO SLOW COVER.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MIKI DIALOGUE instancia 10000" x="0" y="0" width="167" height="176" frameX="-46" frameY="-115" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10001" x="0" y="0" width="167" height="176" frameX="-46" frameY="-115" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10002" x="167" y="0" width="163" height="176" frameX="-48" frameY="-115" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10003" x="167" y="0" width="163" height="176" frameX="-48" frameY="-115" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10004" x="330" y="0" width="158" height="179" frameX="-50" frameY="-112" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10005" x="330" y="0" width="158" height="179" frameX="-50" frameY="-112" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10006" x="488" y="0" width="155" height="183" frameX="-54" frameY="-108" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10007" x="488" y="0" width="155" height="183" frameX="-54" frameY="-108" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10008" x="643" y="0" width="157" height="192" frameX="-52" frameY="-102" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10009" x="800" y="0" width="162" height="200" frameX="-51" frameY="-91" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10010" x="800" y="0" width="162" height="200" frameX="-51" frameY="-91" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10011" x="962" y="0" width="163" height="203" frameX="-49" frameY="-88" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10012" x="962" y="0" width="163" height="203" frameX="-49" frameY="-88" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10013" x="1125" y="0" width="163" height="205" frameX="-48" frameY="-86" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10014" x="1288" y="0" width="166" height="201" frameX="-45" frameY="-90" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10015" x="1288" y="0" width="166" height="201" frameX="-45" frameY="-90" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10016" x="1454" y="0" width="169" height="202" frameX="-42" frameY="-89" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10017" x="1454" y="0" width="169" height="202" frameX="-42" frameY="-89" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10018" x="1623" y="0" width="173" height="202" frameX="-40" frameY="-89" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10019" x="1623" y="0" width="173" height="202" frameX="-40" frameY="-89" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10020" x="1796" y="0" width="172" height="202" frameX="-39" frameY="-89" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10021" x="1796" y="0" width="172" height="202" frameX="-39" frameY="-89" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10022" x="1968" y="0" width="171" height="201" frameX="-41" frameY="-90" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10023" x="2139" y="0" width="171" height="201" frameX="-41" frameY="-90" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10024" x="2310" y="0" width="169" height="201" frameX="-43" frameY="-90" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10025" x="2479" y="0" width="169" height="201" frameX="-43" frameY="-90" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10026" x="2479" y="0" width="169" height="201" frameX="-43" frameY="-90" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10027" x="2479" y="0" width="169" height="201" frameX="-43" frameY="-90" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10028" x="2648" y="0" width="169" height="201" frameX="-43" frameY="-90" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10029" x="2648" y="0" width="169" height="201" frameX="-43" frameY="-90" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10030" x="2648" y="0" width="169" height="201" frameX="-43" frameY="-90" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10031" x="2817" y="0" width="169" height="201" frameX="-43" frameY="-90" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10032" x="2817" y="0" width="169" height="201" frameX="-43" frameY="-90" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10033" x="2986" y="0" width="169" height="201" frameX="-43" frameY="-90" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10034" x="2986" y="0" width="169" height="201" frameX="-43" frameY="-90" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10035" x="3155" y="0" width="169" height="201" frameX="-43" frameY="-90" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10036" x="3155" y="0" width="169" height="201" frameX="-43" frameY="-90" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10037" x="3324" y="0" width="169" height="201" frameX="-43" frameY="-90" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10038" x="3324" y="0" width="169" height="201" frameX="-43" frameY="-90" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10039" x="3324" y="0" width="169" height="201" frameX="-43" frameY="-90" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10040" x="3324" y="0" width="169" height="201" frameX="-43" frameY="-90" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10041" x="3324" y="0" width="169" height="201" frameX="-43" frameY="-90" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10042" x="3324" y="0" width="169" height="201" frameX="-43" frameY="-90" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10043" x="3324" y="0" width="169" height="201" frameX="-43" frameY="-90" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10044" x="3324" y="0" width="169" height="201" frameX="-43" frameY="-90" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10045" x="3493" y="0" width="169" height="201" frameX="-43" frameY="-90" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10046" x="3493" y="0" width="169" height="201" frameX="-43" frameY="-90" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10047" x="3662" y="0" width="169" height="201" frameX="-43" frameY="-90" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10048" x="3662" y="0" width="169" height="201" frameX="-43" frameY="-90" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10049" x="3831" y="0" width="169" height="201" frameX="-43" frameY="-90" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10050" x="3831" y="0" width="169" height="201" frameX="-43" frameY="-90" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10051" x="3831" y="0" width="169" height="201" frameX="-43" frameY="-90" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10052" x="3831" y="0" width="169" height="201" frameX="-43" frameY="-90" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10053" x="3831" y="0" width="169" height="201" frameX="-43" frameY="-90" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10054" x="3831" y="0" width="169" height="201" frameX="-43" frameY="-90" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10055" x="3831" y="0" width="169" height="201" frameX="-43" frameY="-90" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10056" x="3831" y="0" width="169" height="201" frameX="-43" frameY="-90" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10057" x="3831" y="0" width="169" height="201" frameX="-43" frameY="-90" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10058" x="3831" y="0" width="169" height="201" frameX="-43" frameY="-90" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10059" x="3831" y="0" width="169" height="201" frameX="-43" frameY="-90" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10060" x="0" y="205" width="170" height="202" frameX="-41" frameY="-89" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10061" x="170" y="205" width="170" height="202" frameX="-41" frameY="-89" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10062" x="340" y="205" width="174" height="195" frameX="-38" frameY="-96" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10063" x="514" y="205" width="174" height="195" frameX="-38" frameY="-96" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10064" x="688" y="205" width="166" height="190" frameX="-38" frameY="-102" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10065" x="688" y="205" width="166" height="190" frameX="-38" frameY="-102" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10066" x="854" y="205" width="164" height="187" frameX="-37" frameY="-105" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10067" x="854" y="205" width="164" height="187" frameX="-37" frameY="-105" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10068" x="1018" y="205" width="156" height="183" frameX="-38" frameY="-109" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10069" x="1174" y="205" width="155" height="180" frameX="-38" frameY="-112" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10070" x="1329" y="205" width="152" height="174" frameX="-39" frameY="-118" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10071" x="1329" y="205" width="152" height="174" frameX="-39" frameY="-118" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10072" x="1481" y="205" width="151" height="173" frameX="-40" frameY="-119" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10073" x="1481" y="205" width="151" height="173" frameX="-40" frameY="-119" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10074" x="1632" y="205" width="154" height="173" frameX="-39" frameY="-119" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10075" x="1632" y="205" width="154" height="173" frameX="-39" frameY="-119" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10076" x="1786" y="205" width="158" height="172" frameX="-38" frameY="-120" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10077" x="1786" y="205" width="158" height="172" frameX="-38" frameY="-120" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10078" x="1944" y="205" width="167" height="174" frameX="-37" frameY="-119" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10079" x="1944" y="205" width="167" height="174" frameX="-37" frameY="-119" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10080" x="2111" y="205" width="172" height="178" frameX="-42" frameY="-115" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10081" x="2111" y="205" width="172" height="178" frameX="-42" frameY="-115" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10082" x="2283" y="205" width="172" height="179" frameX="-42" frameY="-114" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10083" x="2283" y="205" width="172" height="179" frameX="-42" frameY="-114" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10084" x="2455" y="205" width="172" height="180" frameX="-42" frameY="-113" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10085" x="2455" y="205" width="172" height="180" frameX="-42" frameY="-113" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10086" x="2627" y="205" width="172" height="180" frameX="-42" frameY="-113" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10087" x="2627" y="205" width="172" height="180" frameX="-42" frameY="-113" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10088" x="2799" y="205" width="172" height="180" frameX="-42" frameY="-113" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10089" x="2799" y="205" width="172" height="180" frameX="-42" frameY="-113" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10090" x="2971" y="205" width="172" height="180" frameX="-42" frameY="-113" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10091" x="2971" y="205" width="172" height="180" frameX="-42" frameY="-113" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10092" x="2971" y="205" width="172" height="180" frameX="-42" frameY="-113" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10093" x="3143" y="205" width="172" height="180" frameX="-42" frameY="-113" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10094" x="3143" y="205" width="172" height="180" frameX="-42" frameY="-113" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10095" x="3315" y="205" width="172" height="180" frameX="-42" frameY="-113" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10096" x="3315" y="205" width="172" height="180" frameX="-42" frameY="-113" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10097" x="3315" y="205" width="172" height="180" frameX="-42" frameY="-113" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10098" x="3315" y="205" width="172" height="180" frameX="-42" frameY="-113" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10099" x="3315" y="205" width="172" height="180" frameX="-42" frameY="-113" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10100" x="3315" y="205" width="172" height="180" frameX="-42" frameY="-113" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10101" x="3315" y="205" width="172" height="180" frameX="-42" frameY="-113" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10102" x="3487" y="205" width="172" height="180" frameX="-42" frameY="-113" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10103" x="3487" y="205" width="172" height="180" frameX="-42" frameY="-113" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10104" x="3659" y="205" width="172" height="180" frameX="-42" frameY="-113" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10105" x="3659" y="205" width="172" height="180" frameX="-42" frameY="-113" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10106" x="3831" y="205" width="172" height="180" frameX="-42" frameY="-113" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10107" x="3831" y="205" width="172" height="180" frameX="-42" frameY="-113" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10108" x="0" y="407" width="172" height="180" frameX="-42" frameY="-113" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10109" x="0" y="407" width="172" height="180" frameX="-42" frameY="-113" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10110" x="0" y="407" width="172" height="180" frameX="-42" frameY="-113" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10111" x="0" y="407" width="172" height="180" frameX="-42" frameY="-113" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10112" x="0" y="407" width="172" height="180" frameX="-42" frameY="-113" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10113" x="0" y="407" width="172" height="180" frameX="-42" frameY="-113" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10114" x="0" y="407" width="172" height="180" frameX="-42" frameY="-113" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10115" x="0" y="407" width="172" height="180" frameX="-42" frameY="-113" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10116" x="0" y="407" width="172" height="180" frameX="-42" frameY="-113" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10117" x="0" y="407" width="172" height="180" frameX="-42" frameY="-113" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10118" x="0" y="407" width="172" height="180" frameX="-42" frameY="-113" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10119" x="172" y="407" width="172" height="180" frameX="-42" frameY="-113" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10120" x="344" y="407" width="171" height="179" frameX="-41" frameY="-114" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10121" x="515" y="407" width="171" height="179" frameX="-41" frameY="-114" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10122" x="686" y="407" width="172" height="183" frameX="-42" frameY="-110" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10123" x="858" y="407" width="172" height="183" frameX="-42" frameY="-110" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10124" x="1030" y="407" width="174" height="183" frameX="-40" frameY="-110" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10125" x="1204" y="407" width="174" height="183" frameX="-40" frameY="-110" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10126" x="1204" y="407" width="174" height="183" frameX="-40" frameY="-110" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10127" x="1204" y="407" width="174" height="183" frameX="-40" frameY="-110" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10128" x="1204" y="407" width="174" height="183" frameX="-40" frameY="-110" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10129" x="1378" y="407" width="174" height="183" frameX="-40" frameY="-110" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10130" x="1378" y="407" width="174" height="183" frameX="-40" frameY="-110" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10131" x="1552" y="407" width="174" height="183" frameX="-40" frameY="-110" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10132" x="1552" y="407" width="174" height="183" frameX="-40" frameY="-110" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10133" x="1726" y="407" width="174" height="183" frameX="-40" frameY="-110" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10134" x="1726" y="407" width="174" height="183" frameX="-40" frameY="-110" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10135" x="1900" y="407" width="174" height="183" frameX="-40" frameY="-110" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10136" x="1900" y="407" width="174" height="183" frameX="-40" frameY="-110" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10137" x="2074" y="407" width="174" height="183" frameX="-40" frameY="-110" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10138" x="2074" y="407" width="174" height="183" frameX="-40" frameY="-110" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10139" x="2248" y="407" width="174" height="183" frameX="-40" frameY="-110" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10140" x="2248" y="407" width="174" height="183" frameX="-40" frameY="-110" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10141" x="2422" y="407" width="174" height="183" frameX="-40" frameY="-110" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10142" x="2422" y="407" width="174" height="183" frameX="-40" frameY="-110" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10143" x="2596" y="407" width="174" height="183" frameX="-40" frameY="-110" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10144" x="2596" y="407" width="174" height="183" frameX="-40" frameY="-110" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10145" x="2770" y="407" width="174" height="183" frameX="-40" frameY="-110" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10146" x="2770" y="407" width="174" height="183" frameX="-40" frameY="-110" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10147" x="2770" y="407" width="174" height="183" frameX="-40" frameY="-110" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10148" x="2770" y="407" width="174" height="183" frameX="-40" frameY="-110" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10149" x="2770" y="407" width="174" height="183" frameX="-40" frameY="-110" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10150" x="2770" y="407" width="174" height="183" frameX="-40" frameY="-110" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10151" x="2770" y="407" width="174" height="183" frameX="-40" frameY="-110" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10152" x="2770" y="407" width="174" height="183" frameX="-40" frameY="-110" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10153" x="2770" y="407" width="174" height="183" frameX="-40" frameY="-110" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10154" x="2770" y="407" width="174" height="183" frameX="-40" frameY="-110" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10155" x="2770" y="407" width="174" height="183" frameX="-40" frameY="-110" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10156" x="2770" y="407" width="174" height="183" frameX="-40" frameY="-110" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10157" x="2770" y="407" width="174" height="183" frameX="-40" frameY="-110" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10158" x="2770" y="407" width="174" height="183" frameX="-40" frameY="-110" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10159" x="2770" y="407" width="174" height="183" frameX="-40" frameY="-110" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10160" x="2770" y="407" width="174" height="183" frameX="-40" frameY="-110" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10161" x="2770" y="407" width="174" height="183" frameX="-40" frameY="-110" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10162" x="2770" y="407" width="174" height="183" frameX="-40" frameY="-110" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10163" x="2770" y="407" width="174" height="183" frameX="-40" frameY="-110" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10164" x="2770" y="407" width="174" height="183" frameX="-40" frameY="-110" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10165" x="2944" y="407" width="168" height="185" frameX="-42" frameY="-108" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10166" x="2944" y="407" width="168" height="185" frameX="-42" frameY="-108" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10167" x="3112" y="407" width="167" height="186" frameX="-41" frameY="-107" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10168" x="3279" y="407" width="181" height="186" frameX="-27" frameY="-107" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10169" x="3460" y="407" width="178" height="186" frameX="-27" frameY="-107" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10170" x="3638" y="407" width="189" height="186" frameX="-16" frameY="-107" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10171" x="3827" y="407" width="173" height="182" frameX="-16" frameY="-111" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10172" x="0" y="593" width="161" height="182" frameX="-46" frameY="-111" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10173" x="161" y="593" width="180" height="175" frameX="-31" frameY="-118" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10174" x="341" y="593" width="231" height="227" frameX="-31" frameY="-66" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10175" x="572" y="593" width="224" height="228" frameX="-38" frameY="-66" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10176" x="796" y="593" width="248" height="283" frameX="-38" frameY="-11" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10177" x="1044" y="593" width="243" height="283" frameX="-43" frameY="-11" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10178" x="1287" y="593" width="250" height="294" frameX="-40" frameY="0" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10179" x="1537" y="593" width="250" height="294" frameX="-40" frameY="0" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10180" x="1787" y="593" width="250" height="281" frameX="-40" frameY="-13" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10181" x="2037" y="593" width="250" height="281" frameX="-40" frameY="-13" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10182" x="2287" y="593" width="250" height="275" frameX="-40" frameY="-19" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10183" x="2287" y="593" width="250" height="275" frameX="-40" frameY="-19" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10184" x="2537" y="593" width="238" height="279" frameX="-51" frameY="-15" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10185" x="2537" y="593" width="238" height="279" frameX="-51" frameY="-15" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10186" x="2775" y="593" width="295" height="260" frameX="-51" frameY="-34" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10187" x="2775" y="593" width="295" height="260" frameX="-51" frameY="-34" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10188" x="3070" y="593" width="308" height="267" frameX="-60" frameY="-27" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10189" x="3378" y="593" width="308" height="267" frameX="-60" frameY="-27" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10190" x="3686" y="593" width="316" height="278" frameX="-52" frameY="-17" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10191" x="0" y="887" width="316" height="278" frameX="-52" frameY="-17" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10192" x="316" y="887" width="315" height="283" frameX="-53" frameY="-12" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10193" x="631" y="887" width="315" height="283" frameX="-53" frameY="-12" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10194" x="946" y="887" width="316" height="268" frameX="-52" frameY="-27" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10195" x="1262" y="887" width="316" height="268" frameX="-52" frameY="-27" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10196" x="1578" y="887" width="315" height="273" frameX="-53" frameY="-22" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10197" x="1578" y="887" width="315" height="273" frameX="-53" frameY="-22" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10198" x="1893" y="887" width="315" height="280" frameX="-53" frameY="-15" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10199" x="1893" y="887" width="315" height="280" frameX="-53" frameY="-15" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10200" x="2208" y="887" width="315" height="283" frameX="-53" frameY="-12" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10201" x="2208" y="887" width="315" height="283" frameX="-53" frameY="-12" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10202" x="2523" y="887" width="315" height="268" frameX="-53" frameY="-27" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10203" x="2838" y="887" width="315" height="268" frameX="-53" frameY="-27" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10204" x="3153" y="887" width="315" height="273" frameX="-53" frameY="-22" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10205" x="3468" y="887" width="315" height="273" frameX="-53" frameY="-22" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10206" x="1893" y="887" width="315" height="280" frameX="-53" frameY="-15" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10207" x="0" y="1170" width="315" height="280" frameX="-53" frameY="-15" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10208" x="315" y="1170" width="293" height="292" frameX="-53" frameY="-3" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10209" x="608" y="1170" width="293" height="292" frameX="-53" frameY="-3" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10210" x="901" y="1170" width="293" height="277" frameX="-53" frameY="-18" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10211" x="901" y="1170" width="293" height="277" frameX="-53" frameY="-18" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10212" x="1194" y="1170" width="293" height="281" frameX="-53" frameY="-14" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10213" x="1194" y="1170" width="293" height="281" frameX="-53" frameY="-14" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10214" x="1487" y="1170" width="293" height="287" frameX="-53" frameY="-8" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10215" x="1487" y="1170" width="293" height="287" frameX="-53" frameY="-8" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10216" x="1780" y="1170" width="293" height="290" frameX="-53" frameY="-5" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10217" x="2073" y="1170" width="293" height="290" frameX="-53" frameY="-5" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10218" x="2366" y="1170" width="293" height="275" frameX="-53" frameY="-20" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10219" x="2659" y="1170" width="293" height="275" frameX="-53" frameY="-20" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10220" x="2952" y="1170" width="302" height="285" frameX="-44" frameY="-14" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10221" x="3254" y="1170" width="302" height="285" frameX="-44" frameY="-14" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10222" x="3556" y="1170" width="310" height="297" frameX="-36" frameY="-3" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10223" x="0" y="1467" width="310" height="297" frameX="-36" frameY="-3" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10224" x="310" y="1467" width="308" height="280" frameX="-38" frameY="-18" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10225" x="618" y="1467" width="335" height="281" frameX="-11" frameY="-18" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10226" x="953" y="1467" width="346" height="286" frameX="0" frameY="-14" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10227" x="1299" y="1467" width="293" height="278" frameX="-53" frameY="-14" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10228" x="1592" y="1467" width="293" height="284" frameX="-53" frameY="-8" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10229" x="1885" y="1467" width="293" height="284" frameX="-53" frameY="-8" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10230" x="2178" y="1467" width="293" height="287" frameX="-53" frameY="-5" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10231" x="2471" y="1467" width="293" height="287" frameX="-53" frameY="-5" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10232" x="2764" y="1467" width="293" height="272" frameX="-53" frameY="-20" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10233" x="3057" y="1467" width="293" height="272" frameX="-53" frameY="-20" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10234" x="3350" y="1467" width="293" height="278" frameX="-53" frameY="-14" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10235" x="3643" y="1467" width="293" height="284" frameX="-53" frameY="-8" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10236" x="0" y="1764" width="293" height="287" frameX="-53" frameY="-5" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10237" x="293" y="1764" width="293" height="287" frameX="-53" frameY="-5" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10238" x="2764" y="1467" width="293" height="272" frameX="-53" frameY="-20" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10239" x="2764" y="1467" width="293" height="272" frameX="-53" frameY="-20" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10240" x="586" y="1764" width="293" height="289" frameX="-53" frameY="-3" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10241" x="586" y="1764" width="293" height="289" frameX="-53" frameY="-3" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10242" x="879" y="1764" width="293" height="274" frameX="-53" frameY="-18" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10243" x="879" y="1764" width="293" height="274" frameX="-53" frameY="-18" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10244" x="1172" y="1764" width="293" height="278" frameX="-53" frameY="-14" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10245" x="1465" y="1764" width="293" height="278" frameX="-53" frameY="-14" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10246" x="1758" y="1764" width="293" height="284" frameX="-53" frameY="-8" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10247" x="2051" y="1764" width="293" height="284" frameX="-53" frameY="-8" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10248" x="2344" y="1764" width="293" height="287" frameX="-53" frameY="-5" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10249" x="2637" y="1764" width="293" height="289" frameX="-53" frameY="-3" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10250" x="2637" y="1764" width="293" height="289" frameX="-53" frameY="-3" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10251" x="2930" y="1764" width="293" height="274" frameX="-53" frameY="-18" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10252" x="3223" y="1764" width="293" height="274" frameX="-53" frameY="-18" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10253" x="1465" y="1764" width="293" height="278" frameX="-53" frameY="-14" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10254" x="3516" y="1764" width="293" height="278" frameX="-53" frameY="-14" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10255" x="2051" y="1764" width="293" height="284" frameX="-53" frameY="-8" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10256" x="3643" y="1467" width="293" height="284" frameX="-53" frameY="-8" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10257" x="0" y="1764" width="293" height="287" frameX="-53" frameY="-5" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10258" x="0" y="2053" width="293" height="289" frameX="-53" frameY="-3" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10259" x="293" y="2053" width="293" height="289" frameX="-53" frameY="-3" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10260" x="3223" y="1764" width="293" height="274" frameX="-53" frameY="-18" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10261" x="586" y="2053" width="293" height="274" frameX="-53" frameY="-18" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10262" x="3516" y="1764" width="293" height="278" frameX="-53" frameY="-14" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10263" x="879" y="2053" width="289" height="288" frameX="-53" frameY="-4" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10264" x="1168" y="2053" width="289" height="291" frameX="-53" frameY="-1" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10265" x="1457" y="2053" width="315" height="272" frameX="-53" frameY="-20" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10266" x="1772" y="2053" width="315" height="272" frameX="-53" frameY="-20" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10267" x="2087" y="2053" width="315" height="260" frameX="-53" frameY="-32" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10268" x="2402" y="2053" width="315" height="260" frameX="-53" frameY="-32" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10269" x="2717" y="2053" width="315" height="267" frameX="-53" frameY="-25" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10270" x="3032" y="2053" width="315" height="267" frameX="-53" frameY="-25" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10271" x="3347" y="2053" width="315" height="273" frameX="-53" frameY="-19" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10272" x="3662" y="2053" width="315" height="273" frameX="-53" frameY="-19" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10273" x="0" y="2344" width="315" height="276" frameX="-53" frameY="-16" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10274" x="0" y="2344" width="315" height="276" frameX="-53" frameY="-16" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10275" x="315" y="2344" width="315" height="262" frameX="-53" frameY="-30" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10276" x="315" y="2344" width="315" height="262" frameX="-53" frameY="-30" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10277" x="3032" y="2053" width="315" height="267" frameX="-53" frameY="-25" frameWidth="368" frameHeight="300"/>
+	<SubTexture name="MIKI DIALOGUE instancia 10278" x="3032" y="2053" width="315" height="267" frameX="-53" frameY="-25" frameWidth="368" frameHeight="300"/>
 </TextureAtlas>
